@@ -15,7 +15,7 @@ I am in the process of completing it and there is a lot of work.
 
  This list is in the stub-zone format of Windows, Linux and BSD compatible unbound software (https://nlnetlabs.nl/projects/unbound/about/).
  
- To configure Unbound according to your needs with several example configurations: https://calomel.org/unbound_dns.html
+ To configure Unbound according to your needs with several examples configurations: https://calomel.org/unbound_dns.html
  
  To save this list in the /etc/unbound folder
 sudo gedit /home/path/to/your brand new stub-zone file and save to /etc/unbound/
