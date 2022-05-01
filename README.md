@@ -18,11 +18,8 @@ I am in the process of completing it and there is a lot of work.
  To configure Unbound according to your needs with several example configurations: https://calomel.org/unbound_dns.html
  
  To save this list in the /etc/unbound folder
- 
 sudo gedit /home/path/to/your brand new stub-zone file and save to /etc/unbound/
-
 open and add towards the end of your file:
-
 include: "/etc/unbound/stub-zone" and save your doc
 
  I recommend that you do a:
@@ -43,7 +40,8 @@ sudo unbound-checkconf /etc/unbound/unbound.conf
 
  Some web pages will go from 10 mb to 1 mb!
 
-I was inspired by the work of these contributors https://github.com/nextdns/cname-cloaking-blocklist.
+I was inspired in part by the work of these contributors https://github.com/nextdns/cname-cloaking-blocklist.
+I use lists available on the web.
 I dug deeper.
  
  This listing in licensed creative commons. You can use it, modify it under the conditions of quoting me and the Creative Commons license.
