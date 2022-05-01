@@ -18,8 +18,11 @@ I am in the process of completing it and there is a lot of work.
  To configure Unbound according to your needs with several example configurations: https://calomel.org/unbound_dns.html
  
  To save this list in the /etc/unbound folder
+ 
 sudo gedit /home/path/to/your brand new stub-zone file and save to /etc/unbound/
+
 open and add towards the end of your file:
+
 include: "/etc/unbound/stub-zone" and save your doc
 
  I recommend that you do a:
