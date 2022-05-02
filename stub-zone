@@ -5,14 +5,17 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 4 061
+# Domains names blocked : 4 911
 #
 ####################################################################################################
 #
-#	177 eulerian domains blocked
+#	178 eulerian domains blocked
 #
 stub-zone:
 	name: "eulerian.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eulerian.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "eulerian.fr."
@@ -535,17 +538,19 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "eulerian.co.il."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #
 #	End of domains eulerian
 #
 #################################################################################################
 #
-#	132 dnsdelegation domains blocked
+#	133 dnsdelegation domains blocked
 #
 stub-zone:	
 	name: "dnsdelegation.ads."
+	stub-addr: 127.0.0.1
+stub-zone:	
+	name: "dnsdelegation.meum."
 	stub-addr: 127.0.0.1
 stub-zone:	
 	name: "dnsdelegation.io."
@@ -945,10 +950,13 @@ stub-zone:
 #
 #################################################################################################	
 #
-#	820 domains a.20mn blocked
+#	821 domains a.20mn blocked
 #
 stub-zone:
 	name: "a.20mn.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a.20mn.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "a.20mn.net."
@@ -3400,17 +3408,19 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "a.20mn.vi."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #	
 #	Ends of domain a.20mn
 #
 ####################################################################################################
 #
-#	141 domains of at-o blocked
+#	142 domains of at-o blocked
 #	
 stub-zone:
 	name: "at-o.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "at-o.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "at-o.com."
@@ -3825,17 +3835,19 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "at-o.tatar."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #
 #	End of domains : at-o
 #
 ###################################################################################################
 #
-#	137 domains keyade blocked
+#	138 domains keyade blocked
 #
 stub-zone:
 	name: "keyade.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "keyade.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "keyade.net."
@@ -4238,17 +4250,19 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "keyade.tatar."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #
 #	End of domains : keyade.com
 #
 ###################################################################################################
 #
-#	155 domains storetail blocked
+#	156 domains storetail blocked
 #
 stub-zone:
 	name: "storetail.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "storetail.com."
@@ -4705,18 +4719,19 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "storetail.co.il."
-	stub-addr: 127.0.0.1
-
-	
+	stub-addr: 127.0.0.1	
 #	
 #	End of domains storetail	
 #	
 ####################################################################################################
 #
-#	134 domains of omtrdc blocked
+#	135 domains of omtrdc blocked
 #	
 stub-zone:
 	name: "omtrdc.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "omtrdc.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "omtrdc.io."
@@ -5111,7 +5126,6 @@ stub-zone:
 stub-zone:
 	name: "omtrdc.so."
 	stub-addr: 127.0.0.1
-
 #
 #	End of domains omtrdc
 #	
@@ -5536,13 +5550,15 @@ stub-zone:
 stub-zone:
 	name: "bp01.id."
 	stub-addr: 127.0.0.1
-
+stub-zone:
+	name: "bp01.meum."
+	stub-addr: 127.0.0.1
 #
 #	End of domains bp01	
 #	
 ####################################################################################################
 #
-#	5 domains of webtrekk
+#	164 domains of webtrekk blocked
 #		
 stub-zone:
 	name: "webtrekk.net."
@@ -5558,14 +5574,487 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "webtrekk.eu."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.be."
 	stub-addr: 127.0.0.1
-
+stub-zone:
+	name: "webtrekk.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.bid."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.medical."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.docs."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.hotels."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.translations."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.lifeinsurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.rsvp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.wang."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.ovh."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.ly."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "webtrekk.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "webtrekk.meum."
+	stub-addr: 127.0.0.1
 #
 #	End of domains webtrekk
 #	
 ####################################################################################################
 #
-#	523 domains of criteo
+#	523 domains of criteo blocked
 #			
 stub-zone:
 	name: "criteo.fr."
@@ -7136,16 +7625,21 @@ stub-zone:
 stub-zone:
 	name: "criteo.eu."
 	stub-addr: 127.0.0.1
-
+stub-zone:
+	name: "criteo.meum."
+	stub-addr: 127.0.0.1
 #	
 #	End of domains criteo
 #	
 ####################################################################################################
 #
-# 5 domains of : brightcove
+#	185 domains brightcove blocked
 #	
 stub-zone:
 	name: "brightcove.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "brightcove.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "brightcove.com."
@@ -7164,14 +7658,538 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "brightcove.eu."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.nl."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.de."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.app."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.info."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.design."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.uk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.live."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.it."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.tv."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.accountant."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.us."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.co.uk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.consulting."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.dev."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.jobs."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.bid."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.ads."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.win."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.lifestyle."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.architect."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.review."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.art."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.cn."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.trade."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.case."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.xyz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.stream."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.safety."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.careers."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.webcam."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.secure."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.spot."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.you."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.now."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.office."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.services."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.web."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.tour."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.safe."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.play."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.pay."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.life."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.date."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.meet."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.booking."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.trust."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.video."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.wow."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.mobile."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.save."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.box."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.hotel."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.music."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.prof."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.men."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.mobily."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.broadway."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.food."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.pets."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.buy."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.medical."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.search."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.sexy."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.racing."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.sports."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.mov."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.fans."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.hot."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.science."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.mobi."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.in."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.cricket."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.kid."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.docs."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.free."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.loan."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.party."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.moscow."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.corp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.coupon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.ren."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.moto."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.home."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.globo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.faith."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.here."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.data."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.day."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.deal."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.eat."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.final."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.fly."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.heart."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.hotels."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.kids."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.living."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.roma."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.meme."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.ecom."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.mail."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.baseball."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.med."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.epost."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.translations."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.phone."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.zip."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.book."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.thai."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.banque."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.esurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.foo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.vuelos."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.co."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.scholarships."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.goo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.idn."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.ca."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.arab."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.autoinsurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.audible."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.cityeats."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.lifeinsurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.mls."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.nowruz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.citic."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.indians."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.persiangulf."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.dad."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.map."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.pars."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.dot."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.rsvp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.shia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.pid."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.bway."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.budapest."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.stockholm."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.boo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.lds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.ira."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.esq."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.com.br."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.wang."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.active."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.llp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.qpon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.comsec."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.kosher."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.dds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.realtor."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.phd."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.cpa."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.ovh."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.catalonia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.latino."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.cx."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.patagonia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.islam."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.mormon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.gs."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.creditunion."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.jp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.kr."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.kz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.lv."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.ly."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.weibo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.halal."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.so."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.tel."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.tickets."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.co.jp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.com.cn."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.org.uk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "brightcove.tatar."
+	stub-addr: 127.0.0.1						
 #
 #	End of domains brightcove
 #
 ####################################################################################################
 #
-# 5 domains of : appnexus
+#	202 domains of appnexus blocked
 #	
 stub-zone:
 	name: "appnexus.net."
@@ -7193,12 +8211,592 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "appnexus.eu."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "appnexus.be."
 	stub-addr: 127.0.0.1
-	
-
+stub-zone:
+	name: "appnexus.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.meum."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "appnexus.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.bod."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.lifestyle."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "appnexus.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.mls."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "appnexus.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.dudapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.br."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "appnexus.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.patagonia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "appnexus.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.weibp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.paris."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.rw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.se."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "appnexus.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.sucks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.ru."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "appnexus.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "appnexus.com.ph."
+	stub-addr: 127.0.0.1
+#	
+#	End of domains appnexus
+#
 ####################################################################################################
 #
-# 5 domains of : taboola
+#	322 domains of taboola blocked
 #	
 stub-zone:
 	name: "taboola.net."
@@ -7218,8 +8816,951 @@ stub-zone:
 stub-zone:
 	name: "taboola.eu."
 	stub-addr: 127.0.0.1
-	
-	
+stub-zone:
+	name: "taboola.com."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "taboola.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ship."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.expert."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "taboola.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.clib."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cool."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.zone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.band."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.buid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.yoga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.school."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.tips."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.dog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.coffe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.vet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.land."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.limited."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.enterprises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.photos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.international."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.contractors."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.football."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.fitness."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.forsale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.legal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.engineering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.energy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.directory."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.adult."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.bz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.autoinsurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "taboola.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.church."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.coqponm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.farm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.eu.com."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "taboola.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.hr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.je."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.jobourg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.properties."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.sex."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.sh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.tel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.uno."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.xxx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.qa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.cn.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.org.uk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "taboola.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "taboola.au."
+	stub-addr: 127.0.0.1
+#
+#	End of domains taboola	
+#	
 ####################################################################################################
 #
 # 5 domains of atinternet
@@ -11690,14 +14231,13 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "data.adobedc.com.ph."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #
 #
 #
 ##################################################################################################
 #
-# 13 Server DNS adobe (hidden) 
+# 13 Server DNS adobe  
 #
 stub-zone:
 	name: "e.gtld-servers.net."
@@ -11737,8 +14277,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "d.gtld-servers.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #
 #	End of domains gtld-servers
 #
@@ -12363,8 +14902,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "trck.a.au."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #
 #	End of domains trck.a
 #
