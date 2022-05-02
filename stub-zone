@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 3 804
+# Domains names blocked : 3 800
 #
 ####################################################################################################
 #
@@ -6909,20 +6909,8 @@ stub-zone:
 #	End of domains wizaly
 ##############################################################################################
 #
-#	128 domains tracedock
+#	124 domains tracedock
 #
-stub-zone:
-	name: "a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com."
-	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "tracedock.com."
 	stub-addr: 127.0.0.1
