@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 3 657
+# Domains names blocked : 3 804
 #
 ####################################################################################################
 #
@@ -945,7 +945,7 @@ stub-zone:
 #
 #################################################################################################	
 #
-#	820 domains a.20mn  
+#	820 domains a.20mn blocked
 #
 stub-zone:
 	name: "a.20mn.fr."
@@ -3407,7 +3407,7 @@ stub-zone:
 #
 ####################################################################################################
 #
-#	141 domains of at-o
+#	141 domains of at-o blocked
 #	
 stub-zone:
 	name: "at-o.biz."
@@ -3832,7 +3832,7 @@ stub-zone:
 #
 ###################################################################################################
 #
-#	137 domains keyade
+#	137 domains keyade blocked
 #
 stub-zone:
 	name: "keyade.com."
@@ -4245,7 +4245,7 @@ stub-zone:
 #
 ###################################################################################################
 #
-#	5 domains storetail
+#	155 domains storetail blocked
 #
 stub-zone:
 	name: "storetail.io."
@@ -4264,8 +4264,453 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "storetail.eu."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "storetail.be."
 	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.mobile."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "storetail.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.bos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.free."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "storetail.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.roma."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "storetail.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.goo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "storetail.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.stockhom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.catalonia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "storetail.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "storetail.co.il."
+	stub-addr: 127.0.0.1
+
 	
+#	
+#	End of domains storetail	
+#	
 ####################################################################################################
 #
 # 5 domains of : omtrdc
