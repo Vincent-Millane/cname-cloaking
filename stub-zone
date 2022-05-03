@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 5 039
+# Domains names blocked : 5 483
 #
 ####################################################################################################
 #
@@ -15295,6 +15295,1355 @@ stub-zone:
 #	End of madmetrics domain
 #
 ###################################################################################################
+#
+#	206 trck.a8 domains blocked
+#
+stub-zone:
+	name: "trck.a8.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.live."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "trck.a8.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.bar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.ng."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trck.a8.au."
+	stub-addr: 127.0.0.1
+#
+#	End trck.a8 domains
+#
+#################################################################################################
+#
+#	243 drawbridge domains blocked
+#
+stub-zone:
+	name: "drawbridge.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.technology."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "drawbridge.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.zone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.litestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.architec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.vegas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cash."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.sport."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.productions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.computer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.vision."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.software."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ldt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.management."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.beoadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.university."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.memorial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.direct."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.partners."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.estate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.financial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.insure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.holdings."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.camp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.finace."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.democrat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.properties."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.republican."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "drawbridge.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "drawbridge.au."
+	stub-addr: 127.0.0.1
+#
+#	End drawbridge domains
+#
+################################################################################################
 #
 #
 #
