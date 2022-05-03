@@ -38,7 +38,7 @@ sudo unbound-checkconf /etc/unbound/unbound.conf
 
  The data in this list is public and accessible to anyone who can use a DNS query tool such as nslookup, dig or drill, etc. and their graphic counterparts.
 
- Some web pages will go from 10 mb to 1 mb!
+ Some web pages will go from 10 mb to 1 mb! (https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/)
 
 I was inspired in part by the work of these contributors https://github.com/nextdns/cname-cloaking-blocklist.
 I use lists available on the web.
