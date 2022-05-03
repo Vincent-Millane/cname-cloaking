@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 4 911
+# Domains names blocked : 5 039
 #
 ####################################################################################################
 #
@@ -540,7 +540,7 @@ stub-zone:
 	name: "eulerian.co.il."
 	stub-addr: 127.0.0.1	
 #
-#	End of domains eulerian
+#	End eulerian domains 
 #
 #################################################################################################
 #
@@ -946,11 +946,11 @@ stub-zone:
 	name: "dnsdelegation.au."
 	stub-addr: 127.0.0.1
 #
-#	End of domains dnsdelegation
+#	End dnsdelegation domains 
 #
 #################################################################################################	
 #
-#	821 domains a.20mn blocked
+#	821 a.20mn domains blocked
 #
 stub-zone:
 	name: "a.20mn.fr."
@@ -3410,11 +3410,11 @@ stub-zone:
 	name: "a.20mn.vi."
 	stub-addr: 127.0.0.1	
 #	
-#	Ends of domain a.20mn
+#	Ends a.20mn domain
 #
 ####################################################################################################
 #
-#	142 domains of at-o blocked
+#	142 at-o domains blocked
 #	
 stub-zone:
 	name: "at-o.biz."
@@ -3837,11 +3837,11 @@ stub-zone:
 	name: "at-o.tatar."
 	stub-addr: 127.0.0.1	
 #
-#	End of domains : at-o
+#	End at-o domains
 #
 ###################################################################################################
 #
-#	138 domains keyade blocked
+#	138 keyade domains blocked
 #
 stub-zone:
 	name: "keyade.com."
@@ -4252,11 +4252,11 @@ stub-zone:
 	name: "keyade.tatar."
 	stub-addr: 127.0.0.1	
 #
-#	End of domains : keyade.com
+#	End keyade domains 
 #
 ###################################################################################################
 #
-#	156 domains storetail blocked
+#	156 storetail domains blocked
 #
 stub-zone:
 	name: "storetail.io."
@@ -4721,11 +4721,11 @@ stub-zone:
 	name: "storetail.co.il."
 	stub-addr: 127.0.0.1	
 #	
-#	End of domains storetail	
+#	End storetail domains 	
 #	
 ####################################################################################################
 #
-#	135 domains of omtrdc blocked
+#	135 omtrdc domains blocked
 #	
 stub-zone:
 	name: "omtrdc.net."
@@ -5127,11 +5127,11 @@ stub-zone:
 	name: "omtrdc.so."
 	stub-addr: 127.0.0.1
 #
-#	End of domains omtrdc
+#	End omtrdc domains 
 #	
 ####################################################################################################
 #
-#	141 domains of bp01 blocked
+#	141 bp01 domains blocked
 #	
 stub-zone:
 	name: "bp01.net."
@@ -5554,11 +5554,11 @@ stub-zone:
 	name: "bp01.meum."
 	stub-addr: 127.0.0.1
 #
-#	End of domains bp01	
+#	End bp01 domains 	
 #	
 ####################################################################################################
 #
-#	164 domains of webtrekk blocked
+#	164 webtrekk domains blocked
 #		
 stub-zone:
 	name: "webtrekk.net."
@@ -6050,11 +6050,11 @@ stub-zone:
 	name: "webtrekk.meum."
 	stub-addr: 127.0.0.1
 #
-#	End of domains webtrekk
+#	End webtrekk domains 
 #	
 ####################################################################################################
 #
-#	523 domains of criteo blocked
+#	523 criteo domains blocked
 #			
 stub-zone:
 	name: "criteo.fr."
@@ -7629,11 +7629,11 @@ stub-zone:
 	name: "criteo.meum."
 	stub-addr: 127.0.0.1
 #	
-#	End of domains criteo
+#	End criteo domains 
 #	
 ####################################################################################################
 #
-#	185 domains brightcove blocked
+#	185 brightcove domains blocked
 #	
 stub-zone:
 	name: "brightcove.net."
@@ -8185,11 +8185,11 @@ stub-zone:
 	name: "brightcove.tatar."
 	stub-addr: 127.0.0.1						
 #
-#	End of domains brightcove
+#	End of brightcove domains 
 #
 ####################################################################################################
 #
-#	202 domains of appnexus blocked
+#	202 of appnexus domains blocked
 #	
 stub-zone:
 	name: "appnexus.net."
@@ -8792,11 +8792,11 @@ stub-zone:
 	name: "appnexus.com.ph."
 	stub-addr: 127.0.0.1
 #	
-#	End of domains appnexus
+#	End of appnexus domains 
 #
 ####################################################################################################
 #
-#	322 domains of taboola blocked
+#	322 of taboola domains blocked
 #	
 stub-zone:
 	name: "taboola.net."
@@ -9759,11 +9759,11 @@ stub-zone:
 	name: "taboola.au."
 	stub-addr: 127.0.0.1
 #
-#	End of domains taboola	
+#	End of taboola domains 	
 #	
 ####################################################################################################
 #
-# 5 domains of atinternet
+#	5 of atinternet domains blocked 
 #		
 stub-zone:
 	name: "atinternet.com."
@@ -9782,14 +9782,13 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "atinternet.eu."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #	
-#	End of domains atinternet
+#	End of atinternet domains 
 #	
 ####################################################################################################
 #
-# 5 domains of : tagcommander
+#	5 of tagcommander domains blocked
 #	
 stub-zone:
 	name: "tagcommander.io."
@@ -9809,9 +9808,12 @@ stub-zone:
 stub-zone:
 	name: "tagcommander.eu."
 	stub-addr: 127.0.0.1	
-	
+#
+#	End of tagcommander domains
+#	
 #########################################################################################
-#	141 domains ; wizaly	
+#
+#	141 wizaly domains blocked 	
 #	
 stub-zone:
 	name: "wizaly.net."
@@ -10229,14 +10231,13 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "wizaly.so."
-	stub-addr: 127.0.0.1
-
-	
+	stub-addr: 127.0.0.1	
 #
-#	End of domains wizaly
+#	End of wizaly domains 
+#
 ##############################################################################################
 #
-#	124 domains tracedock
+#	124 tracedock domains blocked
 #
 stub-zone:
 	name: "tracedock.com."
@@ -10618,14 +10619,13 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "tracedock.so."
-	stub-addr: 127.0.0.1	
-		
+	stub-addr: 127.0.0.1			
 #	
-#	End of domains tracedock
+#	End of tracedock domains 
 #
 ##########################################################################################
 #
-# 153 domains affex
+#	153 affex domains blocked
 #
 stub-zone:
 	name: "affex.org."
@@ -11091,7 +11091,7 @@ stub-zone:
 #
 ##############################################################################################
 #
-#	126 domains wt-eu02	
+#	126 wt-eu02 domains blocked	
 #	
 stub-zone:
 	name: "wt-eu02.com."
@@ -11470,7 +11470,7 @@ stub-zone:
 #
 ############################################################################################
 #
-#	140 domains : oghub
+#	140 oghub domains blocked
 #
 stub-zone:
 	name: "oghub.io."
@@ -11884,11 +11884,11 @@ stub-zone:
 	name: "oghub.tatar."
 	stub-addr: 127.0.0.1
 #
-#	End of domain oghub	
+#	End of oghub domain 	
 #
 #################################################################################################
 #
-#	185 domains : 207
+#	185 207 domains blocked
 #
 stub-zone:
 	name: "207.net."
@@ -12447,11 +12447,11 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of domains 207
+#	End of 207 domains
 #
 ##################################################################################################
 #
-#	593 domains adobedc
+#	593 data.adobedc domains blocked
 #
 stub-zone:
 	name: "data.adobedc.be."
@@ -14233,11 +14233,11 @@ stub-zone:
 	name: "data.adobedc.com.ph."
 	stub-addr: 127.0.0.1	
 #
-#
+#	Ens of data.adobedc domains
 #
 ##################################################################################################
 #
-# 13 Server DNS adobe  
+#	13 gtld-servers domains blocked  
 #
 stub-zone:
 	name: "e.gtld-servers.net."
@@ -14279,11 +14279,11 @@ stub-zone:
 	name: "d.gtld-servers.net."
 	stub-addr: 127.0.0.1	
 #
-#	End of domains gtld-servers
+#	End of gtld-servers domains 
 #
 ###################################################################################################
 #
-#	206 domains trck.a
+#	206 trck.a domains blocked
 #	
 stub-zone:
 	name: "trck.a.be."
@@ -14904,6 +14904,397 @@ stub-zone:
 	name: "trck.a.au."
 	stub-addr: 127.0.0.1	
 #
-#	End of domains trck.a
+#	End of trck.a domains 
 #
 ####################################################################################################
+#
+#	129 madmetrics domaine blocked
+#
+stub-zone:
+	name: "madmetrics.com."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.you."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.now."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.trust."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.wow."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.food."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.pets."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.free."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.moscow."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.meum."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.day."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.deal."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.basebal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.translation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.dad."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.reatoe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.mormon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madmetrics.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madmetrics.so."
+	stub-addr: 127.0.0.1
+#
+#	End of madmetrics domain
+#
+###################################################################################################
+#
+#
+#
