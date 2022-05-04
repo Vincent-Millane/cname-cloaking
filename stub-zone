@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 5 483
+# Domains names blocked : 6 215
 #
 ####################################################################################################
 #
@@ -16642,6 +16642,2216 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End drawbridge domains
+#
+################################################################################################
+#
+#	174 eloqua domains
+#
+stub-zone:
+	name: "eloqua.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.lifestyle."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "eloqua.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.sucks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "eloqua.tatar."
+	stub-addr: 127.0.0.1
+#
+#	End eloqua domains
+#
+#################################################################################################
+#
+#	562 custom domains
+#
+stub-zone:
+	name: "custom.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.design."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "custom.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cool."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.deals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.sale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.amsterdam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.graphics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.zone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.games."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.promo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.clothing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.vacations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.supply."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.shopping."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.kitchen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.flowers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.boats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.autos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.homes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.motorcycles."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.casa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.band."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.beauty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bingo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.casino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.camera."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.show."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.buid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.boutique."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.associates."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tennis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.codes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cheap."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.wiki."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cards."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.diamonds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.school."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tips."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.makeup."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tube."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.careers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.wine."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tours."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.travel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cash."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ventures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.buiders."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.yachts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.town."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.gold."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.black."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.baby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.institute."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.watch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.golf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tax."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.gift."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tatoo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.coffee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.supplies."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.credit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.toys."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.wedding."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cafe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.productions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.menu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.rehab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.land."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.discount."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.solar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.computer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.vision."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.software."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.markets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.vin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.jewelry."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cooking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.management."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.inc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.eco."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.vodka."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.shoes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mibily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.parts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.sports."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "custom.dental."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.limited."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dentist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.restaurant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.creditcard."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.surf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.express."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.enterprises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.memorial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.plumbing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.red."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.glass."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.engineer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.recipes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.photos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fishing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.miami."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.photo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lighting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.limo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.market."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.swiss."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.press."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.luxury."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.rental."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.voyage."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.photography."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.report."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pictures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.partners."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.family."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.furniture."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.international."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.rest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.holiday."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.rip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.estate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pizza."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.industries."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.guitars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.airforce."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.contractors."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.footbal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fitness."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.coupons."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.gallery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cleaning."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.diet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.garden."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.forsale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.gifts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.porn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.loans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.legal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.florist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.floghts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.engineering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.financial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.construction."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.insure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.energy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fund."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.how."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.equipement."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.community."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.house."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cruises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.courses."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.directory."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.host."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.healthcare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hosting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.college."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.camp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.domains."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lining."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.realty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.basebal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.af."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.contact."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.army."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.exchange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.church."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.onl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.realstate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hair."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cologne."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.feedback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.coqponm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.farm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.dating."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.degree."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.frl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.fi."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "custom.fm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ge."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.gay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.credit unions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.jobourg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.kyoto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ly."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "custom.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.moda."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.properties."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.quebec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.re."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.sex."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.sh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ski."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.soy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tires."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.tockyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.uk.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.vn."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "custom.wien."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.xxx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.yokahama."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.za.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.cn.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co.th."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.hk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "custom.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.compare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.gd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.mt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.net.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.ng."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.select."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.skin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.sx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "custom.com.ph."
+	stub-addr: 127.0.0.1
+#
+#	End of custom domains
 #
 ################################################################################################
 #
