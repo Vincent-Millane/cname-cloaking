@@ -45,3 +45,21 @@ I use lists available on the web.
 I dug deeper.
  
  This listing in licensed creative commons. You can use it, modify it under the conditions of quoting me and the Creative Commons license.
+ 
+ <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/Vincent-Millane/cname-cloaking">
+    <span property="dct:title">Vincent Millane</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Sites using cname cloaking to block with unbound</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="FR" about="https://github.com/Vincent-Millane/cname-cloaking">
+  France</span>.
+</p>. Vous trouverez des conseils concernant le marquage des œuvres sur la page http://wiki.creativecommons.org/Marking. Des informations sur le code HTML fourni et les métadonnées peuvent être trouvées sur la page http://wiki.creativecommons.org/CC_REL. Cette assistance par courriel vous a été apporté par l’organisation à but non lucratif Creative Commons. C'est grâce aux dons que CC peut fournir des licences et ce type de service.  Pensez à faire un don lors de notre collecte annuelle: https://creativecommons.net/donate. Merci ! Creative Commons info@creativecommons.org
