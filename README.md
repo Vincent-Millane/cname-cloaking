@@ -62,4 +62,4 @@ This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="FR" about="https://github.com/Vincent-Millane/cname-cloaking">
   France</span>.
-</p>. Vous trouverez des conseils concernant le marquage des œuvres sur la page http://wiki.creativecommons.org/Marking. Des informations sur le code HTML fourni et les métadonnées peuvent être trouvées sur la page http://wiki.creativecommons.org/CC_REL. Cette assistance par courriel vous a été apporté par l’organisation à but non lucratif Creative Commons. C'est grâce aux dons que CC peut fournir des licences et ce type de service.  Pensez à faire un don lors de notre collecte annuelle: https://creativecommons.net/donate. Merci ! Creative Commons info@creativecommons.org
+
