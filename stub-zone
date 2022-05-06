@@ -9,13 +9,10 @@
 #
 ####################################################################################################
 #
-#	178 eulerian domains blocked
+#	177 eulerian domains blocked
 #
 stub-zone:
 	name: "eulerian.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "eulerian.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "eulerian.fr."
@@ -544,13 +541,10 @@ stub-zone:
 #
 #################################################################################################
 #
-#	133 dnsdelegation domains blocked
+#	132 dnsdelegation domains blocked
 #
 stub-zone:	
 	name: "dnsdelegation.ads."
-	stub-addr: 127.0.0.1
-stub-zone:	
-	name: "dnsdelegation.meum."
 	stub-addr: 127.0.0.1
 stub-zone:	
 	name: "dnsdelegation.io."
@@ -950,13 +944,10 @@ stub-zone:
 #
 #################################################################################################	
 #
-#	821 a.20mn domains blocked
+#	820 a.20mn domains blocked
 #
 stub-zone:
 	name: "a.20mn.fr."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "a.20mn.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "a.20mn.net."
@@ -3414,13 +3405,10 @@ stub-zone:
 #
 ####################################################################################################
 #
-#	142 at-o domains blocked
+#	141 at-o domains blocked
 #	
 stub-zone:
 	name: "at-o.biz."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "at-o.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "at-o.com."
@@ -3841,13 +3829,10 @@ stub-zone:
 #
 ###################################################################################################
 #
-#	138 keyade domains blocked
+#	137 keyade domains blocked
 #
 stub-zone:
 	name: "keyade.com."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "keyade.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "keyade.net."
@@ -4256,13 +4241,10 @@ stub-zone:
 #
 ###################################################################################################
 #
-#	156 storetail domains blocked
+#	155 storetail domains blocked
 #
 stub-zone:
 	name: "storetail.io."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "storetail.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "storetail.com."
@@ -4725,13 +4707,10 @@ stub-zone:
 #	
 ####################################################################################################
 #
-#	135 omtrdc domains blocked
+#	134 omtrdc domains blocked
 #	
 stub-zone:
 	name: "omtrdc.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "omtrdc.meum."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "omtrdc.io."
