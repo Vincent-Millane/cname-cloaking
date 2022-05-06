@@ -4,20 +4,22 @@ Sites using cloaking cname to block with unbound
 Cname-cloacking is in violation of European laws (GDPR) and the law in many countries since they hide DNS referrals to the site you are visiting. It is therefore impossible to collect the user's consent for these third-party sites and the immediate effect is that you are tracked on all kinds of sites.
 
 It is a more pernicious method than third-party cookies because it is unspoken and without recourse.
-  
- It's a real gold mine for companies that use this process.
- 
- Would you like to have a spy placed on your shoulder from morning to night to analyze your every movement of the day down to the brand of toilet paper you use?
+It's a real gold mine for companies that use this process.
 
- List of cname-cloaking-blocklist quite detailed and classified by domain name with its extensions.
+Some cname lists that circulate on the internet are very superficial and masked by different acts.
+In fact, an address can hide hundreds of addresses with extensions or referrals to other very interesting addresses.
+ 
+Would you like to have a spy placed on your shoulder from morning to night to analyze your every movement of the day down to the brand of toilet paper you use?
+
+List of cname-cloaking-blocklist quite detailed and classified by domain name with its extensions.
 
 I am in the process of completing it and there is a lot of work.
 
- This list is in the stub-zone format of Windows, Linux and BSD compatible unbound software (https://nlnetlabs.nl/projects/unbound/about/).
+This list is in the stub-zone format of Windows, Linux and BSD compatible unbound software (https://nlnetlabs.nl/projects/unbound/about/).
  
- To configure Unbound according to your needs with several examples configurations: https://calomel.org/unbound_dns.html
+To configure Unbound according to your needs with several examples configurations: https://calomel.org/unbound_dns.html
  
- To save this list in the /etc/unbound folder
+To save this list in the /etc/unbound folder
 sudo gedit /home/path/to/your brand new stub-zone file and save to /etc/unbound/
 open and add towards the end of your file:
 include: "/etc/unbound/stub-zone" and save your doc
