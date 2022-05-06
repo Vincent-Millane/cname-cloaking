@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 6 391
+# Domains names blocked : 6 680
 #
 ####################################################################################################
 #
@@ -19389,6 +19389,894 @@ stub-zone:
 #	End of plausible domains
 #
 ###############################################################################################
+#
+#	1 ghochv3eng.trafficmanager domains 
+#
+stub-zone:
+	name: "ghochv3eng.trafficmanager.net."
+	stub-addr: 127.0.0.1
+#
+# Enf of ghochv3eng.trafficmanager domain
+#
+###################################################################################################
+#
+#	165 trafficmanager domains
+#
+stub-zone:
+	name: "trafficmanager.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.dev."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "trafficmanager.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.dad."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "trafficmanager.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.xxx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trafficmanager.au."
+	stub-addr: 127.0.0.1
+#
+# End of trafficmanager domains
+#
+###############################################################################################
+#
+#	131 ghochv3eng domains 
+#
+stub-zone:
+	name: "ghochv3eng.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.office."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ghochv3eng.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.mobile."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ghochv3eng.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.buy."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ghochv3eng.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.eat."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ghochv3eng.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.esurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ghochv3eng.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.qcholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.pars."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ghochv3eng.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.phd."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ghochv3eng.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ghochv3eng.tatar."
+	stub-addr: 127.0.0.1
+#
+#	End of ghochv3eng domains
+#
+#################################################################################################
 #
 #
 #
