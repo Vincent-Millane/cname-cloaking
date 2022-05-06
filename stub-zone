@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 6 680
+# Domains names blocked : 7 060
 #
 ####################################################################################################
 #
@@ -20277,6 +20277,1160 @@ stub-zone:
 #	End of ghochv3eng domains
 #
 #################################################################################################
+#
+#	161 domains mm.actionlink.jp blocked
+#
+stub-zone:
+	name: "mm.actionlink.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.jp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "actionlink.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.hotel."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "actionlink.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.sport."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.community."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.fo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.goo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "actionlink.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.stoclholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.hosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionlink.au."
+	stub-addr: 127.0.0.1
+#
+#	End of actionlink domains
+#
+#################################################################################################
+#
+#	224 ebis domains blocked
+#
+stub-zone:
+	name: "cname.ebis.ne.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ch."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ebis.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.architec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.lighting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.gmbh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.go."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.audible."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ebis.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.citi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.indian."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.download."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ebis.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.lk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.ng."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.pk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ebis.tatar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ebis.au."
+	stub-addr: 127.0.0.1
+#
+#	End of ebis domains
+#
+################################################################################################
 #
 #
 #
