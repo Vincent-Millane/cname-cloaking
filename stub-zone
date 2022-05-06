@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 6 215
+# Domains names blocked : 6 391
 #
 ####################################################################################################
 #
@@ -18854,6 +18854,541 @@ stub-zone:
 #	End of custom domains
 #
 ################################################################################################
+#
+#	178 plausible domains
+#
+stub-zone:
+	name: "plausible.com."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "plausible.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.soltuions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.jobs."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "plausible.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.bussiness."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.secure spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.sotware."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.pets."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "plausible.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.corps."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.coop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.film."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.audible."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "plausible.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.fileinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.lds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "plausible.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.sl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "plausible.com.cn."
+	stub-addr: 127.0.0.1
+#
+#	End of plausible domains
+#
+###############################################################################################
 #
 #
 #
