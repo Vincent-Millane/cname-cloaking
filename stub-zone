@@ -5,12 +5,31 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 7 060
+# Domains names blocked : 7 277
+# Not included all subdomains
 #
 ####################################################################################################
 #
 #	177 eulerian domains blocked
 #
+stub-zone:
+	name: "ns01.eulerian.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ns03.eulerian.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ns02.eulerian.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ns04.eulerian.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ns2.ipage.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ns1.ipage.com."
+	stub-addr: 127.0.0.1
 stub-zone:
 	name: "eulerian.net."
 	stub-addr: 127.0.0.1
@@ -5538,12 +5557,15 @@ stub-zone:
 ####################################################################################################
 #
 #	164 webtrekk domains blocked
-#		
-stub-zone:
-	name: "webtrekk.net."
-	stub-addr: 127.0.0.1
+#
+
+# Hide 78 subdomains
 stub-zone:
 	name: "webtrekk.com."
+	stub-addr: 127.0.0.1
+		
+stub-zone:
+	name: "webtrekk.net."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "webtrekk.io."
@@ -9769,6 +9791,12 @@ stub-zone:
 #
 #	5 of tagcommander domains blocked
 #	
+
+# Hide 16 subdomains
+stub-zone:
+	name: "commandersact.com."
+	stub-addr: 127.0.0.1
+
 stub-zone:
 	name: "tagcommander.io."
 	stub-addr: 127.0.0.1
@@ -9793,7 +9821,13 @@ stub-zone:
 #########################################################################################
 #
 #	141 wizaly domains blocked 	
-#	
+#
+
+# Hide 48 subdomains
+stub-zone:
+	name: "wizaly.com."
+	stub-addr: 127.0.0.1
+	
 stub-zone:
 	name: "wizaly.net."
 	stub-addr: 127.0.0.1
@@ -9811,9 +9845,6 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "wizaly.eu."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "wizaly.com."
 	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "wizaly.be."
@@ -10218,9 +10249,12 @@ stub-zone:
 #
 #	124 tracedock domains blocked
 #
+
+# Hide 10 subdomains
 stub-zone:
 	name: "tracedock.com."
 	stub-addr: 127.0.0.1
+	
 stub-zone:
 	name: "tracedock.nl."
 	stub-addr: 127.0.0.1
@@ -10606,6 +10640,12 @@ stub-zone:
 #
 #	153 affex domains blocked
 #
+
+# Hide 10 subdomains
+stub-zone:
+	name: "ingenioustechnologies.com."
+	stub-addr: 127.0.0.1
+
 stub-zone:
 	name: "affex.org."
 	stub-addr: 127.0.0.1
@@ -11071,12 +11111,15 @@ stub-zone:
 ##############################################################################################
 #
 #	126 wt-eu02 domains blocked	
-#	
-stub-zone:
-	name: "wt-eu02.com."
-	stub-addr: 127.0.0.1
+#
+
+# Hide 101 subdomains
 stub-zone:
 	name: "wt-eu02.net."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "wt-eu02.com."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "wt-eu02.org."
@@ -11446,6 +11489,691 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of domains wt-eu02
+#
+############################################################################################
+#
+#	226 ottogroup domains blocked
+#
+
+# Hide 2 subdomains
+stub-zone:
+	name: "ottogroup.media."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "ottogroup.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.solutions."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ottogroup.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.shopping."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.career."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.vision."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.press."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.international."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.porn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.hambourg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.holdings."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.delivery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.adult."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.bi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.banque."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ottogroup.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.cm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.do."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.gl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.gay."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ottogroup.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.sex."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.tj."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.xxx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ottogroup.au."
+	stub-addr: 127.0.0.1
+#
+#	End of ottogroup domains
 #
 ############################################################################################
 #
@@ -14216,49 +14944,6 @@ stub-zone:
 #
 ##################################################################################################
 #
-#	13 gtld-servers domains blocked  
-#
-stub-zone:
-	name: "e.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "f.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "m.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "i.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "j.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "b.gtld-servers.net."
-	stub-addr: 127.0.0.1	
-stub-zone:
-	name: "a.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "c.gtld-servers.net."
-	stub-addr: 127.0.0.1	
-stub-zone:
-	name: "k.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "h.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "l.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "g.gtld-servers.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "d.gtld-servers.net."
-	stub-addr: 127.0.0.1	
-#
-#	End of gtld-servers domains 
 #
 ###################################################################################################
 #
@@ -15277,6 +15962,12 @@ stub-zone:
 #
 #	206 trck.a8 domains blocked
 #
+
+# Hide 101 subdomains
+stub-zone:
+	name: "a8.net."
+	stub-addr: 127.0.0.1
+
 stub-zone:
 	name: "trck.a8.com."
 	stub-addr: 127.0.0.1
@@ -20740,9 +21431,12 @@ stub-zone:
 #
 #	224 ebis domains blocked
 #
+
+# Hide 13 suddomains
 stub-zone:
-	name: "cname.ebis.ne.jp."
+	name: "ebis.ne.jp."
 	stub-addr: 127.0.0.1
+	
 stub-zone:
 	name: "ebis.com."
 	stub-addr: 127.0.0.1
@@ -21411,5 +22105,26 @@ stub-zone:
 #
 ################################################################################################
 #
+#	1 adsplyglass
+#
+
+# Hide 15 subdomains	
+stub-zone:
+	name: "adspyglass.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "0i0i0i0.com."
+	stub-addr: 127.0.0.1
+
 #
 #
+#
+##################################################################################################
+#
+#	1 act-one domains blocket
+#
+
+# Hide 17 subdomains
+stub-zone:
+	name: "act-on.com."
+	stub-addr: 127.0.0.1
