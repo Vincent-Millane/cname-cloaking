@@ -1,4 +1,4 @@
-# cname-cloaking
+# Detailed list of sites using cname-cloacking with their extensions
 Sites using cloaking cname to block with unbound
 
 Cname-cloacking is in violation of European laws (GDPR) and the law in many countries since they hide DNS referrals to the site you are visiting. It is therefore impossible to collect the user's consent for these third-party sites and the immediate effect is that you are tracked on all kinds of sites.
