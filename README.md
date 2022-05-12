@@ -49,7 +49,7 @@ I dug deeper.
 You will notice on the chrome browser, it displays more and more white area with dns errors.
 Don't worry, it's a sign that these blocking rules are working properly, but also that companies have moved to trackink images that hide links.
 
-It is useful to realize that behind a .com domain name, for example custom.com, hides 33,243 subdomain names.
+It is useful to realize that behind a .com domain name companies can hide hundreds or thousands of subdomains, for example custom.com hides 33,243 subdomain names.
  
  This listing in licensed creative commons. You can use it, modify it under the conditions of quoting me and the Creative Commons license.
  
