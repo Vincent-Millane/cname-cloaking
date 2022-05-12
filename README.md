@@ -47,7 +47,7 @@ I use lists available on the web.
 I dug deeper.
 
 You will notice on the chrome browser, it displays more and more white area with dns errors.
-Don't worry, it's a sign that these blocking rules are working properly, but also that companies have moved to trackink images.
+Don't worry, it's a sign that these blocking rules are working properly, but also that companies have moved to trackink images that hide links.
  
  This listing in licensed creative commons. You can use it, modify it under the conditions of quoting me and the Creative Commons license.
  
