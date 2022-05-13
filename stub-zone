@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 8 781
+# Domains names blocked : 9 232
 # Not included all subdomains
 #
 #	modified : 13.05.2022
@@ -26839,34 +26839,1388 @@ stub-zone:
 #
 ##################################################################################################
 #
-#	1 fathomdns domains blocked 
+#	130 fathomdns domains blocked 
 #
 stub-zone:
 	name: "fathomdns.com."
 	stub-addr: 127.0.0.1
-
-
+stub-zone:
+	name: "fathomdns.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.now."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "fathomdns.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomdns.so."
+	stub-addr: 127.0.0.1
 #
 #	End of fathomdns domains
 #
 #################################################################################################
 #
-#	2 adcloud domains blocked
+#	186 adcloud domains blocked
 #
 stub-zone:
 	name: "adcloud.jp."
 	stub-addr: 127.0.0.1
-
+stub-zone:
+	name: "adcloud.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.club."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "adcloud.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.soltutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.show."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.translation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.book."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "adcloud.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.nowruz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "adcloud.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.co.in."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "adcloud.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adcloud.org.uk."
+	stub-addr: 127.0.0.1
+#
+#	End of adcloud domains
+#
+##################################################################################################
+#
+#	145  ad-cloud domains bloched
+#	
+	
 #	1 ad-cloud.jp subdomains
 stub-zone:
 	name: "ad-cloud.jp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ad-cloud.com."
 	stub-addr: 127.0.0.1
-
-
-
-
+stub-zone:
+	name: "ad-cloud.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.lifesstyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.box."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ad-cloud.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.tatar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ad-cloud.au."
+	stub-addr: 127.0.0.1
 #
-#	End of ad-cloud.jp domains
+#	End of ad-cloud domains
 #
 ##################################################################################################
 #
