@@ -53,6 +53,12 @@ It is useful to realize that behind a .com domain name companies can hide hundre
 
 For Android devices, there is the application: Blokada downloadable from the F-Droid repository. It is a trusted repository of free software and often of very good quality.
 I have been using Blokada since the beginning of January 2022, it has blocked 252,452 ads or trackers for me since it has an option to activate to block cname trackers. That's an average of 2,019 blocks per day. Very convenient.
+
+
+Note: if someone is willing to translate this document for me into correct English, I would be delighted.
+There you have English "made in Google".
+
+
  
  This listing in licensed creative commons. You can use it, modify it under the conditions of quoting me and the Creative Commons license.
  
