@@ -50,6 +50,9 @@ You will notice on the chrome browser, it displays more and more white area with
 Don't worry, it's a sign that these blocking rules are working properly, but also that companies have moved to trackink images that hide links.
 
 It is useful to realize that behind a .com domain name companies can hide hundreds or thousands of subdomains, for example custom.com hides 33,243 subdomain names.
+
+For Android devices, there is the application: Blokada downloadable from the F-Droid repository. It is a trusted repository of free software and often of very good quality.
+I have been using Blokada since the beginning of January 2022, it has blocked 252,452 ads or trackers for me since it has an option to activate to block cname trackers. That's an average of 2,019 blocks per day. Very convenient.
  
  This listing in licensed creative commons. You can use it, modify it under the conditions of quoting me and the Creative Commons license.
  
