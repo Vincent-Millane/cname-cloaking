@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 8 304
+# Domains names blocked : 8 781
 # Not included all subdomains
 #
 #	modified : 13.05.2022
@@ -17409,7 +17409,7 @@ stub-zone:
 #
 ################################################################################################
 #
-#	174 eloqua domains
+#	174 eloqua domains blocked
 #
 
 # Hide 2 357 subdomains
@@ -17935,7 +17935,7 @@ stub-zone:
 #
 #################################################################################################
 #
-#	562 custom domains
+#	562 custom domains blocked
 #
 
 #	Hide 33 243 custom_com subdomains
@@ -19631,7 +19631,7 @@ stub-zone:
 #
 ################################################################################################
 #
-#	178 plausible domains
+#	178 plausible domains blocked
 #
 
 #	Hide 13 plausible_io subdomains
@@ -20705,7 +20705,7 @@ stub-zone:
 #
 ###################################################################################################
 #
-#	165 trafficmanager domains
+#	165 trafficmanager domains blocked
 #
 
 # Hide 46 558 trafficmanager_net subdomains
@@ -21205,7 +21205,7 @@ stub-zone:
 #
 ###############################################################################################
 #
-#	131 ghochv3eng domains 
+#	131 ghochv3eng domains blocked
 #
 stub-zone:
 	name: "ghochv3eng.ads."
@@ -21590,7 +21590,7 @@ stub-zone:
 #
 #################################################################################################
 #
-#	161 domains actionlink blocked
+#	161  actionlink domains blocked
 #
 
 #	Hide 767 action_link subdomains
@@ -25347,7 +25347,7 @@ stub-zone:
 #
 ##################################################################################################
 #
-#	13 thirdparty domains blocked
+#	235 thirdparty domains blocked
 #
 
 #	Hide 152 thirdparty_com subdomains
@@ -25379,38 +25379,1479 @@ stub-zone:
 stub-zone:
 	name: "thirdparty.bnc.lt."
 	stub-addr: 127.0.0.1
-
+		
+stub-zone:
+	name: "thirdparty.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.architec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.insurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.wiki."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cards."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.vote."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.dentist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.market."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.repair."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.partners."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.insure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.host."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.eat."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "thirdparty.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.onl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.shia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "thirdparty.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.feedback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.creditunion."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "thirdparty.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.com.bd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.ng."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.org.uk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "thirdparty.tatar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "thirdparty.au."
+	stub-addr: 127.0.0.1
 #
 #	End of thirdparty domains
 #
 ###################################################################################################
 #
-#	1 dataunlocker.com domains blocked
+#	130 dataunlocker domains blocked
 #
 
 #	Hide 13 subdomains
 stub-zone:
 	name: "dataunlocker.com."
 	stub-addr: 127.0.0.1
-
+	
+stub-zone:
+	name: "dataunlocker.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.architec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.office."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "dataunlocker.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.buy."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "dataunlocker.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.mail."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "dataunlocker.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.pars."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "dataunlocker.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.creditunion."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "dataunlocker.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.ryukyu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "dataunlocker.so."
+	stub-addr: 127.0.0.1
 #
 #	End of dataunlocker domains
 #
 ##################################################################################################
 #
-#	1 fathomdns.com domains blocked 
+#	132 fathomhq domains blocked 
 #
 
-#	Hide 4 fathomhq.com subdomains
+#	Hide 4 fathomhq_com subdomains
 stub-zone:
 	name: "fathomhq.com."
 	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "fathomhq.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.sport."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "fathomhq.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.data."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "fathomhq.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "fathomhq.so."
+	stub-addr: 127.0.0.1
+#
+#	End of fathomhq domains
+#
+##################################################################################################
+#
+#	1 fathomdns domains blocked 
+#
+stub-zone:
+	name: "fathomdns.com."
+	stub-addr: 127.0.0.1
+
+
 #
 #	End of fathomdns domains
 #
 #################################################################################################
 #
-#	2 adcloud.jp domains blocked
+#	2 adcloud domains blocked
 #
 stub-zone:
 	name: "adcloud.jp."
@@ -25420,6 +26861,10 @@ stub-zone:
 stub-zone:
 	name: "ad-cloud.jp."
 	stub-addr: 127.0.0.1
+
+
+
+
 #
 #	End of ad-cloud.jp domains
 #
@@ -25430,6 +26875,10 @@ stub-zone:
 stub-zone:
 	name: "PostafiliatePro.com."
 	stub-addr: 127.0.0.1
+
+
+
+
 
 #
 #	End of PostafiliatePro domains
@@ -25444,6 +26893,14 @@ stub-zone:
 	name: "pardot.com."
 	stub-addr: 127.0.0.1
 
+
+
+
+
+
+
+
+
 #
 #	End of pardot domains
 #
@@ -25456,6 +26913,10 @@ stub-zone:
 stub-zone:
 	name: "intent.com."
 	stub-addr: 127.0.0.1
+
+
+
+
 #
 #	End of intend domains
 #
@@ -25468,6 +26929,11 @@ stub-zone:
 stub-zone:
 	name: "segment.com."
 	stub-addr: 127.0.0.1
+	
+	
+
+
+
 
 #
 #	End of segment domains
@@ -25479,6 +26945,9 @@ stub-zone:
 stub-zone:
 	name: "truedata.com."
 	stub-addr: 127.0.0.1
+	
+	
+	
 	
 #
 # 	End of truedata domains
@@ -25492,6 +26961,9 @@ stub-zone:
 stub-zone:
 	name: "towerdata.com."
 	stub-addr: 127.0.0.1
+	
+	
+	
 	
 #
 #	End of towerdata domains
@@ -25510,6 +26982,10 @@ stub-zone:
 	name: "bridgecorp.com."
 	stub-addr: 127.0.0.1
 	
+	
+
+
+
 #
 #	End of bridgecorp domains
 #
@@ -25526,6 +27002,11 @@ stub-zone:
 stub-zone:
 	name: "tapad.net."
 	stub-addr: 127.0.0.1
+	
+
+
+
+
 
 #
 #	End of tapad domains
@@ -25534,3 +27015,7 @@ stub-zone:
 #
 #	1  domains blocked
 #
+
+
+	
+		
