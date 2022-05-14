@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 9 354
+# Domains names blocked : 9 858
 # Not included all subdomains
 #
 #	modified : 14.05.2022 	- my french touch -
@@ -28600,38 +28600,1539 @@ stub-zone:
 #
 ##################################################################################################
 #
-#	1 pardot domains blocked
+#	178 pardot domains blocked
 #
 
-# Hide 26 pardot subdomains 
+# Hide 323 pardot subdomains 
 stub-zone:
 	name: "pardot.com."
 	stub-addr: 127.0.0.1
 
-
-
-
-
-
-
-
-
+stub-zone:
+	name: "pardot.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.new."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pardot.org.uk."
+	stub-addr: 127.0.0.1
 #
 #	End of pardot domains
 #
 ################################################################################################
 #
-#	1 intent domains blocked
+#	333 intent domains blocked
 #
 
-#	Hide 19 intent subdomains
+#	Hide 4 339 intent subdomains
 stub-zone:
 	name: "intent.com."
 	stub-addr: 127.0.0.1
-
-
-
-
+	
+stub-zone:
+	name: "intent.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.grapgics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.gk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.bio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.supply."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.shopping."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.berlin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.build."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.associates."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.codes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.wiki."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.bet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.tips."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.watch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.coffe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.trust."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "intent.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.jewelry."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.eco."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.sport."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.sports."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "intent.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.photography."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.family."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.wtf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.gives."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.legal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.immobilien."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.insure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.holdings."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.fund."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.film."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.equipment."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.house."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cruises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.host."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.camp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.as."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.exchange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.rscp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.esq."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "intent.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.farm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.do."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.hr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.creditunions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.mk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.pw."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "intent.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.uk.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ac."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "intent.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.co.th."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.tatar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intent.au."
+	stub-addr: 127.0.0.1
 #
 #	End of intend domains
 #
@@ -28640,7 +30141,7 @@ stub-zone:
 #	1 Segment domains blocked
 #
 
-#	Hide 45 Segment subdomains
+#	Hide 1 169 segment subdomains
 stub-zone:
 	name: "segment.com."
 	stub-addr: 127.0.0.1
