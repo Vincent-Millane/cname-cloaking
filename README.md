@@ -47,7 +47,7 @@ To save this list in the /etc/unbound folder
 
     sudo gedit /home/path/to/your brand new stub-zone_file
 
-and save to /etc/unbound/
+and save to /etc/unbound/ directory
 open your configuration file
 
     sudo gedit /etc/unbound/unbound.conf 
