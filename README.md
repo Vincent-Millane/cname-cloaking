@@ -2,7 +2,7 @@
 
 __Sites using stalkers disguise with cname, a method to block them with Unbound__
 
-***
+
 
 ## Why ?
 Cname-cloacking is in violation of European laws (GDPR) and the law in many countries since they hide DNS referrals to the site you are visiting. It is therefore impossible to collect the user's consent for these third-party sites and the immediate effect is that you are tracked on all kinds of sites.
@@ -15,7 +15,7 @@ In fact, an address can hide hundreds of addresses with extensions or referrals 
  
 Would you like to have a spy placed on your shoulder from morning to night to analyze your every movement of the day down to the brand of toilet paper you use?
 
-***
+
 
 ## Method of working
 
@@ -25,7 +25,7 @@ I am in the process of completing it and there is a lot of work.
 
 It is useful to realize that behind a .com domain name companies can hide hundreds or thousands of subdomains, for example __custom.com hides 33,243 subdomain names__. Blocking by domain name extensions makes perfect sense.
 
-***
+
 
 ## Install Recursive Cache DNS Server
 
@@ -71,7 +71,7 @@ and your anti-tracker list is operational immediately. It's normal if your web s
 You will notice on the chrome browser, it displays more and more white area with dns errors.
 Don't worry, it's a sign that these blocking rules are working properly, but also that companies have moved to trackink images that hide links.
 
-***
+
 
 ## About this data
 
@@ -85,7 +85,7 @@ I dug deeper.
 
 Feel free to share with me if you know of other sites, I will update my stub-zone.
 
-***
+
 
 ## For Android devices
 
@@ -94,14 +94,14 @@ There is the application: __Blokada__ downloadable from the F-Droid repository. 
 
 I have been using __Blokada__ since the beginning of January 2022, it has blocked 252,452 ads or trackers for me since. It has an option to activate to block cname trackers. That's an average of 2,019 blocks per day. Very convenient.
 
-***
+
 
 ## Maybe I need help
 
 Note: if someone is willing to translate this document for me into correct English, I would be delighted.
 There you have English "made in Google".
 
-***
+
 
 ## License
 
