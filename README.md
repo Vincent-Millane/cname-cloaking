@@ -55,7 +55,9 @@ open your configuration file
 
 and add towards the end of your file:
 
-> include: "/etc/unbound/stub-zone" and save your file
+> include: "/etc/unbound/stub-zone" 
+
+and save your file.
 
 I recommend that you do a:
 
