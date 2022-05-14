@@ -10,6 +10,8 @@ Cname-cloacking is in violation of European laws (GDPR) and the law in many coun
 It is a more pernicious method than third-party cookies because it is unspoken and without recourse.
 It's a real gold mine for companies that use this process.
 
+These companies can keep your data as long as they want since this data does not officially exist. It could be our whole life.
+
 Some cname lists that circulate on the internet are very superficial and masked by different acts.
 In fact, an address can hide hundreds of addresses with extensions or referrals to other very interesting addresses.
  
