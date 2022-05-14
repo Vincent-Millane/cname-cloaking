@@ -5,10 +5,10 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 9 232
+# Domains names blocked : 9 354
 # Not included all subdomains
 #
-#	modified : 13.05.2022 	- my french touch -
+#	modified : 14.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -28224,16 +28224,377 @@ stub-zone:
 #
 ##################################################################################################
 #
-#	1  PostafiliatePro domains bloched
+#	125  PostafiliatePro domains bloched
 #
 stub-zone:
 	name: "PostafiliatePro.com."
 	stub-addr: 127.0.0.1
-
-
-
-
-
+stub-zone:
+	name: "PostafiliatePro.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.trust."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "PostafiliatePro.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.mov."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "PostafiliatePro.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.zip."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "PostafiliatePro.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.lds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "PostafiliatePro.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "PostafiliatePro.so."
+	stub-addr: 127.0.0.1
 #
 #	End of PostafiliatePro domains
 #
