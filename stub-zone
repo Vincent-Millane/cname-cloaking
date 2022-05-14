@@ -5,7 +5,7 @@
 # restart unbound
 # 	sudo systemctl restart unbound
 #
-# Domains names blocked : 9 858
+# Domains names blocked : 10 154
 # Not included all subdomains
 #
 #	modified : 14.05.2022 	- my french touch -
@@ -30138,7 +30138,7 @@ stub-zone:
 #
 ##################################################################################################
 #
-#	1 Segment domains blocked
+#	299 Segment domains blocked
 #
 
 #	Hide 1 169 segment subdomains
@@ -30146,11 +30146,894 @@ stub-zone:
 	name: "segment.com."
 	stub-addr: 127.0.0.1
 	
-	
-
-
-
-
+stub-zone:
+	name: "segment.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.fr."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "segment.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.supply."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.build."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.tips."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.software."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.management."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.market."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.report."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.engineering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.exposed."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.forum."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.finance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "segment.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.istanbul."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.al."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ge."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.hr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.jobourg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.re."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.uk.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.uno."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.za.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.select."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "segment.au."
+	stub-addr: 127.0.0.1
 #
 #	End of segment domains
 #
