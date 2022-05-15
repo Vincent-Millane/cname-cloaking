@@ -4,7 +4,7 @@
 #
 # Number of web addresses blocked : 10 780
 #
-# Not included all subdomains
+# Subdomains that are systematically included in the blocking are not counted
 #
 #	modified : 15.05.2022 	- my french touch -
 #
