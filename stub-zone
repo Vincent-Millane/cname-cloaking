@@ -1,14 +1,12 @@
-# Save this list in your unbound directory 
-# and add 
-# 	include: "/etc/unbound/stub-zone" 
-# to your /etc/unbound/unbound.conf
-# restart unbound
-# 	sudo systemctl restart unbound
+# See the readme before.
 #
-# Domains names blocked : 10 154
+# Number of domains concerned : 52
+#
+# Number of web addresses blocked : 10 780
+#
 # Not included all subdomains
 #
-#	modified : 14.05.2022 	- my french touch -
+#	modified : 15.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -31039,82 +31037,1942 @@ stub-zone:
 #
 ##################################################################################################
 #
-#	1 truedata domains blocked
+#	193 truedata domains blocked
 #
 stub-zone:
 	name: "truedata.com."
 	stub-addr: 127.0.0.1
-	
-	
-	
-	
+stub-zone:
+	name: "truedata.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.world."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "truedata.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.go."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.weibo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "truedata.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.com.au."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "truedata.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.com.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.cy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "truedata.au."
+	stub-addr: 127.0.0.1
 #
 # 	End of truedata domains
 #
 #################################################################################################
 #
-#	1 towerdata domains blocked
+#	143 towerdata domains blocked
 #	
 
-# Hide 13 subdomains
+# Hide 54 subdomains
 stub-zone:
 	name: "towerdata.com."
 	stub-addr: 127.0.0.1
-	
-	
-	
-	
+stub-zone:
+	name: "towerdata.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.broasdway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.cpa."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "towerdata.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "towerdata.au."
+	stub-addr: 127.0.0.1
 #
 #	End of towerdata domains
 #
 #################################################################################################
 #
-#	2 bridgecorp domains blocked
+#	143 bridgecorp domains blocked
 #
 
-#	Hide 6 bridgecorp subdomains	
+#	Hide 14 bridgecorp subdomains	
 stub-zone:
 	name: "bridgecorp.net."
 	stub-addr: 127.0.0.1
-	
+
+#	Hide 163 bridgecorp subdomains	
 stub-zone:
 	name: "bridgecorp.com."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "bridgecorp.eu."
 	stub-addr: 127.0.0.1
-	
-	
+stub-zone:
+	name: "bridgecorp.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.xyz."
+	stub-addr: 127.0.0.1
 
-
-
+stub-zone:
+	name: "bridgecorp.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "bridgecorp.tatar."
+	stub-addr: 127.0.0.1
 #
 #	End of bridgecorp domains
 #
 ###################################################################################################
 #
-#	2 tapad domains blocked
+#	165 tapad domains blocked
 #
 
-#	Hide 19 tapad subdomains	
+#	Hide 337 tapad subdomains	
 stub-zone:
 	name: "tapad.com."
 	stub-addr: 127.0.0.1
 	
 stub-zone:
 	name: "tapad.net."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "tapad.be."
 	stub-addr: 127.0.0.1
-	
-
-
-
-
-
+stub-zone:
+	name: "tapad.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.health."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.dds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "tapad.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "tapad.im."
+	stub-addr: 127.0.0.1
 #
 #	End of tapad domains
 #
 ##################################################################################################
 #
-#	1  domains blocked
+#	
 #
-
-
-	
-		
