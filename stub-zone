@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 52
+# Number of domains concerned : 53
 #
-# Number of web addresses blocked : 10 780
+# Number of web addresses blocked : 11 003
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -32974,5 +32974,683 @@ stub-zone:
 #
 ##################################################################################################
 #
-#	
+#	227 starman domains blocked
 #
+
+#	Hide 287 starman_com subdomains
+stub-zone:
+	name: "starman.com."
+	stub-addr: 127.0.0.1
+	
+#	Hide 287 starman_net subdomains
+stub-zone:
+	name: "starman.net."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "starman.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.games."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cash."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ventures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.land."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.movie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.gallery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.zip."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "starman.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.hu."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "starman.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.properties."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.sucks."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "starman.uno."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.cp.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.tatar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "starman.com.ph."
+	stub-addr: 127.0.0.1
+#
+#	End of starman domains
+#
+###################################################################################################
