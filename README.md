@@ -98,7 +98,7 @@ Feel free to share with me if you know of other sites, I will update my stub-zon
 
 ## For Android devices
 
-There is the application: __Blokada__ downloadable from the F-Droid repository. It is a trusted repository of free software and often of very good quality.
+There is the application: __Blokada__ downloadable from the F-Droid repository (https://f-droid.org/). It is a trusted repository of free software and often of very good quality.
 
 
 I have been using __Blokada__ since the beginning of January 2022, it has blocked 252,452 ads or trackers for me since. It has an option to activate to block cname trackers. That's an average of 2,019 blocks per day. Very convenient.
