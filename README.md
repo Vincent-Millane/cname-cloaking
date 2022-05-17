@@ -110,6 +110,9 @@ I have been using __Blokada__ since the beginning of January 2022, it has blocke
 Note: if someone is willing to translate this document for me into correct English, I would be delighted.
 There you have English "made in Google".
 
+## To do
++ Update this list
++ Make a raw list
 
 
 ## License
