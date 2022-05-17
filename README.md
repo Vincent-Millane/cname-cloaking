@@ -107,8 +107,9 @@ I have been using __Blokada__ since the beginning of January 2022, it has blocke
 
 ## Maybe I need help
 
-Note: if someone is willing to translate this document for me into correct English, I would be delighted.
+* If someone is willing to translate this document for me into correct English, I would be delighted.
 There you have English "made in Google".
+* You use another DNS server and you want your contributions to cname blocking? You belong here.
 
 ## To do
 + Update this list
