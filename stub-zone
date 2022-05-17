@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 57
+# Number of domains concerned : 58
 #
-# Number of web addresses blocked : 11 608
+# Number of web addresses blocked : 11 749
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -35490,4 +35490,437 @@ stub-zone:
 #	End of actonsoftware domain
 #
 ###################################################################################################
-	
+#
+#	143	addresses of the domain actionservice are blocked
+#	
+
+stub-zone:
+	name: "actionservice.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.molile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.shorlarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.baway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.mormon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "actionservice.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actionservice.so."
+	stub-addr: 127.0.0.1
+#
+#	End of actionservice domain
+#
+##################################################################################################
+
+
+
