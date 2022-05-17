@@ -2,11 +2,11 @@
 #
 # Number of domains concerned : 57
 #
-# Number of web addresses blocked : 11 471
+# Number of web addresses blocked : 11 608
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 16.05.2022 	- my french touch -
+#	modified : 17.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -35057,7 +35057,7 @@ stub-zone:
 #
 ################################################################################################
 #
-#	2 addresses of the domain actonsoftware are blocked
+#	143 addresses of the domain actonsoftware are blocked
 #
 
 #	Hide 2 948 actonservice_com subdomains
@@ -35069,4 +35069,425 @@ stub-zone:
 	name: "actonsoftware.net."
 	stub-addr: 127.0.0.1
 	
+stub-zone:
+	name: "actonsoftware.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.bax."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.dudapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "actonsoftware.sucks."
+	stub-addr: 127.0.0.1
+#
+#	End of actonsoftware domain
+#
+###################################################################################################
 	
