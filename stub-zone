@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 58
+# Number of domains concerned : 59
 #
-# Number of web addresses blocked : 11 749
+# Number of web addresses blocked : 11 909
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -35921,6 +35921,493 @@ stub-zone:
 #	End of actionservice domain
 #
 ##################################################################################################
+#
+#	163 addresses of the domain extole are blocked
+#
 
-
-
+#	Hide 20 366 extole_com subdomains
+stub-zone:
+	name: "extole.com."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "extole.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.stochholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "extole.com.cn."
+	stub-addr: 127.0.0.1
+#
+#	End of extole domain
+#
+###################################################################################################
