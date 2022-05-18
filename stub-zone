@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 61
+# Number of domains concerned : 64
 #
-# Number of web addresses blocked : 12 169
+# Number of web addresses blocked : 12 810
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -37208,5 +37208,1953 @@ stub-zone:
 #	End of smetrics domain
 #
 ###################################################################################################
+#
+#	154 addresses of the domain intentmedia are blocked
+#
+stub-zone:
+	name: "intentmedia.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.io."
+	stub-addr: 127.0.0.1
 
+stub-zone:
+	name: "intentmedia.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.foog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.insurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "intentmedia.pk."
+	stub-addr: 127.0.0.1
+#
+#	End of intenmedia domains
+#
+###################################################################################################
+#
+#	363 addresses of the domain cnt are blocked
+#
+
+#	Hide 378 cnt_net subdomains
+stub-zone:
+	name: "cnt.net."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "cnt.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.coappm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cloude."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.sale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.games."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.game."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.barcelona."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.flowers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.clicl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.casa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.buid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.school."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tube."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.christmas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.luxe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.black."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tax."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tatoo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.wedding."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cafe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.medu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.coocking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.surf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.express."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.miami."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.photo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.press."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.pictures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.holiday."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.indistries."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.guitars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.al."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.trasnlations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.bf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.bh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.blackfriday."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.br.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.bz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.edn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ci."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cl."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "cnt.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.bivle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.feedback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.mx."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "cnt.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.dz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.gal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.hr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.lk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.lv."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "cnt.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.md."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.one."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "cnt.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.re."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.st."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.sydney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.td."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.uno."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.xxx."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "cnt.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.cv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co.th."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.mm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.compare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.rugby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.select."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cnt.org.ph."
+	stub-addr: 127.0.0.1
+#
+#	End og cnt domain
+#
+#####################################################################################################
+#
+#	132 addresses of the domain 2cnt are blocked
+#
+
+stub-zone:
+	name: "2cnt.net."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "2cnt.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.haert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "2cnt.tatar."
+	stub-addr: 127.0.0.1
+#
+#	End of 2cnt domain
+#
+#################################################################################################
 
