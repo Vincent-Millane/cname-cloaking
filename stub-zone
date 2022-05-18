@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 59
+# Number of domains concerned : 60
 #
-# Number of web addresses blocked : 11 909
+# Number of web addresses blocked : 12 039
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 17.05.2022 	- my french touch -
+#	modified : 18.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -36411,3 +36411,400 @@ stub-zone:
 #	End of extole domain
 #
 ###################################################################################################
+#
+#	132 addresses of the domain sp-prod are blocked
+#
+stub-zone:
+	name: "sp-prod.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.patagonia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "sp-prod.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "sp-prod.so."
+	stub-addr: 127.0.0.1
+#
+#	End of sp-prod domain
+#
+##################################################################################################
