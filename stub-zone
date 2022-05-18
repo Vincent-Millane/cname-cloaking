@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 60
+# Number of domains concerned : 61
 #
-# Number of web addresses blocked : 12 039
+# Number of web addresses blocked : 12 169
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -36808,3 +36808,405 @@ stub-zone:
 #	End of sp-prod domain
 #
 ##################################################################################################
+#
+#	132 addresses of the domain smetrics are blocked
+#
+
+#	Hide 920 smetrics_com subdomains
+stub-zone:
+	name: "smetrics.com."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "smetrics.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.budapest."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "smetrics.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "smetrics.so."
+	stub-addr: 127.0.0.1
+#
+#	End of smetrics domain
+#
+###################################################################################################
+
+
