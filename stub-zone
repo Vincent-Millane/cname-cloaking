@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 66
+# Number of domains concerned : 67
 #
-# Number of web addresses blocked : 13 162
+# Number of web addresses blocked : 13 838
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -40227,3 +40227,2042 @@ stub-zone:
 #	End of nc0 domain
 #
 ##################################################################################################
+#
+#	804 addresses of the domain ads are blocked
+#
+
+#	Hide 89 ads_bid subdomains
+stub-zone:
+	name: "ads.bid."
+	stub-addr: 127.0.0.1
+	
+#	Hide 100 ads_com subdomains
+stub-zone:
+	name: "ads.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.immo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cool."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.deals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.amsterdam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.graphics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.zone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.games."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.promo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.clothing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vacations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.game."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.supply."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.shopping."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kitchen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.flowers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.boats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.autos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.homes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.motorcycles."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.casa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.band."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.beauty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.auction."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ceo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.berlin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.casino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.camera."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.show."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.build."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.boutique."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.accountants."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.associates."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.code."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cheap."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.wiki."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.yoga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cards."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.diamonds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.school."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tips."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.makeup."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vegas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tuve."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.careers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.christmas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.wine."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tours."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.travel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.luxe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ventures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.builders."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.yachts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.soccer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gold."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.black."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.baby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.institute."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.watch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tax."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gift."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tatoo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.coffee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.supplies."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dj."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.health."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lease."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.toys."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.wedding."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cafe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.productions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.menu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rehab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.land."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.discount."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.solar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.spa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.computer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vision."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sofware."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.markets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.new."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.taxi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ltd."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ads.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.jewelry."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.coocking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kiwi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.management."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vote."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.eco."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vodka."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.parts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dental."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.university."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.villas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.limited."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.surgery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dentist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rent."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.clinic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.restaurant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.creditcard."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.surf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.express."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.enterprises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.memorial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.direct."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.plumbing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.red."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.glass."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.engineer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.photos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fishing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.miami."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.photo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ligting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.market."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.swiss."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.poker."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.press."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.luxury."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rentals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.repair."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.photography."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.report."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pictures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.partners."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.family."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.furniture."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.wtf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.international."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lawyer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.moe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.estate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pizza."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.industries."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ads.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.contractors."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.football."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gives."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fitness."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.coupons."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gallery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cleany."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.diet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.garden."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.horse."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.forsale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gifts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.porn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.loans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.legal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.florist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.flights."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.irsih."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.engineering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.financial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.immobilien."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.constrction."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.investments."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gripe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.green."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gratis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hamburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.energy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fund."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.film."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.how."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.law."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.equipment."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.community."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.house."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.exposed."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cruises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.courses."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.directory."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.host."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.delivery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.healthcare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.college."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cap."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.domains."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fish."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gmbh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.corsica."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.realty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.catering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.adult."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.actor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.aero."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.istanbul."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.af."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.al."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.apartments."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.contact."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.archi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.army."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.as."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.am."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bargains."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.attorney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.az."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ads.ba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.exchange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.blackfriday."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.broker."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.church."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.onl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ci."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.scot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.realestate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hair."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.co.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cologne."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.feedback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.farm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.py."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.condos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cymru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dating."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.democrat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.desi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.do."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.dz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.eus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.fm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ge."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gs."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ads.gy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.abogado."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.jetzt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kaufen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kim."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.krd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lgbt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ads.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.md."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.melbourne."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.moda."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ms."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.nagoya."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.nrw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.properties."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pw."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ads.quebec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.re."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.reise."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.reisen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.republican."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rodeo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sarl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.schule."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sex."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.shiksha."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.shi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.soy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.st."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sucks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sydney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tires."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tj."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.uno."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ads.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.wales."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.whoswho."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.yokohama."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.za.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.qa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ac."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cn.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.co.in."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "ads.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.co.th."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.gh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.mm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.compare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.cy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.gd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.lc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.mt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.net.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.ng."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.rugby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.select."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.skin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.sx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.com.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ads.vi."
+	stub-addr: 127.0.0.1
+#
+#	End of ads domain
+#
+###################################################################################################
