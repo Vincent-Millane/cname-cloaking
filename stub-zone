@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 64
+# Number of domains concerned : 66
 #
-# Number of web addresses blocked : 12 810
+# Number of web addresses blocked : 13 162
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -39157,4 +39157,1073 @@ stub-zone:
 #	End of 2cnt domain
 #
 #################################################################################################
-
+#
+#	141 addresses of the domain clickaine are blocked
+#
+stub-zone:
+	name: "clickaine.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.yoga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.translation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.stochholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.active."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "clickaine.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clickaine.pk."
+	stub-addr: 127.0.0.1
+#
+#	End of clickaine domain
+#
+##################################################################################################
+#
+#	220 addresses of the domain nc0 are blocked
+#
+stub-zone:
+	name: "nc0.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.bingo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.show."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.build."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.boutique."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.tennis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.wine."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.tours."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.movie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.plumbing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.red."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.photography."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.fitness."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.gifts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.irish."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.house."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.courses."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.here."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "nc0.claims."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.camp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.apartments."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.captetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.bible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.feedback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.comsec."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "nc0.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.gl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.krd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.mu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.republican."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.za.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.compare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.rugby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "nc0.select."
+	stub-addr: 127.0.0.1
+#
+#	End of nc0 domain
+#
+##################################################################################################
