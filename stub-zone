@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 67
+# Number of domains concerned : 69
 #
-# Number of web addresses blocked : 13 838
+# Number of web addresses blocked : 14 104
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 19.05.2022 	- my french touch -
+#	modified : 20.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -42266,3 +42266,820 @@ stub-zone:
 #	End of ads domain
 #
 ###################################################################################################
+#
+#	133 addresses of the domain b-cdn are blocked
+#
+
+#	Hide 100 b-cdn_net subdomains
+stub-zone:
+	name: "b-cdn.net."
+	stub-addr: 127.0.0.1
+	
+#	Hide 82 b-cdn_com subdomains
+stub-zone:
+	name: "b-cdn.com."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "b-cdn.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.cx."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "b-cdn.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "b-cdn.so."
+	stub-addr: 127.0.0.1
+#
+#	Enf of b-cdn domain
+#
+##################################################################################################
+#
+#	133 addresses of the domain ab1n are blocked
+#
+stub-zone:
+	name: "ab1n.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.viajes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ab1n.id."
+	stub-addr: 127.0.0.1
+#
+#	End of ab1n domain
+#
+##################################################################################################
