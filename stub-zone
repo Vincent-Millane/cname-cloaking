@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 69
+# Number of domains concerned : 70
 #
-# Number of web addresses blocked : 14 104
+# Number of web addresses blocked : 14 245
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -43083,3 +43083,436 @@ stub-zone:
 #	End of ab1n domain
 #
 ##################################################################################################
+#
+#	141 addresses of the domain parsely are blocked
+#
+
+#	Hide 268 parsely_com subdomains
+stub-zone:
+	name: "parsely.com."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "parsely.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.health."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.foog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.rsvp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "parsely.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.realty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ht."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "parsely.ng."
+	stub-addr: 127.0.0.1
+#
+#	End of parsely domain
+#
+###################################################################################################
