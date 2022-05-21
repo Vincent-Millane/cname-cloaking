@@ -113,7 +113,7 @@ There you have English "made in Google".
 
 ## To do
 + Update this list
-+ Make a raw list
++ update the plain text list
 
 
 ## License
