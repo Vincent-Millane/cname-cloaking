@@ -2,7 +2,7 @@
 #
 # Number of domains concerned : 71
 #
-# Number of web addresses blocked : 14 385
+# Number of web addresses blocked : 14 378
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -43517,7 +43517,7 @@ stub-zone:
 #
 ###################################################################################################
 #
-#	140 addresses of the domain madiawallah are blocked
+#	133 addresses of the domain madiawallah are blocked
 #
 
 #	Hide 42 857 madiawallah_ax_net subdomains
@@ -43642,7 +43642,6 @@ stub-zone:
 stub-zone:
 	name: "madiawallah.moscow."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "madiawallah.corp."
 	stub-addr: 127.0.0.1
@@ -43702,9 +43701,6 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "madiawallah.ecom."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "madiawallah.mail."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "madiawallah.mail."
@@ -43852,12 +43848,6 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "madiawallah.kosher."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "madiawallah.ax.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "madiawallah.ax.net."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "madiawallah.dds."
