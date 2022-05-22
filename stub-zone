@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 70
+# Number of domains concerned : 71
 #
-# Number of web addresses blocked : 14 245
+# Number of web addresses blocked : 14 385
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 20.05.2022 	- my french touch -
+#	modified : 22.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -43514,5 +43514,424 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of parsely domain
+#
+###################################################################################################
+#
+#	140 addresses of the domain madiawallah are blocked
+#
+
+#	Hide 42 857 madiawallah_ax_net subdomains
+stub-zone:
+	name: "madiawallah.ax.net."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "madiawallah.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.now."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "madiawallah.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ax.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.moscow."
+	stub-addr: 127.0.0.1
+
+stub-zone:
+	name: "madiawallah.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.exchange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ax.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ax.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.mp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ng."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.vg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "madiawallah.bq.biz."
+	stub-addr: 127.0.0.1
+#
+#	End of madiawallah domain
 #
 ###################################################################################################
