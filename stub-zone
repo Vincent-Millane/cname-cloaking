@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 71
+# Number of domains concerned : 72
 #
-# Number of web addresses blocked : 14 378
+# Number of web addresses blocked : 14 614
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 22.05.2022 	- my french touch -
+#	modified : 23.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -43925,3 +43925,718 @@ stub-zone:
 #	End of madiawallah domain
 #
 ###################################################################################################
+#
+#	1 addresses of the domain phoenix are blocked
+#
+stub-zone:
+	name: "phoenix.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.bio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.gallery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.exposed."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.pictures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.report."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.show."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.watch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cheap."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.discount."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.limited."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.moe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.red."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.associates."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.auction."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.bingo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.boutique."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cafe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.careers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.casino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.church."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cleaning."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.coffee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.computer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.dating."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.directory."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.domains."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.enterprises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.estate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.event."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.farm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.flights."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.florist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.game."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.garden."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.golf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.hockey."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.holdings."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.holiday."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.house."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.industries."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.investments."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.jewelry."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.kitchen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.law."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.mamagement."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.market."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.mortgage."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.partners."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.pet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.plumbing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.poker."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.properties."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.rentals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.estaurant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.sale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.school."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.supplies."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.tax."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.tours."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.town."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.ventures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.wedding."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.creditcard."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.exchange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.wine."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cap."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.college."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.community."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.construction."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.credit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.dans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.degree."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.engineering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.excgange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.fund."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.gifts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.healthcare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.institute."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.management."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.paris."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.rehab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.amsterdam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.surgery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.tools."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "phoenix.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.vision."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.back."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.ble."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cards."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.com.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.com.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.com.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.dog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.fish."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.glass."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.gold."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.menu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.org.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.photo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.photos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.pizza."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.recipes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.surf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.vodka."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.degre."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.zone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.agency."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "phoenix.attorney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.builders."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.claims."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.land."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.loans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.hospital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.lawyer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.vet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.vote."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.dental."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.doctor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.energy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.financial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.insure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.yoga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.film."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.in."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "phoenix.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.parts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.productions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.info.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.toys."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.direct."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cool."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.ind.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.mimited."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.me.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.net.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.net.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.org.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.net.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.org.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.org.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.rich."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.football."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.soccer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.tennis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.codes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.solar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.am."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.bz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "phoenix.ag."
+	stub-addr: 127.0.0.1
+#
+#	End of phoenix domain
+#
+#################################################################################################
