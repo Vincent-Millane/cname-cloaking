@@ -84,7 +84,7 @@ Don't worry, it's a sign that these blocking rules are working properly, but als
 
 ## About this data
 
-The data in this list is public and accessible to anyone who can use a DNS query tool such as nslookup, dig or drill, etc. and their graphic counterparts.
+The data in this list is public and accessible to anyone who can use a DNS query tool such as nslookup, dig, drill or whois, etc. and their graphic counterparts.
 
  Some web pages will go from 10 mb to 1 mb! (https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/)
 
