@@ -39,8 +39,8 @@ I tested by a dig on an outside dns server which shows the call to cname with su
 ...
 
     ;; ANSWER SECTION:
-    al.fulcloset.jp. 300 IN CNAME __mm.actionlink.jp.__
-    __mm.actionlink.jp.__ 300 IN A 52.197.148.210
+    al.fulcloset.jp. 300 IN CNAME mm.actionlink.jp.
+    mm.actionlink.jp. 300 IN A 52.197.148.210
 ...
 
 
