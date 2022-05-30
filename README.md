@@ -188,6 +188,10 @@ I have been using __Blokada__ since the beginning of January 2022, it has blocke
 There you have English "made in Google".
 * You use another DNS server and you want your contributions to cname blocking? You belong here.
 
+## To read :
++ https://blog.apnic.net/2020/08/04/characterizing-cname-cloaking-based-tracking/
++ https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/
+
 ## To do
 + Update this list
 + update the plain text list
