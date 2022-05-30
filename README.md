@@ -146,6 +146,17 @@ and your anti-tracker list is operational immediately. It's normal if your web s
 You will notice on the chrome browser, it displays more and more white area with dns errors.
 Don't worry, it's a sign that these blocking rules are working properly, but also that companies have moved to trackink images that hide links.
 
+#### Tips:
+
+If your resolv.conf file is constantly modified by various processes, do a
+
+    sudo chattr +i /etc/resolv.conf
+
+to be able to modify it again, it is the opposite
+
+    sudo chattr -i /etc/resolv.conf
+
+
 
 
 ## About this data
