@@ -197,6 +197,14 @@ There you have English "made in Google".
 + Update this list
 + update the plain text list
 
+## Donation
+
+If you want to make my work and my investment available to everyone, you can do it in Monero cryptocurrency with this account number:
+
+> 8AwD8HWyj1KSePrnk3VmkLJf3QQYKCHKmHBCZw4YBqEsLQpApAYUjRzQFx8WEQQqz78QXptAJvHQMPB2vp94pxiZTwtput9
+
+I appreciate it.
+
 
 ## License
 
