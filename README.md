@@ -35,10 +35,12 @@ I see a lot of listings on the internet where there are thousands of customer si
 I tested by a dig on an outside dns server which shows the call to cname with subdomain al.fulcloset.jp which I found on a list
 
     dig @1.1.1.1 al.fulcloset.jp
+    
 ...
+
     ;; ANSWER SECTION:
-    al.fulcloset.jp. 300 IN CNAME mm.actionlink.jp.
-    mm.actionlink.jp. 300 IN A 52.197.148.210
+    al.fulcloset.jp. 300 IN __CNAME mm.actionlink.jp.__
+    __mm.actionlink.jp. 300 IN A 52.197.148.210__
 ...
 
 
