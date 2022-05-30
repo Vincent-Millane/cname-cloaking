@@ -20,6 +20,7 @@ Would you like to have a spy placed on your shoulder from morning to night to an
 
 
 ## Method of working
+### Methodology
 
 List of cname-cloaking-blocklist quite detailed and classified by domain name with its extensions.
 
@@ -27,7 +28,69 @@ I am in the process of completing it and there is a lot of work.
 
 It is useful to realize that behind a .com domain name companies can hide hundreds or thousands of subdomains, for example __custom.com hides 33,243 subdomain names__ or __extole.com hides 20,366 subdomains names__. Blocking by domain name extensions makes perfect sense.
 
+### Study and verification
 
+I see a lot of listings on the internet where there are thousands of customer site names. I wanted to check if it was more appropriate to run after hundreds of thousands of sites which will have exponential growth if we are to believe the windows of these companies or if it was more judicious to block the service providers. It is important that this blocking must be transparent for the user
+
+I tested by a dig on an outside dns server which shows the call to cname with subdomain al.fulcloset.jp which I found on a list
+
+    dig @1.1.1.1 al.fulcloset.jp
+...
+    ;; ANSWER SECTION:
+    al.fulcloset.jp. 300 IN CNAME mm.actionlink.jp.
+    mm.actionlink.jp. 300 IN A 52.197.148.210
+...
+
+
+The whois of the registrar indicates that the domain name is FULCLOSET.JP
+
+    jwhois fulcloset.jp
+    
+...
+
+    Domain Information:
+    [Domain Name] FULLLOSET.JP
+    [Registrar] JUNIOR CO., LTD.
+    
+...
+
+Compare with local unbound server
+
+    dig al.fulcloset.jp
+...
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 50761
+....
+
+;; ISSUE SECTION:
+
+;al.fulcloset.jp. IN  A
+...
+There is no more ip address.
+
+The dns search on the domain returns the site's business and operating addresses.
+
+    dig FULCLOSET.JP
+...
+
+    ;; ANSWER SECTION:
+    FULCLOSET.JP. 728 IN A 52.222.139.72
+    FULCLOSET.JP. 728 IN A 52.222.139.105
+    FULCLOSET.JP. 728 IN A 52.222.139.17
+    FULCLOSET.JP. 728 IN A 52.222.139.21
+...
+
+On the surfing side, the site works normally.
+The explicit call to the subdomain page with the cname is dumb. The page is blank, not even a 403 or 404 message.
+
+In the source code of the page, the call to the sub-domain is made by javascript code when clicking on an article
+
+    <script type="text/javascript" id="">var aclink_click_domain="al.fulcloset.jp";</script>
+    <script type="text/javascript" id="" src="//al.fulcloset.jp/js/r.js"></script>
+
+The technique seems appropriate to me and less pharaonic than looking for all the sites that evoke a cname. Often it is only provided the name of commercial domains of the tracker which is in fact only the varnish or the very small emerged part of the track.
+
+As I found out on a single address with a different tld there can be tens of thousands of subdomains.
+So, that's the reason why I don't provide a list of subdomains
 
 ## Install Recursive Cache DNS Server
 
