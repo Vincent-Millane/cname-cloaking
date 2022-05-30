@@ -67,6 +67,7 @@ Compare with local unbound server
 
 ;al.fulcloset.jp. IN  A
 ...
+
 There is no more ip address.
 
 The dns search on the domain returns the site's business and operating addresses.
