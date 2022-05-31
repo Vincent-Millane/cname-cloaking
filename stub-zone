@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 72
+# Number of domains concerned : 73
 #
-# Number of web addresses blocked : 14 614
+# Number of web addresses blocked : 14 799
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 23.05.2022 	- my french touch -
+#	modified : 31.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -43926,7 +43926,7 @@ stub-zone:
 #
 ###################################################################################################
 #
-#	1 addresses of the domain phoenix are blocked
+#	238 addresses of the domain phoenix are blocked
 #
 stub-zone:
 	name: "phoenix.com."
@@ -44640,3 +44640,566 @@ stub-zone:
 #	End of phoenix domain
 #
 #################################################################################################
+#
+#	187 addresses of the domain verkoop are blocked
+#
+stub-zone:
+	name: "verkoop.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.immo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.amsterdam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.autos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.wiki."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ngo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.direct."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.physio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.gives."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.gratis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.boo."
+	stub-addr: 127.0.0.1
+	
+stub-zone:
+	name: "verkoop.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.coqponm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.frl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.hr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.okinawa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ong."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.ryukyu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.tc."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "verkoop.tiendra."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "verkoop.co.za."
+	stub-addr: 127.0.0.1
+#
+#	End of verkoop domain
+#
+#####################################################################################################
