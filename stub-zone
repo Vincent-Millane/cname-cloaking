@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 73
+# Number of domains concerned : 76
 #
-# Number of web addresses blocked : 14 799
+# Number of web addresses blocked : 14 932
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 31.05.2022 	- my french touch -
+#	modified : 23.05.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -15996,9 +15996,6 @@ stub-zone:
 #	Ens of data.adobedc domain
 #
 ##################################################################################################
-#
-#
-###################################################################################################
 #
 #	206 addresses of the domain track.a are blocked
 #
@@ -45203,3 +45200,428 @@ stub-zone:
 #	End of verkoop domain
 #
 #####################################################################################################
+#
+#	133 addresses of the domain http-unix are blocked
+#
+stub-zone:
+	name: "http-unix.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.met."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.ngo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.gives."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.budapest."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "http-unix.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.ong."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "http-unix.so."
+	stub-addr: 127.0.0.1
+#
+#	End of http-unix domain
+#
+########################################################################################################
+#
+#	1 addresses of the domain a8 are blocked
+#
+
+#	Hide 40 352 a8_com subdomains
+stub-zone:
+	name: "a8.com."
+	stub-addr: 127.0.0.1
+
+
+
+
+#
+#	End of a8 domain
+#
+########################################################################################################
+#
+#	1 addresses of the domain a are blocked
+#
+
+#	Hide 3 866 a_com subdomains
+stub-zone:
+	name: "a.com."
+	stub-addr: 127.0.0.1
+
