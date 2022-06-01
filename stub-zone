@@ -2,11 +2,11 @@
 #
 # Number of domains concerned : 76
 #
-# Number of web addresses blocked : 14 932
+# Number of web addresses concerned : 15 148
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 23.05.2022 	- my french touch -
+#	modified : 01.06.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -45601,17 +45601,52 @@ stub-zone:
 #
 ########################################################################################################
 #
-#	1 addresses of the domain a8 are blocked
+#	14 addresses of the domain a8 are blocked
 #
 
-#	Hide 40 352 a8_com subdomains
+# Hide 40 352 a8_com subdomains
 stub-zone:
 	name: "a8.com."
 	stub-addr: 127.0.0.1
-
-
-
-
+stub-zone:
+	name: "a8.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.dk."
+	stub-addr: 127.0.0.1
 #
 #	End of a8 domain
 #
@@ -45624,4 +45659,623 @@ stub-zone:
 stub-zone:
 	name: "a.com."
 	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a.17986.net."
+	stub-addr: 127.0.0.1	
+	
+	
+########################################################################################################
+#
+#	204 addresses of the domain domoco are blocked
+#
+stub-zone:
+	name: "domoco.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.toue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.healthcare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.vin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.cityeats."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "domoco.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.kyoto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.okinawa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.ryukyu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "domoco.com.au."
+	stub-addr: 127.0.0.1
+#
+#	End of domoco domain
+#
+#########################################################################################################
 
