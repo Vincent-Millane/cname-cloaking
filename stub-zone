@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 76
+# Number of domains concerned : 77
 #
-# Number of web addresses concerned : 15 148
+# Number of web addresses concerned : 15 302
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 01.06.2022 	- my french touch -
+#	modified : 03.06.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -17020,12 +17020,6 @@ stub-zone:
 #
 #	206 addresses of the domain trck.a8 are blocked
 #
-
-# Hide 1 341 a8_net subdomains
-stub-zone:
-	name: "a8.net."
-	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "trck.a8.com."
 	stub-addr: 127.0.0.1
@@ -17046,9 +17040,6 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "trck.a8.site."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "trck.a8.net."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "trck.a8.fr."
@@ -45639,9 +45630,6 @@ stub-zone:
 	name: "a8.lu."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "a8.com."
-	stub-addr: 127.0.0.1
-stub-zone:
 	name: "a8.io."
 	stub-addr: 127.0.0.1
 stub-zone:
@@ -46278,4 +46266,472 @@ stub-zone:
 #	End of domoco domain
 #
 #########################################################################################################
-
+#
+#	156 addresses of the domain benefitsatwork are blocked
+#
+stub-zone:
+	name: "benefitsatwork.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.com.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "benefitsatwork.im."
+	stub-addr: 127.0.0.1
+#
+#	End of benefitsatwork domain
+#
+###################################################################################################
