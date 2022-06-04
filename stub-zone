@@ -2,11 +2,11 @@
 #
 # Number of domains concerned : 77
 #
-# Number of web addresses concerned : 15 302
+# Number of web addresses concerned : 15 393
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 03.06.2022 	- my french touch -
+#	modified : 04.06.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -45050,8 +45050,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "verkoop.boo."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "verkoop.lds."
 	stub-addr: 127.0.0.1
@@ -45592,7 +45591,7 @@ stub-zone:
 #
 ########################################################################################################
 #
-#	14 addresses of the domain a8 are blocked
+#	107 addresses of the domain a8 are blocked
 #
 
 # Hide 40 352 a8_com subdomains
@@ -45634,6 +45633,288 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "a8.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.sale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.co.bio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.casino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.bet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ventures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.fan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.wtf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.law."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.sa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ae."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "a8.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.br.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.cm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.eu.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.gl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.hu.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.mk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.mp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ms."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.re."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.tf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.uk.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.uk.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.xxx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.cn.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.com.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.com.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "a8.com.ph."
 	stub-addr: 127.0.0.1
 #
 #	End of a8 domain
