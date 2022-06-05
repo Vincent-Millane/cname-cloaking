@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 77
+# Number of domains concerned : 78
 #
-# Number of web addresses concerned : 15 393
+# Number of web addresses concerned : 15 583
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 04.06.2022 	- my french touch -
+#	modified : 06.06.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -47013,6 +47013,583 @@ stub-zone:
 	name: "benefitsatwork.im."
 	stub-addr: 127.0.0.1
 #
-#	End of benefitsatwork domain 
+#	End of benefitsatwork domain
 #
 ###################################################################################################
+#
+#	1 addresses of the domain cv are blocked
+#
+stub-zone:
+	name: "cv.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.app."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "cv.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.deals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.amsterdam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.busness."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.casa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.boutique."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.wiki."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.yoga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.careers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.luxe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.soccer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.gold."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.watch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.tax."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.dj."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.wedding."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.new."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cooking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.express."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.miami."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.market."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.rentals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.partners."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.porn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.financial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.gratis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.adult."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.sa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.af."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.al."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.contact."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.br.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.church."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ci."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.eu.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.fo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ge."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.gl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.gy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.hu.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.abogado."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.lk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.mba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.md."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.mk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ms."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.sex."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.sh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.tc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.tj."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.tn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.uk.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.uk.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.whoswho."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ac."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.cn.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.mm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.gd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ht."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.ke."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.lc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.net.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.ru."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "cv.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "cv.com.ph."
+	stub-addr: 127.0.0.1
+#
+#	End of cv domain
+#
+#########################################################################################################
