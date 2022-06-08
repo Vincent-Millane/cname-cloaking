@@ -190,6 +190,7 @@ There you have English "made in Google".
 
 ## To read :
 + https://blog.apnic.net/2020/08/04/characterizing-cname-cloaking-based-tracking/
++ https://tma.ifip.org/2020/wp-content/uploads/sites/9/2020/06/tma2020-camera-paper66.pdf
 + https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/
 + https://www.theregister.com/2021/03/04/adguard_cname_tracker/
 
