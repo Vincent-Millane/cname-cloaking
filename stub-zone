@@ -549,7 +549,7 @@ stub-zone:
 	name: "eulerian.co.il."
 	stub-addr: 127.0.0.1	
 #
-#	End of eulerian domain 
+#	End of the eulerian domain 
 #
 #################################################################################################
 #
@@ -952,9 +952,9 @@ stub-zone:
 	name: "dnsdelegation.au."
 	stub-addr: 127.0.0.1
 #
-#	End of dnsdelegation domain
+#	End of the dnsdelegation domain
 #
-#################################################################################################	
+#################################################################################################
 #
 #	820 addresses of the domain a.20mn are blocked
 #
@@ -3420,9 +3420,9 @@ stub-zone:
 	name: "a.20mn.vi."
 	stub-addr: 127.0.0.1	
 #	
-#	End of a.20mn domain
+#	End of the a.20mn domain
 #
-####################################################################################################
+###############################################################################
 #
 #	141 addresses of the domain at-o are blocked
 #	
@@ -3849,7 +3849,7 @@ stub-zone:
 	name: "at-o.tatar."
 	stub-addr: 127.0.0.1	
 #
-#	End of at-o domain
+#	End of the at-o domain
 #
 ###################################################################################################
 #
@@ -4266,7 +4266,7 @@ stub-zone:
 	name: "keyade.tatar."
 	stub-addr: 127.0.0.1	
 #
-#	End of keyade domain
+#	End of the keyade domain
 #
 ###################################################################################################
 #
@@ -4737,7 +4737,7 @@ stub-zone:
 	name: "storetail.co.il."
 	stub-addr: 127.0.0.1	
 #	
-#	End of storetail domain	
+#	End of the storetail domain	
 #	
 ####################################################################################################
 #
@@ -5143,7 +5143,7 @@ stub-zone:
 	name: "omtrdc.so."
 	stub-addr: 127.0.0.1
 #
-#	End of omtrdc domain 
+#	End of the omtrdc domain 
 #	
 ####################################################################################################
 #
@@ -5578,7 +5578,7 @@ stub-zone:
 	name: "bp01.meum."
 	stub-addr: 127.0.0.1
 #
-#	End of bp01 domain	
+#	End of the bp01 domain	
 #	
 ####################################################################################################
 #
@@ -6079,7 +6079,7 @@ stub-zone:
 	name: "webtrekk.meum."
 	stub-addr: 127.0.0.1
 #
-#	End of webtrekk domain
+#	End of the webtrekk domain
 #	
 ####################################################################################################
 #
@@ -7669,7 +7669,7 @@ stub-zone:
 	name: "criteo.meum."
 	stub-addr: 127.0.0.1
 #	
-#	End of criteo domain 
+#	End of the criteo domain 
 #	
 ####################################################################################################
 #
@@ -8227,7 +8227,7 @@ stub-zone:
 	name: "brightcove.tatar."
 	stub-addr: 127.0.0.1						
 #
-#	End of brightcove domain 
+#	End of the brightcove domain 
 #
 ####################################################################################################
 #
@@ -8839,7 +8839,7 @@ stub-zone:
 	name: "appnexus.com.ph."
 	stub-addr: 127.0.0.1
 #	
-#	End of appnexus domain 
+#	End of the appnexus domain 
 #
 ####################################################################################################
 #
@@ -9811,7 +9811,7 @@ stub-zone:
 	name: "taboola.au."
 	stub-addr: 127.0.0.1
 #
-#	End of taboola domain
+#	End of the taboola domain
 #	
 ####################################################################################################
 #
@@ -10355,7 +10355,7 @@ stub-zone:
 	name: "atinternet.tatar."
 	stub-addr: 127.0.0.1
 #	
-#	End of atinternet domain
+#	End of the atinternet domain
 #	
 ####################################################################################################
 #
@@ -10844,7 +10844,7 @@ stub-zone:
 	name: "tagcommander.tatar."
 	stub-addr: 127.0.0.1		
 #
-#	End of tagcommander domain
+#	End of the tagcommander domain
 #	
 #########################################################################################
 #
@@ -11271,7 +11271,7 @@ stub-zone:
 	name: "wizaly.so."
 	stub-addr: 127.0.0.1	
 #
-#	End of wizaly domain
+#	End of the wizaly domain
 #
 ##############################################################################################
 #
@@ -11662,7 +11662,7 @@ stub-zone:
 	name: "tracedock.so."
 	stub-addr: 127.0.0.1			
 #	
-#	End of tracedock domain
+#	End of the tracedock domain
 #
 ##########################################################################################
 #
@@ -12134,7 +12134,7 @@ stub-zone:
 	name: "affex.tatar."
 	stub-addr: 127.0.0.1
 #
-#	End of affex domain
+#	End of the affex domain
 #
 ##############################################################################################
 #
@@ -12516,7 +12516,7 @@ stub-zone:
 	name: "wt-eu02.so."
 	stub-addr: 127.0.0.1
 #
-#	End of wt-eu02 domain
+#	End of the wt-eu02 domain
 #
 ############################################################################################
 #
@@ -13207,7 +13207,7 @@ stub-zone:
 	name: "ottogroup.au."
 	stub-addr: 127.0.0.1
 #
-#	End of ottogroup domain
+#	End of the ottogroup domain
 #
 ############################################################################################
 #
@@ -13632,7 +13632,7 @@ stub-zone:
 	name: "oghub.tatar."
 	stub-addr: 127.0.0.1
 #
-#	End of oghub domain 	
+#	End of the oghub domain 	
 #
 #################################################################################################
 #
@@ -14202,7 +14202,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of 207 domain
+#	End of the 207 domain
 #
 ##################################################################################################
 #
@@ -16623,7 +16623,7 @@ stub-zone:
 	name: "trck.a.au."
 	stub-addr: 127.0.0.1	
 #
-#	End of trck.a domain
+#	End of the trck.a domain
 #
 ####################################################################################################
 #
@@ -17014,7 +17014,7 @@ stub-zone:
 	name: "madmetrics.so."
 	stub-addr: 127.0.0.1
 #
-#	End of madmetrics domain
+#	End of the madmetrics domain
 #
 ###################################################################################################
 #
@@ -17630,7 +17630,7 @@ stub-zone:
 	name: "trck.a8.au."
 	stub-addr: 127.0.0.1
 #
-#	End of trck.a8 domain
+#	End of the trck.a8 domain
 #
 #################################################################################################
 #
@@ -18367,7 +18367,7 @@ stub-zone:
 	name: "drawbridge.au."
 	stub-addr: 127.0.0.1
 #
-#	End of drawbridge domain
+#	End of the drawbridge domain
 #
 ################################################################################################
 #
@@ -18893,7 +18893,7 @@ stub-zone:
 	name: "eloqua.tatar."
 	stub-addr: 127.0.0.1
 #
-#	End of eloqua domain
+#	End of the eloqua domain
 #
 #################################################################################################
 #
@@ -20589,7 +20589,7 @@ stub-zone:
 	name: "custom.com.ph."
 	stub-addr: 127.0.0.1
 #
-#	End of custom domain
+#	End of the custom domain
 #
 ################################################################################################
 #
@@ -21133,7 +21133,7 @@ stub-zone:
 	name: "plausible.com.cn."
 	stub-addr: 127.0.0.1
 #
-#	End of plausible domain
+#	End of the plausible domain
 #
 ###############################################################################################
 #
@@ -22162,7 +22162,7 @@ stub-zone:
 	name: "trafficmanager.au."
 	stub-addr: 127.0.0.1
 #
-#	End of trafficmanager domain
+#	End of the trafficmanager domain
 #
 ###############################################################################################
 #
@@ -22547,7 +22547,7 @@ stub-zone:
 	name: "ghochv3eng.tatar."
 	stub-addr: 127.0.0.1
 #
-#	End of ghochv3eng domain
+#	End of the ghochv3eng domain
 #
 #################################################################################################
 #
@@ -23034,7 +23034,7 @@ stub-zone:
 	name: "actionlink.au."
 	stub-addr: 127.0.0.1
 #
-#	End of actionlink domain
+#	End of the actionlink domain
 #
 #################################################################################################
 #
@@ -23733,7 +23733,7 @@ stub-zone:
 	name: "ebis.au."
 	stub-addr: 127.0.0.1
 #
-#	End of ebis domain
+#	End of the ebis domain
 #
 ################################################################################################
 #
@@ -24127,7 +24127,7 @@ stub-zone:
 	name: "adspyglass.pk."
 	stub-addr: 127.0.0.1
 #
-#	End of adspyglass domain
+#	End of the adspyglass domain
 #
 ##################################################################################################
 #
@@ -24515,7 +24515,7 @@ stub-zone:
 	name: "0i0i0i0.so."
 	stub-addr: 127.0.0.1
 #
-#	End of 0i0i0i0 domain
+#	End of the 0i0i0i0 domain
 #
 ##################################################################################################
 #
@@ -25027,7 +25027,7 @@ stub-zone:
 	name: "act-on.com.cn."
 	stub-addr: 127.0.0.1
 #
-#	End of act-one domain
+#	End of the act-one domain
 #
 #################################################################################################
 #
@@ -26304,7 +26304,7 @@ stub-zone:
 	name: "branch.com.ph."
 	stub-addr: 127.0.0.1
 #
-#	End of branch domain
+#	End of the branch domain
 #
 ##################################################################################################
 #
@@ -27005,7 +27005,7 @@ stub-zone:
 	name: "thirdparty.au."
 	stub-addr: 127.0.0.1
 #
-#	End of thirdparty domain
+#	End of the thirdparty domain
 #
 ###################################################################################################
 #
@@ -27399,7 +27399,7 @@ stub-zone:
 	name: "dataunlocker.so."
 	stub-addr: 127.0.0.1
 #
-#	End of dataunlocker domain
+#	End of the dataunlocker domain
 #
 ##################################################################################################
 #
@@ -27796,7 +27796,7 @@ stub-zone:
 	name: "fathomhq.so."
 	stub-addr: 127.0.0.1
 #
-#	End of fathomhq domain
+#	End of the fathomhq domain
 #
 ##################################################################################################
 #
@@ -28187,7 +28187,7 @@ stub-zone:
 	name: "fathomdns.so."
 	stub-addr: 127.0.0.1
 #
-#	End of fathomdns domain
+#	End of the fathomdns domain
 #
 #################################################################################################
 #
@@ -28746,7 +28746,7 @@ stub-zone:
 	name: "adcloud.org.uk."
 	stub-addr: 127.0.0.1
 #
-#	End of adcloud domain
+#	End of the adcloud domain
 #
 ##################################################################################################
 #
@@ -29181,7 +29181,7 @@ stub-zone:
 	name: "ad-cloud.au."
 	stub-addr: 127.0.0.1
 #
-#	End of ad-cloud domain
+#	End of the ad-cloud domain
 #
 ##################################################################################################
 #
@@ -29557,7 +29557,7 @@ stub-zone:
 	name: "PostafiliatePro.so."
 	stub-addr: 127.0.0.1
 #
-#	End of PostafiliatePro domain
+#	End of the PostafiliatePro domain
 #
 ##################################################################################################
 #
@@ -30092,7 +30092,7 @@ stub-zone:
 	name: "pardot.org.uk."
 	stub-addr: 127.0.0.1
 #
-#	End of pardot domain
+#	End of the pardot domain
 #
 ################################################################################################
 #
@@ -31095,7 +31095,7 @@ stub-zone:
 	name: "intent.au."
 	stub-addr: 127.0.0.1
 #
-#	End of intend domain
+#	End of the intend domain
 #
 ##################################################################################################
 #
@@ -31996,7 +31996,7 @@ stub-zone:
 	name: "segment.au."
 	stub-addr: 127.0.0.1
 #
-#	End of segment domain
+#	End of the segment domain
 #
 ##################################################################################################
 #
@@ -32576,7 +32576,7 @@ stub-zone:
 	name: "truedata.au."
 	stub-addr: 127.0.0.1
 #
-# 	End of truedata domain
+# 	End of the truedata domain
 #
 #################################################################################################
 #
@@ -33008,7 +33008,7 @@ stub-zone:
 	name: "towerdata.au."
 	stub-addr: 127.0.0.1
 #
-#	End of towerdata domain
+#	End of the towerdata domain
 #
 #################################################################################################
 #
@@ -33437,7 +33437,7 @@ stub-zone:
 	name: "bridgecorp.tatar."
 	stub-addr: 127.0.0.1
 #
-#	End of bridgecorp domain
+#	End of the bridgecorp domain
 #
 ###################################################################################################
 #
@@ -33933,7 +33933,7 @@ stub-zone:
 	name: "tapad.im."
 	stub-addr: 127.0.0.1
 #
-#	End of tapad domain
+#	End of the tapad domain
 #
 ##################################################################################################
 #
@@ -34614,7 +34614,7 @@ stub-zone:
 	name: "starman.com.ph."
 	stub-addr: 127.0.0.1
 #
-#	End of starman domain
+#	End of the starman domain
 #
 ###################################################################################################
 #
@@ -35041,7 +35041,7 @@ stub-zone:
 	name: "actonservice.tatar."
 	stub-addr: 127.0.0.1
 #
-#	End of actonservice domain
+#	End of the actonservice domain
 #
 ################################################################################################
 #
@@ -35475,7 +35475,7 @@ stub-zone:
 	name: "actonsoftware.sucks."
 	stub-addr: 127.0.0.1
 #
-#	End of actonsoftware domain
+#	End of the actonsoftware domain
 #
 ###################################################################################################
 #
@@ -35906,7 +35906,7 @@ stub-zone:
 	name: "actionservice.so."
 	stub-addr: 127.0.0.1
 #
-#	End of actionservice domain
+#	End of the actionservice domain
 #
 ##################################################################################################
 #
@@ -36396,7 +36396,7 @@ stub-zone:
 	name: "extole.com.cn."
 	stub-addr: 127.0.0.1
 #
-#	End of extole domain
+#	End of the extole domain
 #
 ###################################################################################################
 #
@@ -36793,7 +36793,7 @@ stub-zone:
 	name: "sp-prod.so."
 	stub-addr: 127.0.0.1
 #
-#	End of sp-prod domain
+#	End of the sp-prod domain
 #
 ##################################################################################################
 #
@@ -37193,7 +37193,7 @@ stub-zone:
 	name: "smetrics.so."
 	stub-addr: 127.0.0.1
 #
-#	End of smetrics domain
+#	End of the smetrics domain
 #
 ###################################################################################################
 #
@@ -37657,7 +37657,7 @@ stub-zone:
 	name: "intentmedia.pk."
 	stub-addr: 127.0.0.1
 #
-#	End of intenmedia domains
+#	End of the intenmedia domains
 #
 ###################################################################################################
 #
@@ -39142,7 +39142,7 @@ stub-zone:
 	name: "2cnt.tatar."
 	stub-addr: 127.0.0.1
 #
-#	End of 2cnt domain
+#	End of the 2cnt domain
 #
 #################################################################################################
 #
@@ -39551,7 +39551,7 @@ stub-zone:
 	name: "clickaine.pk."
 	stub-addr: 127.0.0.1
 #
-#	End of clickaine domain
+#	End of the clickaine domain
 #
 ##################################################################################################
 #
@@ -40212,7 +40212,7 @@ stub-zone:
 	name: "nc0.select."
 	stub-addr: 127.0.0.1
 #
-#	End of nc0 domain
+#	End of the nc0 domain
 #
 ##################################################################################################
 #
@@ -42251,7 +42251,7 @@ stub-zone:
 	name: "ads.vi."
 	stub-addr: 127.0.0.1
 #
-#	End of ads domain
+#	End of the ads domain
 #
 ###################################################################################################
 #
@@ -43068,7 +43068,7 @@ stub-zone:
 	name: "ab1n.id."
 	stub-addr: 127.0.0.1
 #
-#	End of ab1n domain
+#	End of the ab1n domain
 #
 ##################################################################################################
 #
@@ -43501,7 +43501,7 @@ stub-zone:
 	name: "parsely.ng."
 	stub-addr: 127.0.0.1
 #
-#	End of parsely domain
+#	End of the parsely domain
 #
 ###################################################################################################
 #
@@ -43910,7 +43910,7 @@ stub-zone:
 	name: "madiawallah.bq.biz."
 	stub-addr: 127.0.0.1
 #
-#	End of madiawallah domain
+#	End of the madiawallah domain
 #
 ###################################################################################################
 #
@@ -44625,7 +44625,7 @@ stub-zone:
 	name: "phoenix.ag."
 	stub-addr: 127.0.0.1
 #
-#	End of phoenix domain
+#	End of the phoenix domain
 #
 #################################################################################################
 #
@@ -45187,7 +45187,7 @@ stub-zone:
 	name: "verkoop.co.za."
 	stub-addr: 127.0.0.1
 #
-#	End of verkoop domain
+#	End of the verkoop domain
 #
 #####################################################################################################
 #
@@ -45587,7 +45587,7 @@ stub-zone:
 	name: "http-unix.so."
 	stub-addr: 127.0.0.1
 #
-#	End of http-unix domain
+#	End of the http-unix domain
 #
 ########################################################################################################
 #
@@ -45917,7 +45917,7 @@ stub-zone:
 	name: "a8.com.ph."
 	stub-addr: 127.0.0.1
 #
-#	End of a8 domain
+#	End of the a8 domain
 #
 ########################################################################################################
 #
@@ -45931,8 +45931,9 @@ stub-zone:
 stub-zone:
 	name: "a.17986.net."
 	stub-addr: 127.0.0.1	
-	
-	
+#	
+#
+#	
 ########################################################################################################
 #
 #	204 addresses of the domain domoco are blocked
@@ -46544,7 +46545,7 @@ stub-zone:
 	name: "domoco.com.au."
 	stub-addr: 127.0.0.1
 #
-#	End of domoco domain
+#	End of the domoco domain
 #
 #########################################################################################################
 #
@@ -47013,7 +47014,7 @@ stub-zone:
 	name: "benefitsatwork.im."
 	stub-addr: 127.0.0.1
 #
-#	End of benefitsatwork domain
+#	End of the benefitsatwork domain
 #
 ###################################################################################################
 #
@@ -47590,7 +47591,7 @@ stub-zone:
 	name: "cv.com.ph."
 	stub-addr: 127.0.0.1
 #
-#	End of cv domain
+#	End of the cv domain
 #
 #########################################################################################################
 #
@@ -47604,7 +47605,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of aliyum domain
+#	End of the aliyum domain
 #
 #########################################################################################################
 #
@@ -47630,7 +47631,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 		
 #
-#	End of overdue domain
+#	End of the overdue domain
 #
 #########################################################################################################
 #
@@ -47641,7 +47642,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 
 #
-#	End of yfcname domain
+#	End of the yfcname domain
 #
 #########################################################################################################
 #
@@ -47658,7 +47659,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of greycdn domain
+#	End of the greycdn domain
 #
 #########################################################################################################
 #
@@ -47669,7 +47670,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of yunjidns8 domain
+#	End of the yunjidns8 domain
 #
 #########################################################################################################
 #
@@ -47680,7 +47681,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 
 #
-#	End of yunjidns7 domain
+#	End of the yunjidns7 domain
 #
 #########################################################################################################
 #
@@ -47692,7 +47693,7 @@ stub-zone:
 
 
 #
-#	End of yunjidns5 domain
+#	End of the yunjidns5 domain
 #
 #########################################################################################################
 #
@@ -47703,7 +47704,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of yunjidns4 domain
+#	End of the yunjidns4 domain
 #
 #########################################################################################################
 #
@@ -47714,7 +47715,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of yunjidns3 domain
+#	End of the yunjidns3 domain
 #
 #########################################################################################################
 #
@@ -47724,7 +47725,7 @@ stub-zone:
 	name: "yunjidns2.com."
 	stub-addr: 127.0.0.1
 #
-#	End of yunjidns2 domain
+#	End of the yunjidns2 domain
 #
 #########################################################################################################
 #
@@ -47735,7 +47736,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of yunjidns0 domain
+#	End of the yunjidns0 domain
 #
 #########################################################################################################
 #
@@ -47764,7 +47765,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 
 #
-#	End of park domain
+#	End of the park domain
 #
 #########################################################################################################
 #
@@ -47781,7 +47782,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of swnic domain
+#	End of the swnic domain
 #
 #########################################################################################################
 #
@@ -47798,7 +47799,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of 17986 domain
+#	End of the 17986 domain
 #
 #########################################################################################################
 #
@@ -47815,7 +47816,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 	
 #
-#	End of pir domain
+#	End of the pir domain
 #
 #########################################################################################################	
 #
@@ -47842,6 +47843,6 @@ stub-zone:
 
 	
 #
-#	End of ename domain
+#	End of the ename domain
 #
 #########################################################################################################		
