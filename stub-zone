@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 94
+# Number of domains concerned : 95
 #
-# Number of web addresses concerned : 15 628
+# Number of web addresses concerned : 15 646
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 08.06.2022 	- my french touch -
+#	modified : 10.06.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -47845,4 +47845,68 @@ stub-zone:
 #
 #	End of the ename domain
 #
-#########################################################################################################		
+#########################################################################################################	
+#
+#	18 addresses of the domain junior are blocked
+#
+stub-zone:
+	name: "junior.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.eu.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.us.com."
+	stub-addr: 127.0.0.1
+
+
+#
+#	End of the junior domain
+#
+#########################################################################################################
+	
