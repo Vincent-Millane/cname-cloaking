@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 95
+# Number of domains concerned : 96
 #
-# Number of web addresses concerned : 15 646
+# Number of web addresses concerned : 15 837
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -47909,4 +47909,584 @@ stub-zone:
 #	End of the junior domain
 #
 #########################################################################################################
+#
+#	193 addresses of the domain piwik are blocked
+#
+stub-zone:
+	name: "piwik.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.wecam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.guitars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.hosting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.linving."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.com.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "piwik.org.cn."
+	stub-addr: 127.0.0.1
+#
+#	End of piwik domain
+#
+################################################################################
 	
