@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 96
+# Number of domains concerned : 97
 #
-# Number of web addresses concerned : 15 837
+# Number of web addresses concerned : 16 049
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 10.06.2022 	- my french touch -
+#	modified : 15.06.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -48489,4 +48489,649 @@ stub-zone:
 #	End of piwik domain
 #
 ################################################################################
+#
+#	214 addresses of the domain matomo are blocked
+#
+stub-zone:
+	name: "matomo.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.architec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.bar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.community."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.hosting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ling."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.eus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "matomo.net.cn."
+	stub-addr: 127.0.0.1
+#
+#	End of matomo domain
+#
+###############################################################################
 	
+	
+		
