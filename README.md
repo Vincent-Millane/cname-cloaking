@@ -23,6 +23,7 @@ Would you like to have a spy placed on your shoulder from morning to night to an
 You notice that some domain owners go out of their way to be hidden like all honest companies do, isn't it ?
 
 On the French side very few do it but one in particular deserves a red card. This company hide all the whois information. This company has registered its 214 domain names plus 193 domain names with a French registrar. It is hosted in France (we can legitimately think that it is the same host as for the registration), but it has published a website in English in total disregard of French obligations to publish legal and commercial notices. This company wants to compete with Google Analytics, just that.
+
 It's funny to see the United Nations and NASA, among others, associated with this kind of practice.
 
 
