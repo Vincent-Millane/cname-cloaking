@@ -5,6 +5,7 @@ __Sites using stalkers disguise with cname, a method to block them with Unbound_
 
 
 ## Why ?
+
 Cname-cloacking is in violation of European laws (GDPR) and the law in many countries since they hide DNS referrals to the site you are visiting. It is therefore impossible to collect the user's consent for these third-party sites and the immediate effect is that you are tracked on all kinds of sites.
 
 It is a more pernicious method than third-party cookies because it is unspoken and without recourse.
@@ -16,6 +17,12 @@ Some cname lists that circulate on the internet are very superficial and masked 
 In fact, an address can hide hundreds of addresses with extensions or referrals to other very interesting addresses.
  
 Would you like to have a spy placed on your shoulder from morning to night to analyze your every movement of the day down to the brand of toilet paper you use?
+
+## Notes after some research
+
+You notice that some domain owners go out of their way to be hidden like all honest companies do, isn't it ?
+
+On the French side very few do it but one in particular deserves a red card. This company hide all the whois information. This company has registered its 193 domain names with a French registrar. It is hosted in France (we can legitimately think that it is the same host as for the registration), but it has published a website in English in total disregard of French obligations to publish legal and commercial notices. This company wants to compete with Google Analytics, just that.
 
 
 
