@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 98
+# Number of domains concerned : 99
 #
-# Number of web addresses concerned : 16 207
+# Number of web addresses concerned : 16 411
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 11.07.2022 	- my french touch -
+#	modified : 12.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -49188,6 +49188,9 @@ stub-zone:
 	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "kameleoon.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.ads."
 	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "kameleoon.biz."
@@ -49611,5 +49614,621 @@ stub-zone:
 	stub-addr: 127.0.0.1	
 #
 #	End of kameleoon domains
+#
+################################################################################
+#
+#	205 addresses of the domain klaviyo are blocked
+#
+stub-zone:
+	name: "klaviyo.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.university."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.restaurant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.horse."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.engineering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.cm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "klaviyo.com.cn."
+	stub-addr: 127.0.0.1
+#
+#	End of klaviyo domain
 #
 ################################################################################
