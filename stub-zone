@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 97
+# Number of domains concerned : 98
 #
-# Number of web addresses concerned : 16 049
+# Number of web addresses concerned : 16 207
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 15.06.2022 	- my french touch -
+#	modified : 11.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -49131,7 +49131,485 @@ stub-zone:
 #
 #	End of matomo domain
 #
-###############################################################################
-	
-	
-		
+####################################################################################################
+#
+#	 160 addresses of the domain kameleoon are blocked
+#
+stub-zone:
+	name: "kameleoon.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.nl."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.eu."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.net."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.tech."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.fr."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.org."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.de."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.app."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.info."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.it."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.io."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.es."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.dk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.us."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.co.uk."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.me."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.dev."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.biz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.ch."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.xyz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.services."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.lifestyle."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.architect."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.case."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.safety."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.secure."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.spot."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.you."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.now."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.office."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.web."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.tour."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.safe."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.play."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.pay."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.meet."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.booking."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.trust."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.mobile."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.save."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.box."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.hotel."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.music."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.prof."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.mobily."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.broadway."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.food."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.pets."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.buy."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.medical."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.search."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.sports."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.mov."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.hot."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.mobi."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.kid."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.docs."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.corp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.coupon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.ren."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.moto."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.home."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.globo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.here."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.data."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.day."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.deal."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.eat."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.final."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.fly."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.heart."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.hotels."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.kids."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.living."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.roma."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.meme."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.baseball."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.med."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.ai."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.epost."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.translations."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.phone."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.zip."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.book."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.thai."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.banque."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.esurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.foo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.vuelos."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.co."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.by."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.scholarships."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.goo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.idn."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.arab."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.cityeats."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.lifeinsurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.mls."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.nowruz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.citic."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.indians."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.persiangulf."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.dad."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.map."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.pars."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.dot."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.rsvp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.shia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.pid."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.bway."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.budapest."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.stockholm."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.boo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.lds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.wang."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.active."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.llp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.qpon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.comsec."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.kosher."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.dds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.com.gt."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.realtor."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.phd."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.cpa."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.ovh."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.catalonia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.latino."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.cx."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.cz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.patagonia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.islam."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.mormon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "kameleoon.kz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.lv."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.ly."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.weibo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.halal."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.pl."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.ru."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.so."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.com.cn."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "kameleoon.tatar."
+	stub-addr: 127.0.0.1	
+#
+#	End of kameleoon domains
+#
+################################################################################
