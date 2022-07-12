@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 101
+# Number of domains concerned : 102
 #
-# Number of web addresses concerned : 17 033
+# Number of web addresses concerned : 17 189
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -52110,5 +52110,480 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of affilae domain
+#
+################################################################################
+#
+#	158 addresses of the domain iadvize are blocked
+#
+stub-zone:
+	name: "iadvize.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.game."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.architec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.flowers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.christmas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.guitars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.diet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.hosting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "iadvize.tatar."
+	stub-addr: 127.0.0.1
+#
+#	End of iadvize domain
 #
 ################################################################################
