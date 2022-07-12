@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 100
+# Number of domains concerned : 101
 #
-# Number of web addresses concerned : 16 885
+# Number of web addresses concerned : 17 033
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -51659,5 +51659,456 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of clarity domain
+#
+################################################################################
+#
+#	150 addresses of the domain affilae are blocked
+#
+stub-zone:
+	name: "affilae.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.game."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.flowers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.christmas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.guitars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.diet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.hosting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "affilae.so."
+	stub-addr: 127.0.0.1
+#
+#	End of affilae domain
 #
 ################################################################################
