@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 99
+# Number of domains concerned : 100
 #
-# Number of web addresses concerned : 16 411
+# Number of web addresses concerned : 16 885
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -50230,5 +50230,1434 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of klaviyo domain
+#
+################################################################################
+#
+#	476 addresses of the domain clarity are blocked
+#
+stub-zone:
+	name: "clarity.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ms."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cool."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.sale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.zone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.games."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.bio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.clothing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.game."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.supply."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.bar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.flowers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.homes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.auction."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ceo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.show."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.accountants."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.associates."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.codes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.wiki."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.yoga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cards."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.diamonds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.school."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tips."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.careers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.christmas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.travel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cash."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ventures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.buiders."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.gold."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.black."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.baby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.institute."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.watch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.golf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tax."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.gift."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tattoo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.coffe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.vet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.credit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.health."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.wedding."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cafe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.productions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.rehab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.solar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.computer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.vision."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.software."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.new."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.jewelry."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.kiwi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.management."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.inc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.eco."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.vodka."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.university."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.limited."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.singles."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.clinic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.surf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.express."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.enterprises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.direct."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.glass."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.engineer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.photos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.miami."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.photo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.luxury."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.rentals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.dance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.photography."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.report."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pictures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.partners."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.wtf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.international."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.rest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.moe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pizza."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.industries."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.guitars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.gives."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fitness."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.gallery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cleaning."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.diet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.engineering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.financial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.construction."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.investments."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.green."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.gratis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.energy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.coop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fund."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.film."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.how."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.law."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.community."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.house."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.exposed."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.courses."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.host."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.healthcare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.hosting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.college."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.camp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.domains."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.worhs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.realty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.sa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.aero."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.am."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.exchange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.bm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.bz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.church."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.realestate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.bible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.feddback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.vx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.dating."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.frl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.eu.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.fm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.hm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.je."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.lgbt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.md."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.soy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.srl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.st."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.sucks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.uk.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.uno."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.wales."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.za.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ac."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.cn.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co.th."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.net.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.select."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "clarity.com.ph."
+	stub-addr: 127.0.0.1
+#
+#	End of clarity domain
 #
 ################################################################################
