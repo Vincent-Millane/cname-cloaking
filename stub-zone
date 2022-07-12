@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 102
+# Number of domains concerned : 103
 #
-# Number of web addresses concerned : 17 189
+# Number of web addresses concerned : 17 339
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -52585,5 +52585,462 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of iadvize domain
+#
+################################################################################
+#
+#	152 addresses of the domain facil-iti are blocked
+#
+stub-zone:
+	name: "facil-iti.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.game."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.flowers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.christmas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.music."
+	stub-addr: 127.0.0.1
+	stub-zone:
+	name: "facil-iti.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.guitars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.moto."
+	stub-addr: 127.0.0.1
+	stub-zone:
+	name: "facil-iti.diet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.hosting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.baseball."
+	stub-addr: 127.0.0.1
+	stub-zone:
+	name: "facil-iti.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.autuinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.lifeinsurance."
+	stub-addr: 127.0.0.1
+	stub-zone:
+	name: "facil-iti.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.wang."
+	stub-addr: 127.0.0.1
+	stub-zone:
+	name: "facil-iti.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "facil-iti.so."
+	stub-addr: 127.0.0.1
+#
+#	End of facil-iti domain
 #
 ################################################################################
