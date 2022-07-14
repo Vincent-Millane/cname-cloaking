@@ -53429,3 +53429,785 @@ stub-zone:
 #	End of adobedtm domain
 #
 ################################################################################
+#
+#	177 addresses of the domain trustpilot are blocked
+#
+#	Hide 596 trustpilot_com subdomains
+stub-zone:
+	name: "trustpilot.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.shp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.exposed."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.am."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.bb."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.bf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.bh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.busapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.hosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ge."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.kg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.md."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.mp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.cn.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "trustpilot.com.ru."
+	stub-addr: 127.0.0.1
+#
+#	End of trustpilot domain
+#
+################################################################################
