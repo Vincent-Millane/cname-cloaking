@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 103
+# Number of domains concerned : 104
 #
-# Number of web addresses concerned : 17 339
+# Number of web addresses concerned : 17 465
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 12.07.2022 	- my french touch -
+#	modified : 14.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -53042,5 +53042,390 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of facil-iti domain
+#
+################################################################################
+#
+#	128 addresses of the domain adobedtm are blocked
+#
+stub-zone:
+	name: "adobedtm.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.eusrance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "adobedtm.so."
+	stub-addr: 127.0.0.1
+#
+#	End of adobedtm domain
 #
 ################################################################################
