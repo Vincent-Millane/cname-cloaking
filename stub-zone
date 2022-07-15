@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 104
+# Number of domains concerned : 105
 #
-# Number of web addresses concerned : 17 465
+# Number of web addresses concerned : 17 723
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 14.07.2022 	- my french touch -
+#	modified : 16.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -18899,27 +18899,18 @@ stub-zone:
 #
 #	562 addresses of the domain custom are blocked
 #
-
-#	Hide 33 243 custom_com subdomains
 stub-zone:
 	name: "custom.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 1 284 custom_net subdomains
 stub-zone:
 	name: "custom.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 254 custom_org subdomains
 stub-zone:
 	name: "custom.org."
 	stub-addr: 127.0.0.1
-	
-#	Hide 3 custom_io subdomains
 stub-zone:
 	name: "custom.io."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "custom.be."
 	stub-addr: 127.0.0.1
@@ -53045,7 +53036,7 @@ stub-zone:
 #
 ################################################################################
 #
-#	128 addresses of the domain adobedtm are blocked
+#	261 addresses of the domain adobedtm are blocked
 #
 stub-zone:
 	name: "adobedtm.com."
