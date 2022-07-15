@@ -35,7 +35,7 @@ List of cname-cloaking-blocklist quite detailed and classified by domain name wi
 
 I am in the process of completing it and there is a lot of work.
 
-It is useful to realize that behind a .com domain name companies can hide hundreds or thousands of subdomains, for example __custom.com hides 33,243 subdomain names__ or __extole.com hides 20,366 subdomains names__. Blocking by domain name extensions makes perfect sense.
+It is useful to realize that behind a .com domain name companies can hide hundreds or thousands of subdomains, for example __extole.com hides 20,366 subdomains names__. Blocking by domain name extensions (TLD) makes perfect sense.
 
 ### Study and verification
 
