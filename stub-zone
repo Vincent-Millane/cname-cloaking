@@ -2,7 +2,7 @@
 #
 # Number of domains concerned : 106
 #
-# Number of web addresses concerned : 17 852
+# Number of web addresses concerned : 18 204
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -47515,18 +47515,1073 @@ stub-zone:
 #
 #########################################################################################################
 #
-#	3 addresses of the domain pir are blocked
+#	357 addresses of the domain pir are blocked
 #
 stub-zone:
 	name: "pir.com."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "pir.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.nl."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "pir.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "pir.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.games."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.game."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.art."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "pir.cn."
 	stub-addr: 127.0.0.1
-	
+stub-zone:
+	name: "pir.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.flowers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.casa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.audio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.build."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.school."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tips."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tube."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.christmas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.luxe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.gift."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tattoo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.wedding."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cafe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.menu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.coocking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ngo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.surf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.express."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.miami."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.photo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.press."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pictures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.lawyer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.rip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.guitars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.gives."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.diet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.film."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.law."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.courses."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.host."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.attorney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.bg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.blackfriday."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.esurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "pir.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.co.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.bible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.feedback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.charity."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.fm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.abogado."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.jetzt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.kg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.kim."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.krd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.melbourne."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.nrw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ong."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.re."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.st."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.sydney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.uno."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.uz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.xxx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ac."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.com.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.compare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.rugby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.select."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "pir.org.cn."
+	stub-addr: 127.0.0.1
 #
 #	End of the pir domain
 #
