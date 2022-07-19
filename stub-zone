@@ -1,43 +1,32 @@
 # See the readme before.
 #
-# Number of domains concerned : 105
+# Number of domains concerned : 106
 #
-# Number of web addresses concerned : 17 723
+# Number of web addresses concerned : 17 852
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 16.07.2022 	- my french touch -
+#	modified : 19.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
 #	177 addresses of the domain eulerian are blocked
 #
-
-#	Hide 1 389 eulerian_net subdomains
 stub-zone:
 	name: "eulerian.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 314 eulerian_com subdomains
 stub-zone:
 	name: "eulerian.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 253 eulerian_fr subdomains
 stub-zone:
 	name: "eulerian.fr."
 	stub-addr: 127.0.0.1
-	
-#	Hide 93 eurlerian_org subdomains
 stub-zone:
 	name: "eulerian.org."
 	stub-addr: 127.0.0.1
-
-#	Hide 175 eulerian_eu subdomains
 stub-zone:
 	name: "eulerian.eu."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "eulerian.online."
 	stub-addr: 127.0.0.1
@@ -958,22 +947,15 @@ stub-zone:
 #
 #	820 addresses of the domain a.20mn are blocked
 #
-
-#	Hide 5 a.20mn_net subdomains
 stub-zone:
 	name: "a.20mn.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 331 a.20mn_com subdomains
 stub-zone:
 	name: "a.20mn.com."
 	stub-addr: 127.0.0.1
-
-#	Hide 21 a.20mn_fr subdomains
 stub-zone:
 	name: "a.20mn.fr."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "a.20mn.biz."
 	stub-addr: 127.0.0.1
@@ -3426,17 +3408,12 @@ stub-zone:
 #
 #	141 addresses of the domain at-o are blocked
 #	
-
-#	Hide 101 at-o_net subdomains
 stub-zone:
 	name: "at-o.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 69 at-o_com subdomains
 stub-zone:
 	name: "at-o.com."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "at-o.biz."
 	stub-addr: 127.0.0.1
@@ -3855,17 +3832,12 @@ stub-zone:
 #
 #	137 addresses of the domain keyade are blocked
 #
-
-#	Hide 69 keyade_com subdomains
 stub-zone:
 	name: "keyade.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 14 keyade_net subdomains
 stub-zone:
 	name: "keyade.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "keyade.fr."
 	stub-addr: 127.0.0.1
@@ -4272,17 +4244,12 @@ stub-zone:
 #
 #	155 addresses of the domain storetail are blocked
 #
-
-#	Hide 39 storetail_com subdomains
 stub-zone:
 	name: "storetail.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 75 storetail_net subdomains
 stub-zone:
 	name: "storetail.net."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "storetail.io."
 	stub-addr: 127.0.0.1
@@ -4742,13 +4709,10 @@ stub-zone:
 ####################################################################################################
 #
 #	134 addresses of the domain omtrdc are blocked
-#
-
-# Hide 11 191 subdomains	
+#	
 stub-zone:
 	name: "omtrdc.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "omtrdc.io."
 	stub-addr: 127.0.0.1
@@ -5149,17 +5113,12 @@ stub-zone:
 #
 #	141 addresses of the domain bp01 are blocked
 #	
-
-#	Hide 15 subdomains
 stub-zone:
 	name: "chapsvision.com."
 	stub-addr: 127.0.0.1	
-
-#	Hide 294 bp01_net subdomains
 stub-zone:
 	name: "bp01.net."
-	stub-addr: 127.0.0.1
-		
+	stub-addr: 127.0.0.1		
 stub-zone:
 	name: "bp01.org."
 	stub-addr: 127.0.0.1
@@ -5584,17 +5543,12 @@ stub-zone:
 #
 #	164 addresses of the domain webtrekk are blocked
 #
-
-# Hide 118 subdomains
 stub-zone:
 	name: "webtrekk.com."
-	stub-addr: 127.0.0.1
-
-#	Hide 274 webtrekk_net subdomains		
+	stub-addr: 127.0.0.1		
 stub-zone:
 	name: "webtrekk.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "webtrekk.io."
 	stub-addr: 127.0.0.1
@@ -6085,17 +6039,12 @@ stub-zone:
 #
 #	523 addresses of the domain criteo are blocked
 #
-
-#	Hide 341 criteo_com subdomains
 stub-zone:
 	name: "criteo.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 121 criteo_net subdomains
 stub-zone:
 	name: "criteo.net."
-	stub-addr: 127.0.0.1
-			
+	stub-addr: 127.0.0.1			
 stub-zone:
 	name: "criteo.fr."
 	stub-addr: 127.0.0.1	
@@ -7674,18 +7623,13 @@ stub-zone:
 ####################################################################################################
 #
 #	185 addresses of the domain brightcove are blocked
-#
-
-#	Hide 20 brightcove_net subdomains	
+#	
 stub-zone:
 	name: "brightcove.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 526 brightcove_com subdomains
 stub-zone:
 	name: "brightcove.com."
-	stub-addr: 127.0.0.1
-			
+	stub-addr: 127.0.0.1			
 stub-zone:
 	name: "brightcove.fr."
 	stub-addr: 127.0.0.1
@@ -8233,17 +8177,12 @@ stub-zone:
 #
 #	202 addresses of the domain appnexus are blocked
 #
-
-#	Hide 1 139 appnexus_com subdomains
 stub-zone:
 	name: "appnexus.com."
 	stub-addr: 127.0.0.1
-
-#	Hide 1 448 appnexus_net subdomains	
 stub-zone:
 	name: "appnexus.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "appnexus.fr."
 	stub-addr: 127.0.0.1
@@ -8845,17 +8784,12 @@ stub-zone:
 #
 #	322 addresses of the domain taboola are blocked
 #
-
-#	Hide 190 taboola_com subdomains
 stub-zone:
 	name: "taboola.com."
 	stub-addr: 127.0.0.1
-	
-#	hide 100 taboola_org subdomains
 stub-zone:
 	name: "taboola.org."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "taboola.net."
 	stub-addr: 127.0.0.1
@@ -10360,18 +10294,13 @@ stub-zone:
 ####################################################################################################
 #
 #	160 addresses of the domain tagcommander are blocked
-#	
-
-# Hide 89 subdomains
+#
 stub-zone:
 	name: "commandersact.com."
 	stub-addr: 127.0.0.1
-
-# Hide 368 subdomains
 stub-zone:
 	name: "tagcommander.com."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "tagcommander.io."
 	stub-addr: 127.0.0.1
@@ -10850,12 +10779,9 @@ stub-zone:
 #
 #	141 addresses of the domain wizaly are blocked
 #
-
-# Hide 81 subdomains
 stub-zone:
 	name: "wizaly.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "wizaly.net."
 	stub-addr: 127.0.0.1
@@ -11277,12 +11203,9 @@ stub-zone:
 #
 #	124 addresses of the domain tracedock are blocked
 #
-
-#	Hide 36 subdomains
 stub-zone:
 	name: "tracedock.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "tracedock.nl."
 	stub-addr: 127.0.0.1
@@ -11668,12 +11591,9 @@ stub-zone:
 #
 #	153 addresses of the domain affex are blocked
 #
-
-#	Hide 33 subdomains
 stub-zone:
 	name: "ingenioustechnologies.com."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "affex.org."
 	stub-addr: 127.0.0.1
@@ -12140,12 +12060,9 @@ stub-zone:
 #
 #	126 addresses of the domain wt-eu02 are blocked
 #
-
-#	Hide 297 subdomains
 stub-zone:
 	name: "wt-eu02.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "wt-eu02.com."
 	stub-addr: 127.0.0.1
@@ -12522,27 +12439,18 @@ stub-zone:
 #
 #	226 addresses of the domain ottogroup are blocked
 #
-
-#	Hide 9 subdomains
 stub-zone:
 	name: "ottogroup.media."
 	stub-addr: 127.0.0.1
-	
-#	Hide 261 ottogroup com
 stub-zone:
 	name: "ottogroup.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 56 ottogroup net
 stub-zone:
 	name: "ottogroup.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 6 ottogroup org
 stub-zone:
 	name: "ottogroup.org."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "ottogroup.be."
 	stub-addr: 127.0.0.1
@@ -13213,22 +13121,15 @@ stub-zone:
 #
 #	140 addresses of the domain oghub are blocked
 #
-
-#	Hide 436 oghub_com subdomains
 stub-zone:
 	name: "oghub.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 77 oghub_net sudomains
 stub-zone:
 	name: "oghub.net."
 	stub-addr: 127.0.0.1
-
-#	hide 894 oghub_io sudomains
 stub-zone:
 	name: "oghub.io."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "oghub.org."
 	stub-addr: 127.0.0.1
@@ -13638,22 +13539,15 @@ stub-zone:
 #
 #	185 addresses of the domain 207 are blocked
 #
-
-# Hide 2 871 207_net subdomains
 stub-zone:
 	name: "207.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 9 399 207_com subdomains
 stub-zone:
 	name: "207.com."
 	stub-addr: 127.0.0.1
-
-#	Hide 220 207_org domains
 stub-zone:
 	name: "207.org."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "207.nl."
 	stub-addr: 127.0.0.1
@@ -15999,17 +15893,12 @@ stub-zone:
 #
 #	206 addresses of the domain track.a are blocked
 #
-
-#	Hide 3 866 trck.a_com subdomains
 stub-zone:
 	name: "trck.a.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 100 track.a_org subdomains
 stub-zone:
 	name: "trck.a.org."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "trck.a.be."
 	stub-addr: 127.0.0.1
@@ -16629,12 +16518,9 @@ stub-zone:
 #
 #	129 addresses of the domain madmetrics are blocked
 #
-
-#	Hide 16 madmetrics_com subdomains
 stub-zone:
 	name: "madmetrics.com."
-	stub-addr: 127.0.0.1
-		
+	stub-addr: 127.0.0.1		
 stub-zone:
 	name: "madmetrics.fr."
 	stub-addr: 127.0.0.1
@@ -17636,22 +17522,15 @@ stub-zone:
 #
 #	243 addresses of the domain drawbridge are blocked
 #
-
-#	Hide 52 drawbridge_com subdomains
 stub-zone:
 	name: "drawbridge.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 5 drawbridge_net subdomains
 stub-zone:
 	name: "drawbridge.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 8 drawbridge_org subdomains
 stub-zone:
 	name: "drawbridge.org."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "drawbridge.nl."
 	stub-addr: 127.0.0.1
@@ -18373,12 +18252,9 @@ stub-zone:
 #
 #	174 addresses of the domain eloqua are blocked
 #
-
-# Hide 2 357 subdomains
 stub-zone:
 	name: "eloqua.com."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "eloqua.be."
 	stub-addr: 127.0.0.1
@@ -20586,27 +20462,18 @@ stub-zone:
 #
 #	178 addresses of the domain plausible are blocked
 #
-
-#	Hide 13 plausible_io subdomains
 stub-zone:
 	name: "plausible.io."
 	stub-addr: 127.0.0.1
-
-#	Hide 120 plausible_com subdomains
 stub-zone:
 	name: "plausible.com."
 	stub-addr: 127.0.0.1
-
-#	Hide 9 plausible_net subdomains
 stub-zone:
 	name: "plausible.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 4 plausible_info subdomains
 stub-zone:
 	name: "plausible.info."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "plausible.online."
 	stub-addr: 127.0.0.1
@@ -21130,12 +20997,9 @@ stub-zone:
 #
 #	181 addresses of the domain liveramp are blocked
 #
-
-#	Hide 218 liveramp_com subdomains
 stub-zone:
 	name: "liveramp.com."
-	stub-addr: 127.0.0.1
-		
+	stub-addr: 127.0.0.1		
 stub-zone:
 	name: "liveramp.io."
 	stub-addr: 127.0.0.1
@@ -21659,22 +21523,15 @@ stub-zone:
 #
 #	165 addresses of the domain trafficmanager are blocked
 #
-
-# Hide 46 558 trafficmanager_net subdomains
 stub-zone:
 	name: "trafficmanager.net."
-	stub-addr: 127.0.0.1
-
-#	Hide 132 trafficmanager_com subdomains	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "trafficmanager.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 2 trafficmanager_org subdomains
 stub-zone:
 	name: "trafficmanager.org."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "trafficmanager.be."
 	stub-addr: 127.0.0.1
@@ -22544,27 +22401,18 @@ stub-zone:
 #
 #	161 addresses of the domain actionlink are blocked
 #
-
-#	Hide 767 action_link subdomains
 stub-zone:
 	name: "actionlink.jp."
 	stub-addr: 127.0.0.1
-
-#	Hide 62 actionlink_com subdomains
 stub-zone:
 	name: "actionlink.com."
-	stub-addr: 127.0.0.1
-
-#	Hide 4 actionlink_net subdomains	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "actionlink.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 3 actionlink_info subdomains
 stub-zone:
 	name: "actionlink.info."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "actionlink.org."
 	stub-addr: 127.0.0.1
@@ -23031,47 +22879,30 @@ stub-zone:
 #
 #	224 addresses of the domain ebis are blocked
 #
-
-#	Hide 428 ebis.ne_jp subdomains
 stub-zone:
 	name: "ebis.ne.jp."
 	stub-addr: 127.0.0.1
-	
-#	Hide 100 ebis.ne_com subdomains
 stub-zone:
 	name: "ebis.ne.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 100 ebis.ne_net subdomains
 stub-zone:
 	name: "ebis.ne.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 100 ebis.ne_org subdomains
 stub-zone:
 	name: "ebis.ne.org."
-	stub-addr: 127.0.0.1
-
-#	Hide 1 513 ebis_com subdomains	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "ebis.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 224 ebis_net subdomains
 stub-zone:
 	name: "ebis.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 121 ebis_org subdomains
 stub-zone:
 	name: "ebis.org."
 	stub-addr: 127.0.0.1
-	
-#	Hide 57 ebis_info subdomains
 stub-zone:
 	name: "ebis.info."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "ebis.be."
 	stub-addr: 127.0.0.1
@@ -23729,13 +23560,10 @@ stub-zone:
 ################################################################################################
 #
 #	131 addresses of the domain adsplyglass are blocked
-#
-
-# Hide 11 subdomains	
+#	
 stub-zone:
 	name: "adspyglass.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "adspyglass.ads."
 	stub-addr: 127.0.0.1
@@ -24124,12 +23952,9 @@ stub-zone:
 #
 #	129	addresses of the domain 0i0i0i0 are blocked
 #	
-		
-# Hide 3 subdonamins
 stub-zone:
 	name: "0i0i0i0.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "0i0i0i0.ads."
 	stub-addr: 127.0.0.1
@@ -24511,23 +24336,16 @@ stub-zone:
 ##################################################################################################
 #
 #	171 addresses of the domain act-on are blocked
-#
-
-#	Hide 56 act-on_com subdomains
+#s
 stub-zone:
 	name: "act-on.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 57 act-on_net subdomains
 stub-zone:
 	name: "act-on.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 8 act-on_org subdomains
 stub-zone:
 	name: "act-on.org."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "act-on.nl."
 	stub-addr: 127.0.0.1
@@ -25024,28 +24842,18 @@ stub-zone:
 #
 #	427 addresses of the domain branch are blocked
 #
-
-#	Hide 235 branch_io subdomains
 stub-zone:
 	name: "branch.io."
 	stub-addr: 127.0.0.1
-	
-#	Hide 3 466 branch_net subdomains
 stub-zone:
 	name: "branch.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 11 559 branch_com subdomains
 stub-zone:
 	name: "branch.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 1 493 branch_org subdomains
 stub-zone:
 	name: "branch.org."
 	stub-addr: 127.0.0.1
-	
-#	Hide 112 branch_info subdomains
 stub-zone:
 	name: "branch.info."
 	stub-addr: 127.0.0.1	
@@ -26301,37 +26109,24 @@ stub-zone:
 #
 #	235 addresses of the domain thirdparty are blocked
 #
-
-#	Hide 152 thirdparty_com subdomains
 stub-zone:
 	name: "thirdparty.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 152 thirdparty_net subdomains
 stub-zone:
 	name: "thirdparty.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 24 thirdparty_org subdomains
 stub-zone:
 	name: "thirdparty.org."
 	stub-addr: 127.0.0.1
-	
-#	Hide 8 thirdparty_info subdomains
 stub-zone:
 	name: "thirdparty.info."
 	stub-addr: 127.0.0.1
-	
-#	Hide 5 thirdparty_io subdomains
 stub-zone:
 	name: "thirdparty.io."
-	stub-addr: 127.0.0.1
-
-#	Hide 2 subdomains	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "thirdparty.bnc.lt."
-	stub-addr: 127.0.0.1
-		
+	stub-addr: 127.0.0.1		
 stub-zone:
 	name: "thirdparty.be."
 	stub-addr: 127.0.0.1
@@ -27002,12 +26797,9 @@ stub-zone:
 #
 #	130 addresses of the domain dataunlocker are blocked
 #
-
-#	Hide 13 subdomains
 stub-zone:
 	name: "dataunlocker.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "dataunlocker.ads."
 	stub-addr: 127.0.0.1
@@ -27396,12 +27188,9 @@ stub-zone:
 #
 #	132 addresses of the domain fathomhq are blocked
 #
-
-#	Hide 4 fathomhq_com subdomains
 stub-zone:
 	name: "fathomhq.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "fathomhq.design."
 	stub-addr: 127.0.0.1
@@ -28743,8 +28532,6 @@ stub-zone:
 #
 #	145 addresses of the domain ad-cloud are blocked
 #	
-	
-#	1 ad-cloud.jp subdomains
 stub-zone:
 	name: "ad-cloud.jp."
 	stub-addr: 127.0.0.1	
@@ -29554,12 +29341,9 @@ stub-zone:
 #
 #	178 addresses of the domain pardot are blocked
 #
-
-# Hide 323 pardot subdomains 
 stub-zone:
 	name: "pardot.com."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "pardot.be."
 	stub-addr: 127.0.0.1
@@ -30089,12 +29873,9 @@ stub-zone:
 #
 #	333 addresses of the domain intent are blocked
 #
-
-#	Hide 4 339 intent subdomains
 stub-zone:
 	name: "intent.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "intent.be."
 	stub-addr: 127.0.0.1
@@ -31092,12 +30873,9 @@ stub-zone:
 #
 #	299 addresses of the domain segment are blocked
 #
-
-#	Hide 1 169 segment subdomains
 stub-zone:
 	name: "segment.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "segment.be."
 	stub-addr: 127.0.0.1
@@ -32573,8 +32351,6 @@ stub-zone:
 #
 #	143 addresses of the domain towerdata are blocked
 #	
-
-# Hide 54 subdomains
 stub-zone:
 	name: "towerdata.com."
 	stub-addr: 127.0.0.1
@@ -33004,14 +32780,10 @@ stub-zone:
 #################################################################################################
 #
 #	143 addresses of the domain bridgecorp are blocked
-#
-
-#	Hide 14 bridgecorp subdomains	
+#	
 stub-zone:
 	name: "bridgecorp.net."
-	stub-addr: 127.0.0.1
-
-#	Hide 163 bridgecorp subdomains	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "bridgecorp.com."
 	stub-addr: 127.0.0.1	
@@ -33045,7 +32817,6 @@ stub-zone:
 stub-zone:
 	name: "bridgecorp.xyz."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "bridgecorp.safety."
 	stub-addr: 127.0.0.1
@@ -33433,13 +33204,10 @@ stub-zone:
 ###################################################################################################
 #
 #	165 addresses of the domain tapad are blocked
-#
-
-#	Hide 337 tapad subdomains	
+#	
 stub-zone:
 	name: "tapad.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "tapad.net."
 	stub-addr: 127.0.0.1	
@@ -33930,17 +33698,12 @@ stub-zone:
 #
 #	227 addresses of the domain starman are blocked
 #
-
-#	Hide 287 starman_com subdomains
 stub-zone:
 	name: "starman.com."
 	stub-addr: 127.0.0.1
-	
-#	Hide 287 starman_net subdomains
 stub-zone:
 	name: "starman.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "starman.be."
 	stub-addr: 127.0.0.1
@@ -34611,12 +34374,9 @@ stub-zone:
 #
 #	143 addresses of the domain actonservice are blocked
 #
-
-#	Hide 2 598 actonservice_com subdomains
 stub-zone:
 	name: "actonservice.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "actonservice.net."
 	stub-addr: 127.0.0.1
@@ -35038,16 +34798,12 @@ stub-zone:
 #
 #	143 addresses of the domain actonsoftware are blocked
 #
-
-#	Hide 2 948 actonservice_com subdomains
 stub-zone:
 	name: "actonsoftware.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "actonsoftware.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "actonsoftware.nl."
 	stub-addr: 127.0.0.1
@@ -35472,7 +35228,6 @@ stub-zone:
 #
 #	143	addresses of the domain actionservice are blocked
 #	
-
 stub-zone:
 	name: "actionservice.com."
 	stub-addr: 127.0.0.1
@@ -35903,12 +35658,9 @@ stub-zone:
 #
 #	163 addresses of the domain extole are blocked
 #
-
-#	Hide 20 366 extole_com subdomains
 stub-zone:
 	name: "extole.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "extole.eu."
 	stub-addr: 127.0.0.1
@@ -36790,12 +36542,9 @@ stub-zone:
 #
 #	132 addresses of the domain smetrics are blocked
 #
-
-#	Hide 920 smetrics_com subdomains
 stub-zone:
 	name: "smetrics.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "smetrics.info."
 	stub-addr: 127.0.0.1
@@ -37223,7 +36972,6 @@ stub-zone:
 stub-zone:
 	name: "intentmedia.io."
 	stub-addr: 127.0.0.1
-
 stub-zone:
 	name: "intentmedia.tv."
 	stub-addr: 127.0.0.1
@@ -37654,12 +37402,9 @@ stub-zone:
 #
 #	363 addresses of the domain cnt are blocked
 #
-
-#	Hide 378 cnt_net subdomains
 stub-zone:
 	name: "cnt.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "cnt.com."
 	stub-addr: 127.0.0.1
@@ -38741,7 +38486,6 @@ stub-zone:
 #
 #	132 addresses of the domain 2cnt are blocked
 #
-
 stub-zone:
 	name: "2cnt.net."
 	stub-addr: 127.0.0.1	
@@ -40209,13 +39953,9 @@ stub-zone:
 #
 #	804 addresses of the domain ads are blocked
 #
-
-#	Hide 89 ads_bid subdomains
 stub-zone:
 	name: "ads.bid."
 	stub-addr: 127.0.0.1
-	
-#	Hide 100 ads_com subdomains
 stub-zone:
 	name: "ads.com."
 	stub-addr: 127.0.0.1
@@ -42248,17 +41988,12 @@ stub-zone:
 #
 #	133 addresses of the domain b-cdn are blocked
 #
-
-#	Hide 100 b-cdn_net subdomains
 stub-zone:
 	name: "b-cdn.net."
 	stub-addr: 127.0.0.1
-	
-#	Hide 82 b-cdn_com subdomains
 stub-zone:
 	name: "b-cdn.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "b-cdn.org."
 	stub-addr: 127.0.0.1
@@ -43065,12 +42800,9 @@ stub-zone:
 #
 #	141 addresses of the domain parsely are blocked
 #
-
-#	Hide 268 parsely_com subdomains
 stub-zone:
 	name: "parsely.com."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "parsely.net."
 	stub-addr: 127.0.0.1
@@ -43498,12 +43230,9 @@ stub-zone:
 #
 #	133 addresses of the domain madiawallah are blocked
 #
-
-#	Hide 42 857 madiawallah_ax_net subdomains
 stub-zone:
 	name: "madiawallah.ax.net."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 stub-zone:
 	name: "madiawallah.ads."
 	stub-addr: 127.0.0.1
@@ -45584,8 +45313,6 @@ stub-zone:
 #
 #	107 addresses of the domain a8 are blocked
 #
-
-# Hide 40 352 a8_com subdomains
 stub-zone:
 	name: "a8.com."
 	stub-addr: 127.0.0.1
@@ -45914,8 +45641,6 @@ stub-zone:
 #
 #	1 addresses of the domain a are blocked
 #
-
-#	Hide 3 866 a_com subdomains
 stub-zone:
 	name: "a.com."
 	stub-addr: 127.0.0.1
@@ -47593,8 +47318,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "aliyum.cn."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #
 #	End of the aliyum domain
 #
@@ -47619,8 +47343,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "overdue.cn."
-	stub-addr: 127.0.0.1
-		
+	stub-addr: 127.0.0.1		
 #
 #	End of the overdue domain
 #
@@ -47631,7 +47354,6 @@ stub-zone:
 stub-zone:
 	name: "yfcname.com."
 	stub-addr: 127.0.0.1
-
 #
 #	End of the yfcname domain
 #
@@ -47647,8 +47369,7 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "greycdn.org."
-	stub-addr: 127.0.0.1
-	
+	stub-addr: 127.0.0.1	
 #
 #	End of the greycdn domain
 #
@@ -53423,7 +53144,6 @@ stub-zone:
 #
 #	177 addresses of the domain trustpilot are blocked
 #
-#	Hide 596 trustpilot_com subdomains
 stub-zone:
 	name: "trustpilot.com."
 	stub-addr: 127.0.0.1
@@ -54200,5 +53920,399 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of trustpilot domain
+#
+################################################################################
+#
+#	131 addresses of the domain ev-navi are blocked
+#
+stub-zone:
+	name: "ev-navi.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ev-navi.tatar."
+	stub-addr: 127.0.0.1
+#
+#	End of ev-navi domain
 #
 ################################################################################
