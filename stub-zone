@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 106
+# Number of domains concerned : 107
 #
-# Number of web addresses concerned : 18 204
+# Number of web addresses concerned : 18 390
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 19.07.2022 	- my french touch -
+#	modified : 20.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -45637,7 +45637,7 @@ stub-zone:
 #
 #	End of the a8 domain
 #
-########################################################################################################
+################################################################################
 #
 #	1 addresses of the domain a are blocked
 #
@@ -45645,12 +45645,589 @@ stub-zone:
 	name: "a.com."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "a.17986.net."
-	stub-addr: 127.0.0.1	
-#	
+	name: "a.org."
+	stub-addr: 127.0.0.1
 #
+#	End of a domain
+#
+################################################################################	
+#
+#	192 addresses of the domain 17986 are blocked
+#
+stub-zone:
+	name: "17986.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.us."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ads."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.lifestyle."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.architect."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cn."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.case."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.camera."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.show."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.boutique."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.accountants."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.associates."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.tennis."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.codes."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.city."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cheap."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cards."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.team."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.bike."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.bet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.diamonds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.school."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.blue."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.safety."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cash."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.town."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.secure."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.spot."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.you."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.now."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.office."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.web."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.tour."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.safe."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.play."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.pay."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.meet."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.style."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.wow."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.mobile."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.save."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.box."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.hotel."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.music."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.prof."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.mobily."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.broadway."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.food."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.pets."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.singles."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.buy."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.movie."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.medical."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.search."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.sexy."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.sports."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.kid."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.docs."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.free."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.plus."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.moscow."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.corp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.coupon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.network."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ren."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.moto."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.investments."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.guide."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.globo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.country."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cruises."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.here."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.data."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.day."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.final."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.fly."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.heart."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.hotels."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.kids."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.living."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.promo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.social."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.bio."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.zone."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.band."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.soccer."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.navy."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.lotto."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.rip."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.fitness."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.contruction."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.exposed."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.inc."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cool."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.news."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.graphics."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.tax."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.vet."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.land."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.vote."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.plumbing."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.voyage."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.holdings."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.equipment."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.roma."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.meme."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ecom."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.mail."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.baseball."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.med."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.contact."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.translations."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.phone."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.zip."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.book."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.thai."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.banque."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.esurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.foo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.vuelos."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.scholarships."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.goo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.idn."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.arab."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.autoinsurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cc."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cd."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cityeats."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.lifeinsurance."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.nowruz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.citic."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.indians."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.persiangulf."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.dad."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.map."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.pars."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.dot."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.rsvp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.pid."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.bway."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.budapest."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.stockholm."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.boo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.lds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ira."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.esq."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.wang."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.llp."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.qpon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.comsec."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.kosher."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.dds."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.realtor."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.phd."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cpa."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ovh."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.latino."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.cx."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ee."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.patagonia."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.islam."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.mormon."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.creditunion."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.kz."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.lv."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "17986.mba."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.weibo."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.halal."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ph."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.reisen."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.so."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.tires."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.bond."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.ng."
+	stub-addr: 127.0.0.1	
+stub-zone:
+	name: "17986.com.ph."
+	stub-addr: 127.0.0.1
 #	
-########################################################################################################
+#	End of 17986 domain
+#	
+################################################################################
 #
 #	204 addresses of the domain domoco are blocked
 #
@@ -47498,24 +48075,16 @@ stub-zone:
 #
 #########################################################################################################
 #
-#	2 addresses of the domain 17986 are blocked
+#	2 addresses of the domain  are blocked
 #
-stub-zone:
-	name: "17986.com."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "17986.net."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "17986.cn."
-	stub-addr: 127.0.0.1
+
 	
 #
-#	End of the 17986 domain
+#	End of the  domain
 #
 #########################################################################################################
 #
-#	357 addresses of the domain pir are blocked
+#	356 addresses of the domain pir are blocked
 #
 stub-zone:
 	name: "pir.com."
@@ -47549,9 +48118,6 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "pir.fr."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "pir.org."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "pir.de."
