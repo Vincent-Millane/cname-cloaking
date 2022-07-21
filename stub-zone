@@ -2,11 +2,11 @@
 #
 # Number of domains concerned : 107
 #
-# Number of web addresses concerned : 18 390
+# Number of web addresses concerned : 18 793
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 20.07.2022 	- my french touch -
+#	modified : 21.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -49180,64 +49180,1271 @@ stub-zone:
 #
 #########################################################################################################	
 #
-#	18 addresses of the domain junior are blocked
+#	423 addresses of the domain junior are blocked
 #
 stub-zone:
 	name: "junior.com."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "junior.co."
+	name: "junior.be."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "junior.org."
+	name: "junior.nl."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "junior.net."
+	name: "junior.online."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "junior.info."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "junior.uk."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "junior.co.uk."
-	stub-addr: 127.0.0.1
-stub-zone:
-	name: "junior.fr."
+	name: "junior.store."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "junior.eu."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "junior.eu.com."
+	name: "junior.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.site."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.org."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "junior.de."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "junior.pl."
+	name: "junior.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.immo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cool."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.deals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.sale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.live."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "junior.it."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "junior.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "junior.es."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "junior.pt."
+	name: "junior.zone."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "junior.gr."
+	name: "junior.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.dk."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "junior.us."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "junior.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.games."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.bio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.clothing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.bar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.doctor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.casa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.band."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ceo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.build."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tennis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.codes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cards."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.shool."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tube."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.careers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.dog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.soccer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.gold."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.black."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.baby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.golf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.vet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.toys."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.menu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.land."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.discount."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.spa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.computer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.kiwi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.eco."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.training."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.vodka."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.sport."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.surf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.express."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.engineer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fishing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.miami."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.photo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.market."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.poker."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.photography."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.report."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.family."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.international."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.lawyer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.moe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.football."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.garden."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.horse."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.forsale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.loans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.immobilien."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.green."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.film."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hockey."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.community."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.host."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.radio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.college."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.camp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.realty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.actor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.af."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.as."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.am."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.attorney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.bg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.exchange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.bz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pîd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.feedback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.fm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ge."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.gay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.kyoto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.md."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.melbourne."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ms."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.my."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.paris."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.re."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.reisen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.rodeo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.rs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.sc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.soy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.sr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.srl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.sucks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.sydney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.uno."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "junior.us.com."
 	stub-addr: 127.0.0.1
-
-
+stub-zone:
+	name: "junior.za.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.co.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.rugby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.select."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "junior.com.ru."
+	stub-addr: 127.0.0.1
 #
 #	End of the junior domain
 #
