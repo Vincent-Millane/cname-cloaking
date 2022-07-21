@@ -2,7 +2,7 @@
 #
 # Number of domains concerned : 107
 #
-# Number of web addresses concerned : 18 793
+# Number of web addresses concerned : 19 002
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -48075,12 +48075,22 @@ stub-zone:
 #
 #########################################################################################################
 #
-#	2 addresses of the domain  are blocked
+#	4 addresses of the domain novit are blocked
 #
-
-	
+stub-zone:
+	name: "novit.io."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.org."
+	stub-addr: 127.0.0.1	
 #
-#	End of the  domain
+#	End of the novit domain
 #
 #########################################################################################################
 #
@@ -49153,28 +49163,641 @@ stub-zone:
 #
 #########################################################################################################	
 #
-#	6 addresses of the domain ename are blocked
+#	213 addresses of the domain ename are blocked
 #
 stub-zone:
 	name: "ename.com."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "ename.org."
+	name: "ename.be."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.site."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "ename.net."
 	stub-addr: 127.0.0.1
 stub-zone:
-	name: "ename.biz."
+	name: "ename.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.compagny."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.it."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "ename.io."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "ename.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.art."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "ename.cn."
 	stub-addr: 127.0.0.1
-
-	
+stub-zone:
+	name: "ename.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.cards."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.name."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.link."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.domains."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.cm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.rasvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.quebec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.tel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.tn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.co.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.tatar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "ename.org.cn."
+	stub-addr: 127.0.0.1
 #
 #	End of the ename domain
 #
