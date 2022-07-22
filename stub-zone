@@ -2,11 +2,11 @@
 #
 # Number of domains concerned : 107
 #
-# Number of web addresses concerned : 19 002
+# Number of web addresses concerned : 19 165
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 21.07.2022 	- my french touch -
+#	modified : 22.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -48075,20 +48075,509 @@ stub-zone:
 #
 #########################################################################################################
 #
-#	4 addresses of the domain novit are blocked
+#	169 addresses of the domain novit are blocked
 #
 stub-zone:
 	name: "novit.io."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "novit.be."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "novit.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.eu."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "novit.net."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "novit.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "novit.org."
-	stub-addr: 127.0.0.1	
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.info."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.as."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.nc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.sh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ski."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "novit.com.ua."
+	stub-addr: 127.0.0.1
 #
 #	End of the novit domain
 #
