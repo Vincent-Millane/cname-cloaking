@@ -2,7 +2,7 @@
 #
 # Number of domains concerned : 107
 #
-# Number of web addresses concerned : 19 165
+# Number of web addresses concerned : 19 293
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -48058,7 +48058,7 @@ stub-zone:
 #
 #########################################################################################################
 #
-#	3 addresses of the domain swnic are blocked
+#	133 addresses of the domain swnic are blocked
 #
 stub-zone:
 	name: "swnic.com."
@@ -48067,9 +48067,392 @@ stub-zone:
 	name: "swnic.net."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "swnic.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "swnic.cn."
 	stub-addr: 127.0.0.1
-	
+stub-zone:
+	name: "swnic.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.vx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "swnic.com.cn."
+	stub-addr: 127.0.0.1
 #
 #	End of the swnic domain
 #
