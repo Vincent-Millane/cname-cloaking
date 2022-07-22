@@ -2,7 +2,7 @@
 #
 # Number of domains concerned : 107
 #
-# Number of web addresses concerned : 19 901
+# Number of web addresses concerned : 20 026
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -47936,7 +47936,7 @@ stub-zone:
 #
 #########################################################################################################
 #
-#	3 addresses of the domain greycdn are blocked
+#	130 addresses of the domain greycdn are blocked
 #
 stub-zone:
 	name: "greycdn.com."
@@ -47946,7 +47946,382 @@ stub-zone:
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "greycdn.org."
-	stub-addr: 127.0.0.1	
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "greycdn.tatar."
+	stub-addr: 127.0.0.1
 #
 #	End of the greycdn domain
 #
