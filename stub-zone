@@ -2,7 +2,7 @@
 #
 # Number of domains concerned : 107
 #
-# Number of web addresses concerned : 19 293
+# Number of web addresses concerned : 19 901
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -47311,7 +47311,7 @@ stub-zone:
 #
 ###################################################################################################
 #
-#	1 addresses of the domain cv are blocked
+#	197 addresses of the domain cv are blocked
 #
 stub-zone:
 	name: "cv.com."
@@ -48029,30 +48029,1853 @@ stub-zone:
 #
 #########################################################################################################
 #
-#	7 addresses of the domain park are blocked
+#	617 addresses of the domain park are blocked
 #
 stub-zone:
 	name: "park.io."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "park.be."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "park.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.nl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.online."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.store."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.eu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.shop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.site."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "park.net."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "park.tech."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fr."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "park.org."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.de."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.app."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.expert."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.website."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.compagny."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "park.info."
 	stub-addr: 127.0.0.1
 stub-zone:
+	name: "park.immo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.design."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.world."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.blog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.agency."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.club."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cloud."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.digital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vlaanderen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.brussels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rocks."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cool."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.deals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.email."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.group."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fashion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.news."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.technology."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.live."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.marketing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.it."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.amsterdam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.guru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.global."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.zone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.accountant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.solutions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.dk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.us."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.co.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.events."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.games."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.social."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.consulting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.me."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.top."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.dev."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.clothing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ninja."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.media."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.win."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.architec."
+	stub-addr: 127.0.0.1
+stub-zone:
 	name: "park.biz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.academy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.today."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.supply."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.shopping."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lol."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.review."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kitchen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.help."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.art."
 	stub-addr: 127.0.0.1
 stub-zone:
 	name: "park.cn."
 	stub-addr: 127.0.0.1
-
+stub-zone:
+	name: "park.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.click."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.boats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.trade."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.doctor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.business."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.autos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.homes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.center."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.motorcycles."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.casa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.band."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.stream."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.beauty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.auction."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tools."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.best."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.beer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.berlin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.casino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.show."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.build."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.boutique."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.associates."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tennis."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.codes."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.city."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cheap."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.wiki."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.yoga."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cards."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.asia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bank."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.team."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bike."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.studio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.diamonds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.school."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.blue."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tips."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.makeup."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vegas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tube."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.careers."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.care."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.wine."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.reviews."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.dog."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tours."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.travel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cash."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.luxe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ventures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.webcam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.builders."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.yachts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.soccer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.buzz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.town."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.chat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.coach."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gold."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.page."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.baby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.institute."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.watch."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.golf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tax."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gift."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.services."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tattoo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.coffe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.trading."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.supplies."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.credit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.health."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lease."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.theater."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.navy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.wedding."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cafe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.life."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.date."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.productions."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.menu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.style."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.land."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.discount."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.solar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.study."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.computer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.markets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.video."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.systems."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.taxi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kiwi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.management."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vote."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.inc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.run."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.eco."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.support."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vodka."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.men."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sport."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.dental."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.villas."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.limited."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hiphop."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.dentist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rent."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.nyc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.clinic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.restaurant."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sexy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.surf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.express."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.earth."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.memorial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.direct."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.plumbing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.red."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.racing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.engineer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.photos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.love."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fishing."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.miami."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.photo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lighting."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fans."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.market."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.swiss."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.press."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.science."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rentals."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mobi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cricket."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.work."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.photography."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.report."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pictures."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.partners."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.plus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.loan."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.foundation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.family."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.furniture."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.wtf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.party."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.international."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.money."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fyi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lawyer."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.moe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.estate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pizza."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.industries."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.london."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.network."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ooo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.football."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gives."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fitness."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gallery."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.garden."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.horse."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pics."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.forsale."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gifts."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.porn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ie."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.legal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.florist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.engineering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.education."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.financial."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ink."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.green."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hamburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.guide."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.energy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.car."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rio."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.holdings."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fund."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.film."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.country."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.how."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.law."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.equipment."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.community."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.house."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.faith."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cruises."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.courses."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.directory."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.host."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.healthcare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fit."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.college."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.camp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.domains."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fish."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hospital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ist."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.corsica."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.works."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.realty."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.catering."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.adult."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.finance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ae."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.aero."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.istanbul."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.af."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ag."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.al."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.apartments."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.contact."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.army."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.translations."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.as."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.am."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.at."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.attorney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.az."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.exchange."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ca."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.africa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.capetown."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.capital."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.church."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.onl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ci."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.scot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.realestate."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hair."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.feedback."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.br."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.farm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.ni."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.tr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.condos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.cz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.frl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.desi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.do."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.download."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.durban."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ee."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fi."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.fm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ge."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.haus."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.hu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.is."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.je."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.joburg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kim."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.koeln."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kr."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kyoto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.li."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mba."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.md."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.melbourne."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.moda."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.mx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.nagoya."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.no."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.nrw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.nu."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.okinawa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.one."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.osaka."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.paris."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ph."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.properties."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.property."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pt."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pub."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.quebec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.re."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.reisen."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ro."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rodeo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ru."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ru.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.saarland."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.se."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sex."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.si."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ski."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.soy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.srl."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.st."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.su."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sydney."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tapei."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tickets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tirom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.to."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tokyo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.uk.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.uk.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.uno."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.us.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.uy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.wales."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.wien."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ws."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.yokohama."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.za.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.qa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ac."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.id."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.bond."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ci.il."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.co.in."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.co.jp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.co.nz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.co.th."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.co.za."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.es."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.hk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.sg."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.tw."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.ua."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.vn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.compare."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.im."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ke."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.la."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.lc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.monster."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.net.au."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.ng."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.org.uk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.pk."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.rugby."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.select."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.skin."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.sx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.tatar."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.vc."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.net.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.org.cn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "park.com.ph."
+	stub-addr: 127.0.0.1
 #
 #	End of the park domain
 #
