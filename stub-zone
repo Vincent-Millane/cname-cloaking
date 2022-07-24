@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 107
+# Number of domains concerned : 108
 #
-# Number of web addresses concerned : 20 026
+# Number of web addresses concerned : 20 163
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 22.07.2022 	- my french touch -
+#	modified : 24.07.2022 	- my french touch -
 #
 ####################################################################################################
 #
@@ -60835,5 +60835,423 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of ev-navi domain
+#
+################################################################################
+#
+#	139 addresses of the domain scorecardresearch are blocked
+#
+stub-zone:
+	name: "scorecardresearch.com."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.net."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.space."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.jobs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.ads."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.lifestyle."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.architect."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.art."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.fun."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.case."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.xyz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.safety."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.secure."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.spot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.you."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.now."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.office."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.web."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.tour."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.safe."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.play."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.meet."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.land."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.booking."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.trust."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.wow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.ltd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.mobile."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.save."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.box."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.hotel."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.music."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.prof."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.mobily."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.broadway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.food."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.pets."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.buy."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.medical."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.search."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.sports."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.mov."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.hot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.kid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.docs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.free."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.moscow."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.corp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.coupon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.ren."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.moto."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.home."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.globo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.here."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.data."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.day."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.deal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.eat."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.final."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.fly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.heart."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.hotels."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.kids."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.living."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.roma."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.meme."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.ecom."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.mail."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.baseball."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.med."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.epost."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.translation."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.phone."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.zip."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.book."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.thai."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.banque."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.esurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.foo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.vuelos."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.co."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.by."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.scholarships."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.goo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.idn."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.arab."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.autoinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.audible."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.cd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.cityeats."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.lifeinsurance."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.mls."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.nowruz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.citic."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.indians."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.persiangulf."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.dad."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.map."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.pars."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.dot."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.rsvp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.shia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.pid."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.bway."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.budapest."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.stockholm."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.boo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.lds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.ira."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.esq."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.wang."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.active."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.llp."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.qpon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.comsec."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.kosher."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.dds."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.realtor."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.phd."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.cpa."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.ovh."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.catalonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.latino."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.cx."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.patagonia."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.islam."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.mormon."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.gs."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.creditunion."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.kz."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.lv."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.ly."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.weibo."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.halal."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.so."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "scorecardresearch.tk."
+	stub-addr: 127.0.0.1
+#
+#	End of scorecardresearch domain
 #
 ################################################################################
