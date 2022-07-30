@@ -1,4 +1,4 @@
-# Detailed list of sites using cname-cloacking with their extensions
+from the official website# Detailed list of sites using cname-cloacking with their extensions
 
 __Sites using stalkers disguise with cname, a method to block them with Unbound__
 
@@ -182,9 +182,12 @@ Feel free to share with me if you know of other sites, I will update my stub-zon
 
 
 
-## For Android devices
+## For Android and IOS devices
 
-There is the application: __Blokada__ (https://blokada.org/) downloadable from the F-Droid repository (https://f-droid.org/). It is a trusted repository of free software and often of very good quality.
+There is the application: __Blokada__ (https://blokada.org/) downloadable from the from the official website (https://blokada.org/#download).
+
+You can add the list of cnames from this repository by tapping > Ad Blocking > Blacklists and choosing Add New Blacklist and pasting the direct link : https://github.com/Vincent-Millane/cname-cloaking/blob/ main/list_cnames.txt
+Let the application generate a name. Your list will be updated once a day automatically.
 
 
 I have been using __Blokada__ since the beginning of January 2022, it has blocked 252,452 ads or trackers for me since. It has an option to activate to block cname trackers. That's an average of 2,019 blocks per day. Very convenient.
