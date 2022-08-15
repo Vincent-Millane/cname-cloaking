@@ -18,6 +18,24 @@ In fact, an address can hide hundreds of addresses with extensions or referrals 
  
 Would you like to have a spy placed on your shoulder from morning to night to analyze your every movement of the day down to the brand of toilet paper you use?
 
+##Law n° 78-17 of January 6, 1978 relating to data processing, files and freedoms
+###Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+
+I discovered that the Matomo software, which wants to compete with Google Analytics on equal terms, is referenced on the French State website as reliable software, just to have one more unicorn. I remind you that Google is on trial almost everywhere in the world for methods of data collection without everyone's knowledge. What has happened to the European law which obliges sites to allow the choice to capture personal data or not?
+
+What has become of the European GDPR law?
+ "The General Data Protection Regulation - RGPD" (https://www.cnil.fr/fr/reglement-europeen-protection-donnees) concerning the freedom to refuse the siphoning of personal data?
+
+To be concrete, Matomo which absorbed Piwik is more than 410 domain names without counting the very many variations of sub-domains. I have ceased my search for sub-domains because they are numerous and link to complicated nebulae. In short, we will be watched from morning to sunset through a whole network of obscure connections that could end up on the dark web tomorrow.
+
+It is a violation of our dear data protection act, initially Law n° 78-17 of January 6, 1978 relating to data processing, files and freedoms which one still finds on all the documents of the French administration which does not mention the amendments to the law of June 1, 2019 (https://www.cnil.fr/fr/la-loi-informatique-et-libertes) starting with Article 1 of Chapter I - Principles and definitions .
+This law allowed all French people to consult the data concerning them on simple request.
+
+Our guarantor of good IT practice forgets her missions (https://www.cnil.fr/fr/les-missions-de-la-cnil#:~:text=Dans%20l'univers%20num%C3%A9rique% 2C%20the,personal%20and%20exercise%20their%20rights.) and seems to look elsewhere as it did for the application of European GDPR law regarding the GDPR.
+    *Dans l’univers numérique, la Commission nationale de l'informatique et des libertés (CNIL) est le régulateur des données personnelles. Elle accompagne les professionnels dans leur mise en conformité et aide les particuliers à maîtriser leurs données personnelles et exercer leurs droits.*
+
+*In the digital world, the National Commission for Computing and Liberties (CNIL) is the regulator of personal data. It supports professionals in their compliance and helps individuals to control their personal data and exercise their rights.*
+
 ## Notes after some research
 
 You notice that some domain owners go out of their way to be hidden like all honest companies do, isn't it ?
@@ -186,7 +204,7 @@ Feel free to share with me if you know of other sites, I will update my stub-zon
 
 There is the application: __Blokada__ (https://blokada.org/) downloadable from the from the official website (https://blokada.org/#download).
 
-You can add the list of cnames from this repository by tapping > Ad Blocking > Blacklists and choosing Add New Blacklist and pasting the direct link : https://github.com/Vincent-Millane/cname-cloaking/blob/ main/list_cnames.txt
+You can add the list of cnames from this repository by tapping > Ad Blocking > Blacklists and choosing Add New Blacklist and pasting the direct link : https://github.com/Vincent-Millane/cname-cloaking/blob/main/list_cnames.txt
 Let the application generate a name. Your list will be updated once a day automatically.
 
 
