@@ -37,6 +37,7 @@ Our guarantor of good IT practice forgets her missions ([https://www.cnil.fr/fr/
 *In the digital world, the National Commission for Computing and Liberties (CNIL) is the regulator of personal data. It supports professionals in their compliance and helps individuals to control their personal data and exercise their rights.*
 
 As the French director, Michel Audiard, said in his film in 1968:
+
 *"Faut pas prendre les enfants du bon Dieu pour des canards sauvages"*
 *"Don't take God's children for wild ducks"*
 
