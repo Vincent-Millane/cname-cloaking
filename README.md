@@ -1,4 +1,4 @@
-from the official website# Detailed list of sites using cname-cloacking with their extensions
+# Detailed list of sites using cname-cloacking with their extensions
 
 __Sites using stalkers disguise with cname, a method to block them with Unbound__
 
