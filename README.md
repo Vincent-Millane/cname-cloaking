@@ -33,7 +33,7 @@ This law <u>allowed</u> all French people to consult the data concerning them on
 
 Our guarantor of good IT practice forgets her missions ([https://www.cnil.fr/fr/les-missions-de-la-cnil#:~:text=Dans%20l'univers%20num%C3%A9rique% 2C%20the,personal%20and%20exercise%20their%20rights](URL)) and seems to look elsewhere as it did for the application of European GDPR law regarding the GDPR.
 
-    *Dans l’univers numérique, la Commission nationale de l'informatique et des libertés (CNIL) est le régulateur des données personnelles. Elle accompagne les professionnels dans leur mise en conformité et aide les particuliers à maîtriser leurs données personnelles et exercer leurs droits.*
+*Dans l’univers numérique, la Commission nationale de l'informatique et des libertés (CNIL) est le régulateur des données personnelles. Elle accompagne les professionnels dans leur mise en conformité et aide les particuliers à maîtriser leurs données personnelles et exercer leurs droits.*
 
 *In the digital world, the National Commission for Computing and Liberties (CNIL) is the regulator of personal data. It supports professionals in their compliance and helps individuals to control their personal data and exercise their rights.*
 
