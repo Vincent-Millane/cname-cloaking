@@ -18,13 +18,12 @@ In fact, an address can hide hundreds of addresses with extensions or referrals 
  
 Would you like to have a spy placed on your shoulder from morning to night to analyze your every movement of the day down to the brand of toilet paper you use?
 
-##Law n° 78-17 of January 6, 1978 relating to data processing, files and freedoms
-###Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+## Law n° 78-17 of January 6, 1978 relating to data processing, files and freedoms.
+### Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 I discovered that the Matomo software, which wants to compete with Google Analytics on equal terms, is referenced on the French State website as reliable software, just to have one more unicorn. I remind you that Google is on trial almost everywhere in the world for methods of data collection without everyone's knowledge. What has happened to the European law which obliges sites to allow the choice to capture personal data or not?
 
-What has become of the European GDPR law?
- "The General Data Protection Regulation - RGPD" (https://www.cnil.fr/fr/reglement-europeen-protection-donnees) concerning the freedom to refuse the siphoning of personal data?
+What has become of the European GDPR law? The General Data Protection Regulation - RGPD (https://www.cnil.fr/fr/reglement-europeen-protection-donnees) concerning the freedom to refuse the siphoning of personal data?
 
 To be concrete, Matomo which absorbed Piwik is more than 410 domain names without counting the very many variations of sub-domains. I have ceased my search for sub-domains because they are numerous and link to complicated nebulae. In short, we will be watched from morning to sunset through a whole network of obscure connections that could end up on the dark web tomorrow.
 
