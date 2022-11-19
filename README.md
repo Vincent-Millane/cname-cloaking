@@ -205,9 +205,9 @@ Feel free to share with me if you know of other sites, I will update my stub-zon
 
 ## For Android and IOS devices
 
-I found a cool Privacy Badger extension <privacybadger.org> that doesn't block ads but all cnames and other vicious trackers.
+I found a cool Privacy Badger extension <http://privacybadger.org> that doesn't block ads but all cnames and other vicious trackers.
 
-To block advertising Adguard is stable. It is not permanently disabled on Chinese phones (ex: Huawei).
+To block advertising Adguard is stable. It is not permanently disabled on Chinese phones (ex: Huawei and others).
 
 Adguard works on IOS and MacOs <https://adguard.com/fr/welcome.html>
 
