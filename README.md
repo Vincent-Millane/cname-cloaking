@@ -3,7 +3,6 @@
 __Sites using stalkers disguise with cname, a method to block them with Unbound__
 
 
-
 ## Why ?
 
 Cname-cloacking is in violation of European laws (GDPR) and the law in many countries since they hide DNS referrals to the site you are visiting. It is therefore impossible to collect the user's consent for these third-party sites and the immediate effect is that you are tracked on all kinds of sites.
@@ -50,7 +49,6 @@ You notice that some domain owners go out of their way to be hidden like all hon
 On the French side very few do it but one in particular deserves a red card. This company hide all the whois information. This company has registered its 214 domain names plus 193 domain names with a French registrar. It is hosted in France (we can legitimately think that it is the same host as for the registration), but it has published a website in English in total disregard of French obligations to publish legal and commercial notices. This company wants to compete with Google Analytics, just that.
 
 It's funny to see the United Nations, NASA and the European Commission among others associated with this kind of practice.
-
 
 
 ## Method of working
@@ -133,13 +131,13 @@ So, that's the reason why I don't provide a list of subdomains
 
 ### Where download Unbound ?
 
-This list is in the stub-zone format of Windows, Linux and BSD compatible unbound software (https://nlnetlabs.nl/projects/unbound/about/).
+This list is in the stub-zone format of Windows, Linux and BSD compatible unbound software ([https://nlnetlabs.nl/projects/unbound/about/](URL)).
 
 Under linux, Unbound is probably available in packages. Search with apt, yum or dnf.
 
 ### Unbound configuration
  
-To configure Unbound according to your needs with several examples configurations: https://calomel.org/unbound_dns.html.
+To configure Unbound according to your needs with several examples configurations: [https://calomel.org/unbound_dns.html](URL).
 
 #### Configure unbound.conf with this stub-zone list
  
@@ -191,15 +189,13 @@ to be able to modify it again, it is the opposite
     sudo chattr -i /etc/resolv.conf
 
 
-
-
 ## About this data
 
 The data in this list is public and accessible to anyone who can use a DNS query tool such as nslookup, dig, drill or whois, etc. and their graphic counterparts.
 
- Some web pages will go from 10 mb to 1 mb! (https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/)
+ Some web pages will go from 10 mb to 1 mb! ([https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/](URL))
 
-I was inspired in part by the work of these contributors https://github.com/nextdns/cname-cloaking-blocklist.
+I was inspired in part by the work of these contributors [https://github.com/nextdns/cname-cloaking-blocklist](URL).
 I use lists available on the web.
 I dug deeper.
 
@@ -209,13 +205,11 @@ Feel free to share with me if you know of other sites, I will update my stub-zon
 
 ## For Android and IOS devices
 
-There is the application: __Blokada__ (https://blokada.org/) downloadable from the from the official website (https://blokada.org/#download).
+I found a cool Privacy Badger extension ([privacybadger.org](URL)) that doesn't block ads but all cnames and other vicious trackers.
 
-You can add the list of cnames from this repository by tapping > Ad Blocking > Blacklists and choosing Add New Blacklist and pasting the direct link : https://github.com/Vincent-Millane/cname-cloaking/blob/main/list_cnames.txt
-Let the application generate a name. Your list will be updated once a day automatically.
+To block advertising Adguard is stable. It is not permanently disabled on Chinese phones (ex: Huawei).
 
-
-I have been using __Blokada__ since the beginning of January 2022, it has blocked 252,452 ads or trackers for me since. It has an option to activate to block cname trackers. That's an average of 2,019 blocks per day. Very convenient.
+Adguard works on IOS and MacOs ([https://adguard.com/fr/welcome.html](URL))
 
 
 
@@ -226,10 +220,10 @@ There you have English "made in Google".
 * You use another DNS server and you want your contributions to cname blocking? You belong here.
 
 ## To read :
-+ https://blog.apnic.net/2020/08/04/characterizing-cname-cloaking-based-tracking/
-+ https://tma.ifip.org/2020/wp-content/uploads/sites/9/2020/06/tma2020-camera-paper66.pdf
-+ https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/
-+ https://www.theregister.com/2021/03/04/adguard_cname_tracker/
++ [https://blog.apnic.net/2020/08/04/characterizing-cname-cloaking-based-tracking/](URL)
++ [https://tma.ifip.org/2020/wp-content/uploads/sites/9/2020/06/tma2020-camera-paper66.pdf](URL)
++ [https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/](URL)
++ [https://www.theregister.com/2021/03/04/adguard_cname_tracker/](URL)
 
 ## To do
 + Update this list
