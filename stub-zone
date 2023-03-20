@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 110
+# Number of domains concerned : 111
 #
-# Number of web addresses concerned : 20 411
+# Number of web addresses concerned : 20 550
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 20.03.2023 	- my french touch -
+#	modified : 2023.03.20
 #
 ####################################################################################################
 #
@@ -62011,5 +62011,429 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of gvt2 domain
+#
+################################################################################
+#
+#	141 addresses of the domain gvt1 are blocked
+#
+stub-zone:
+	name: "gvt1.com"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.net"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.org"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.jobs"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.ads"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.lifestyle"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.architec"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.help"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.art"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.cn"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.click"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.case"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.safety"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.secure"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.spot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.you"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.now"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.office"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.web"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.tour"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.safe"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.play"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.pay"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.meet"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.booking"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.trust"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.wow"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.mobile"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.save"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.box"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.hotel"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.music"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.prof"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.mobily"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.broadway"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.food"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.pets"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.buy"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.medical"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.search"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.sexy"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.sports"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.mov"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.hot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.kid"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.docs"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.free"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.moscow"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.corp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.coupon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.ren"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.moto"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.home"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.globo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.here"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.data"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.day"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.deal"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.eat"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.final"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.fly"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.heart"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.hotels"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.living"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.roma"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.meme"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.ecom"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.mail"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.baseball"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.med"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.epost"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.translations"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.phone"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.zip"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.book"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.thai"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.banque"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.esurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.foo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.vuelos"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.co"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.by"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.scholarships"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.goo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.idn"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.arab"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.autoinsurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.audible"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.cd"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.cityeats"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.lifeinsurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.mls"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.nowruz"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.citic"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.indians"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.persiangulf"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.dad"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.map"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.pars"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.dot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.rsvp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.shia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.pid"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.bway"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.budapest"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.stockholm"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.lds"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.ira"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.esq"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.wang"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.active"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.llp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.qpon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.comsec"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.kosher"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.dds"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.realtor"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.phd"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.cpa"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.ovh"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.catalonia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.latino"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.cx"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.patagonia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.islam"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.mormon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.gs"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.creditunion"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.kz"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.lv"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.ly"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.weibo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.halal"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.one"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.sl"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.so"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.tk"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.qa"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt1.id"
+	stub-addr: 127.0.0.1
+#
+#	End of gvt1 domain
 #
 ################################################################################
