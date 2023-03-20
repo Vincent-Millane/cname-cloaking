@@ -1,8 +1,8 @@
 # See the readme before.
 #
-# Number of domains concerned : 108
+# Number of domains concerned : 109
 #
-# Number of web addresses concerned : 20 163
+# Number of web addresses concerned : 20 279
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
@@ -61253,5 +61253,360 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of scorecardresearch domain
+#
+################################################################################
+#
+#	118 addresses of the domain qq are blocked
+#
+stub-zone:
+	name: "qq.com"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.ads"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.lifestyle"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.architect"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.case"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.safety"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.secure"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.spot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.you"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.now"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.office"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.web"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.tour"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.safe"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.play"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.pay."
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.meet"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.booking"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.trust"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.wow"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.mobile"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.save"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.box"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.hotel"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.music"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.prof"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.mobily"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.broadway"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.food"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.pets"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.buy"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.medical"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.search"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.sports"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.mov"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.hot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.kid"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.docs"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.free"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.corp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.coupon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.ren"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.moto"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.home"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.globo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.here"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.data"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.day"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.deal"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.eat"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.final"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.fly"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.heart"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.hotels"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.living"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.roma"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.meme"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.ecom"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.mail"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.baseball"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.med"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.epost"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.translations"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.phone"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.zip"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.book"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.thai"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.banque"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.esurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.foo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.vuelos"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.scholarships"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.goo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.idn"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.arab"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.autoinsurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.audible"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.cityeats"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.lifeinsurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.mls"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.nowruz"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.citic"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.indian"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.persiangulf"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.dad"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.map"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.pars"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.dot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.rsvp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.shia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.pid"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.bway"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.dudapest"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.stockholm"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.lds"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.ira"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.esq"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.wang"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.active"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.llp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.qpon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.comsec"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.kosher"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.dds"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.realtor"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.phd"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.cpa"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.ovh"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.catalonia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.latino"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.patagonia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.islam"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.mormon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.creditunion"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.weibo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "qq.halal"
+	stub-addr: 127.0.0.1
+#
+#	End of qq domain
 #
 ################################################################################
