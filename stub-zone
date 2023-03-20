@@ -1,12 +1,12 @@
 # See the readme before.
 #
-# Number of domains concerned : 109
+# Number of domains concerned : 110
 #
-# Number of web addresses concerned : 20 279
+# Number of web addresses concerned : 20 411
 #
 # Subdomains that are systematically included in the blocking are not counted
 #
-#	modified : 24.07.2022 	- my french touch -
+#	modified : 20.03.2023 	- my french touch -
 #
 ####################################################################################################
 #
@@ -61608,5 +61608,408 @@ stub-zone:
 	stub-addr: 127.0.0.1
 #
 #	End of qq domain
+#
+################################################################################
+#
+#	134 addresses of the domain gvt2 are blocked
+#
+stub-zone:
+	name: "gvt2.com"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.net"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.de"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.ads"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.lifestyle"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.architect"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.help"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.cn"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.click"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.case"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.safety"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.secure"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.spot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.you"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.now"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.office"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.web"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.tour"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.safe"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.play"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.pay"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.meet"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.booking"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.trust"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.wow"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.mobile"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.save"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.box"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.hotel"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.music"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.prof"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.mobily"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.broadway"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.food"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.pets"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.buy"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.medical"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.search"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.sexy"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.sports"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.mov"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.hot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.kid"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.docs"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.free"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.moscow"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.corp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.coupon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.ren"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.moto"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.home"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.globo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.here"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.data"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.day"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.deal"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.eat"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.final"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.fly"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.heart"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.hotels"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.living"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.roma"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.meme"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.ecom"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.mail"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.baseball"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.med"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.epost"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.translations"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.phone"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.zip"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.book"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.thai"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.banque"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.esurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.foo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.vuelos"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.by"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.scholarships"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.goo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.idn"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.arab"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.autoinsurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.audible"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.cd"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.cityeats"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.lifeinsurance"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.mls"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.nowruz"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.citic"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.indians"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.persiangulf"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.dad"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.map"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.pars"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.dot"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.rsvp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.shia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.pid"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.bway"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.dudapest"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.stockholm"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.lds"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.ira"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.esq"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.wang"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.active"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.llp"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.qpon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.comsec"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.kosher"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.dds"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.realtor"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.phd"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.cpa"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.ovh"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.catalonia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.latino"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.cx"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.patagonia"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.islam"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.mormon"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.gs"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.creditunion"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.kz"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.lv"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.ly"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.weibo"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.halal"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.so"
+	stub-addr: 127.0.0.1
+stub-zone:
+	name: "gvt2.id"
+	stub-addr: 127.0.0.1
+#
+#	End of gvt2 domain
 #
 ################################################################################
