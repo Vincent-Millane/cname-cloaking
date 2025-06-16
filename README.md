@@ -19,7 +19,8 @@ There is now a very important issue of energy saving and the autonomy of our con
 
 The data in these lists is public and accessible to anyone capable of using a DNS query tool such as nslookup, dig, drill or whois, etc. and their graphical equivalents.
 
- Some web pages will go from 10 mb to 1 mb! (<https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/>). 
+Some web pages will go from 10 mb to 1 mb! (<https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/>). 
+ 
 The bandwidth saved results in energy savings at all levels of the Internet from servers to hubs, right down to our devices.
 
 
@@ -51,7 +52,7 @@ Adguard works on IOS and MacOs <https://adguard.com/fr/welcome.html>
 
 
 
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 
 If you want to make my work and my investment available to everyone, you can do it in Monero cryptocurrency with this account number:
