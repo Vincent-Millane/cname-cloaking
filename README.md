@@ -50,13 +50,9 @@ To block advertising Adguard is stable. It is not permanently disabled on Chines
 
 Adguard works on IOS and MacOs <https://adguard.com/fr/welcome.html>
 
-.
-.
-.
-.
-.
-.
-.
+
+
+___________________________________________________________________________________________________________________________________________
 
 If you want to make my work and my investment available to everyone, you can do it in Monero cryptocurrency with this account number:
 
