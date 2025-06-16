@@ -1,30 +1,27 @@
-# Detailed list of sites using cname-cloacking with their extensions
-
-__Sites using stalkers disguise with cname, a method to block them with Unbound__
+# Detailed list of sites using cname-cloacking, tracking or tracking advertising.
 
 
 ## Why ?
 
-Cname-cloacking is in violation of European laws (GDPR) and the law in many countries since they hide DNS referrals to the site you are visiting. It is therefore impossible to collect the user's consent for these third-party sites and the immediate effect is that you are tracked on all kinds of sites.
+Cname-cloacking is in breach of European law (GDPR) and the law in many countries as they hide the DNS references to the site you are visiting. It is therefore impossible to obtain user consent for these third-party sites and the immediate effect is that you are tracked on all sorts of sites.
 
-It is a more pernicious method than third-party cookies because it is unspoken and without recourse.
-It's a real gold mine for companies that use this process.
+This is a more pernicious method than third-party cookies because it is tacit and without recourse.
+It's a real goldmine for the companies that use it.
 
-These companies can keep your data as long as they want since this data does not officially exist. It could be our whole life.
-
-Some cname lists that circulate on the internet are very superficial and masked by different acts.
-In fact, an address can hide hundreds of addresses with extensions or referrals to other very interesting addresses.
+These companies can keep your data for as long as they like, since it does not officially exist. It could be your whole life.
  
-Would you like to have a spy placed on your shoulder from morning to night to analyze your every movement of the day down to the brand of toilet paper you use?
+Would you like to have a spy on your shoulder from morning to night, analysing your every move throughout the day, right down to the brand of toilet paper you use?
+
+There is now a very important issue of energy saving and the autonomy of our connected devices. It makes good ecological sense.
 
 
 ## About this data
 
-The data in this list is public and accessible to anyone who can use a DNS query tool such as nslookup, dig, drill or whois, etc. and their graphic counterparts.
+The data in these lists is public and accessible to anyone capable of using a DNS query tool such as nslookup, dig, drill or whois, etc. and their graphical equivalents.
 
- Some web pages will go from 10 mb to 1 mb! (<https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/>)
+ Some web pages will go from 10 mb to 1 mb! (<https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/>). 
+The bandwidth saved results in energy savings at all levels of the Internet from servers to hubs, right down to our devices.
 
-Feel free to share with me if you know of other sites, I will update my stub-zone.
 
 ## For Windows and Linux
 
@@ -51,6 +48,7 @@ I found a cool Privacy Badger extension <http://privacybadger.org> that doesn't 
 To block advertising Adguard is stable. It is not permanently disabled on Chinese phones (ex: Huawei and others).
 
 Adguard works on IOS and MacOs <https://adguard.com/fr/welcome.html>
+
 
 
 
