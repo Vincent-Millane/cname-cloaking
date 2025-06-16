@@ -36,8 +36,8 @@ These solutions offer huge savings in data and bandwidth, not to mention conside
 For example, Pihole blocks 35-60% of advertising and trackers. This translates into a 50% increase in battery life for my Samsung smartphone.
 
 I have created blocking lists for Pi-hole that you can download directly from the Pi-hole interface > Lists
-A list based on strict regexes of domain names
-A list based on regexes that take sub-domains into account
+* A list based on strict regexes of domain names
+* A list based on regexes that take sub-domains into account
 
 
 ## For Android and IOS devices
