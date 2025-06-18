@@ -35,9 +35,18 @@ These solutions offer huge savings in data and bandwidth, not to mention conside
 
 For example, Pihole blocks 35-60% of advertising and trackers. This translates into a 50% increase in battery life for my Samsung smartphone.
 
-I have created blocking lists for Pi-hole that you can download directly from the Pi-hole interface > Lists
+I have created blocking lists for Pi-hole. You can download them to your computer and open them with your favourite editor.
+
 * A list based on strict regexes of domain names [pihole_domains_list.txt](https://github.com/Vincent-Millane/cname-cloaking/blob/main/pihole_domains_list.txt)
 * A list based on regexes that take sub-domains into account [pihole sub-domain list.txt](https://github.com/Vincent-Millane/cname-cloaking/blob/main/pihole%20sub-domain%20list.txt)
+
+Do not add these lists as text lists because the regexes will probably be treated as text.
+
+The solution, which only takes a few seconds, is to copy each list and paste it into the pihole graphical interface for adding regexes in 
+Domains > Domain management > RegEx filter
+and paste into the field.
+
+Clicking on the ‘Add to denied domains’ button will add the regexes to Gravity's sqlite3 database in a few seconds. You will notice that the red icon to the right of "Domains" has increased accordingly.
 
 
 ## For Android and IOS devices
