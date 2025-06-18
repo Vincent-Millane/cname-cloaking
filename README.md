@@ -24,7 +24,7 @@ Some web pages will go from 10 mb to 1 mb! (<https://www.laquadrature.net/2020/1
 The bandwidth saved results in energy savings at all levels of the Internet from servers to hubs, right down to our devices.
 
 
-## For Windows and Linux
+## For Windows, Mac and Linux
 
 You can install the excellent DNS software that also caches DNS unbound: https://www.nlnetlabs.nl/projects/unbound/about/
 You can then include the stub-zone list [stub-zone](https://github.com/Vincent-Millane/cname-cloaking/blob/main/stub-zone).
