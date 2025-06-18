@@ -42,7 +42,8 @@ I have created blocking lists for Pi-hole. You can download them to your compute
 
 Do not add these lists as text lists because the regexes will probably be treated as text.
 
-The solution, which only takes a few seconds, is to copy each list and paste it into the pihole graphical interface for adding regexes in 
+The solution, which only takes a few seconds, is to copy each list and paste it into the pihole graphical interface for adding regexes in :
+
 Domains > Domain management > RegEx filter
 and paste into the field.
 
