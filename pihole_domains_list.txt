@@ -159,12 +159,10 @@
 (\.|^)ghochv3eng\.
 (\.|^)giphy\.
 (\.|^)go\.
-(\.|^)google\.
 (\.|^)googleads\.
 (\.|^)googleadservices\.
 (\.|^)googleadwords\.
 (\.|^)google-analytics\.
-(\.|^)googleapis\.
 (\.|^)googlecode\.
 (\.|^)googleoptimize\.
 (\.|^)googlesyndication\.
