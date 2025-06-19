@@ -172,7 +172,6 @@
 (\.|^)googleusercontent\.
 (\.|^)gracenote\.
 (\.|^)greycdn\.
-(\.|^)gstatic\.
 (\.|^)gumgum\.
 (\.|^)hellobike\.
 (\.|^)hicloud\.
