@@ -295,7 +295,6 @@
 (\.|^)googleusercontent.\.$
 (\.|^)googleusercontent.com\.$
 (\.|^)gracenote.com\.$
-(\.|^)gstatic.com\.$
 (\.|^)gumgum.com\.$
 (\.|^)hardware.metrics.mozilla.com\.$
 (\.|^)hellobike.com\.$
