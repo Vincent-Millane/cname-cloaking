@@ -12,7 +12,10 @@ They can keep your data for as long as they like, since it does not officially e
 
 Would you like to have a spy on your shoulder from morning to night, analysing your every move throughout the day, right down to the brand of toilet paper you use?
 
-The issue of energy savings and the autonomy of our connected devices is now very important. It's a question of ecological common sense.
+A recent revelation showed that certain viruses could hide in the advertisements of a major global company using information that was not available to the public. This is nothing new, but now it's been proven.
+
+The issue of energy savings and the autonomy of our connected devices is now very important. It's a question of ecological common sense. 
+Premature ageing due to over-solicitation of advertising is a major factor. The image of a vehicle in overdrive dragging advertising hoardings seems appropriate to me.
 
 
 ## About this data
