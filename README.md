@@ -49,6 +49,14 @@ and paste into the field.
 
 Clicking on the ‘Add to denied domains’ button will add the regexes to Gravity's sqlite3 database in a few seconds. You will notice that the red icon to the right of "Domains" has increased accordingly.
 
+### Tips
+
+- In my observations, I have found that it is risky to use Android applications that have hard-coded calls to trackers, bugs and advertising agencies. I assume the same applies to iPhones, but I don't have any to verify this.
+As far as possible, use a good browser with extensions that protect your privacy (high marks to ‘cookie autodelete’ for taking care of cookies). This will be enough to block all these malicious trackers, although there are a few caveats.
+
+- It is possible that the regexes can block sub-domains of sites that you like with Pihole, the solution is to set the blocked line to ‘Allow’ to authorise this sub-domain.
+
+
 
 ## For Android and IOS devices
 
@@ -56,9 +64,14 @@ Starting with the excellent ublock origin https://ublockorigin.com
 
 I found a cool Privacy Badger extension <http://privacybadger.org> that doesn't block ads but all cnames and other vicious trackers.
 
-To block advertising Adguard is stable. It is not permanently disabled on Chinese phones (ex: Huawei and others).
+To block advertising Adguard is stable.
+In the advanced settings, there is a watchdog option to restart Adguard. 
+This is very useful if you find that Android regularly disables Adguard. It's an admission that this software is powerful.
+
+It is available for Android, IOS, Linux, Mac, Windows and Android TV and as an extension for browsers.
 
 Adguard works on IOS and MacOs <https://adguard.com/fr/welcome.html>
+.
 
 
 
