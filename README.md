@@ -27,10 +27,13 @@ Some web pages will go from 10 mb to 1 mb! (<https://www.laquadrature.net/2020/1
 The bandwidth saved results in energy savings at all levels of the Internet from servers to hubs, right down to our devices.
 
 
-## For Windows, Mac and Linux
+## Unbound for Linux, Mac and Windows
 
 You can install the excellent DNS software that also caches DNS unbound: https://www.nlnetlabs.nl/projects/unbound/about/
 You can then include the stub-zone list [stub-zone](https://github.com/Vincent-Millane/cname-cloaking/blob/main/stub-zone).
+
+
+## Pihole for Linux, Mac and Windows
 
 For a family or with the multitude of connected objects, installing Pi-hole is **very effective**: https://pi-hole.net/
 
@@ -53,6 +56,10 @@ and paste into the field.
 Clicking on the _‘Add to denied domains’_ button will add the regexes to Gravity's sqlite3 database in a few seconds.   
 You will notice that the red icon to the right of "Domains" has increased accordingly.
 
+Pihole remains the ideal solution for protecting **all the devices in your home** as soon as you can specify a DNS server on your private network. 
+
+Pihole even protects you outside your home if you use a VPN that connects you to your web router.
+
 ### Tips
 
 - In my observations, I have found that it is risky to use Android applications that have hard-coded calls to trackers, bugs and advertising agencies. I assume the same applies to iPhones, but I don't have any to verify this.  
@@ -61,8 +68,7 @@ As far as possible, use a good browser with extensions that protect your privacy
 - It is possible that the regexes can block sub-domains of sites that you like with Pihole, the solution is to set the blocked line to ‘Allow’ to authorise this sub-domain.
 
 
-
-## For Android and IOS devices
+## Extensions for Android and IOS devices
 
 Starting with the excellent ublock origin <https://ublockorigin.com>.
 
@@ -72,18 +78,14 @@ To block advertising Adguard is stable.
 In the advanced settings, there is a watchdog option to restart Adguard. 
 This is very useful if you find that Android regularly disables Adguard. It's an admission that this software is powerful.
 
-It is available for Android, IOS, Linux, Mac, Windows and Android TV and as an extension for browsers.
+Adguard works on Android and IOS <https://adguard.com/fr/welcome.html>
 
-Adguard works on IOS and MacOs <https://adguard.com/fr/welcome.html>
 
-## For Android TV, Linux, Mac, Windows
+## Adguard for Android TV, Linux, Mac, Windows
 
 Adguard blocks ads, trackers and phishing 
 <https://adguard.com>
 
-Pihole remains the ideal solution for protecting all the devices in your home as soon as you can specify a DNS server on your private network. 
-
-Pihole even protects you outside your home if you use a VPN that connects you to your web router.
 \
 \
 \
