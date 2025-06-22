@@ -50,11 +50,12 @@ The solution, which only takes a few seconds, is to copy each list and paste it 
 _Domains > Domain management > RegEx filter_
 and paste into the field.
 
-Clicking on the ‘Add to denied domains’ button will add the regexes to Gravity's sqlite3 database in a few seconds. You will notice that the red icon to the right of "Domains" has increased accordingly.
+Clicking on the _‘Add to denied domains’_ button will add the regexes to Gravity's sqlite3 database in a few seconds.   
+You will notice that the red icon to the right of "Domains" has increased accordingly.
 
 ### Tips
 
-- In my observations, I have found that it is risky to use Android applications that have hard-coded calls to trackers, bugs and advertising agencies. I assume the same applies to iPhones, but I don't have any to verify this.
+- In my observations, I have found that it is risky to use Android applications that have hard-coded calls to trackers, bugs and advertising agencies. I assume the same applies to iPhones, but I don't have any to verify this.  
 As far as possible, use a good browser with extensions that protect your privacy (high marks to ‘cookie autodelete’ for taking care of cookies). This will be enough to block all these malicious trackers, although there are a few caveats.
 
 - It is possible that the regexes can block sub-domains of sites that you like with Pihole, the solution is to set the blocked line to ‘Allow’ to authorise this sub-domain.
@@ -63,7 +64,7 @@ As far as possible, use a good browser with extensions that protect your privacy
 
 ## For Android and IOS devices
 
-Starting with the excellent ublock origin https://ublockorigin.com
+Starting with the excellent ublock origin <https://ublockorigin.com>.
 
 I found a cool Privacy Badger extension <http://privacybadger.org> that doesn't block ads but all cnames and other vicious trackers.
 
@@ -74,12 +75,21 @@ This is very useful if you find that Android regularly disables Adguard. It's an
 It is available for Android, IOS, Linux, Mac, Windows and Android TV and as an extension for browsers.
 
 Adguard works on IOS and MacOs <https://adguard.com/fr/welcome.html>
-.
 
+## For Android TV, Linux, Mac, Windows
 
+Adguard blocks ads, trackers and phishing 
+<https://adguard.com>
 
-___________________________________________________________________________________________________________________________________________
+Pihole remains the ideal solution for protecting all the devices in your home as soon as you can specify a DNS server on your private network. 
 
+Pihole even protects you outside your home if you use a VPN that connects you to your web router.
+\
+\
+\
+\
+\
+\
 If you want to make my work and my investment available to everyone, you can do it in Monero cryptocurrency with this account number:
 
 > 8AwD8HWyj1KSePrnk3VmkLJf3QQYKCHKmHBCZw4YBqEsLQpApAYUjRzQFx8WEQQqz78QXptAJvHQMPB2vp94pxiZTwtput9
