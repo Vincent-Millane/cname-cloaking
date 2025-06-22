@@ -5,6 +5,7 @@
 (\.|^)2cnt\.
 (\.|^)2mdn\.
 (\.|^)2o7\.
+(\.|^)3lift\.
 (\.|^)a\.
 (\.|^)a8\.
 (\.|^)ab1n\.
@@ -104,6 +105,7 @@
 (\.|^)bugsnag\.
 (\.|^)bytedance\.
 (\.|^)byteoversea\.
+(\.|^)casalemedia\.
 (\.|^)chapsvision\.
 (\.|^)chartbeat\.
 (\.|^)claritas\.
@@ -122,6 +124,7 @@
 (\.|^)dataunlocker\.
 (\.|^)dataxu\.
 (\.|^)dbankcloud\.
+(\.|^)debugbear\.
 (\.|^)demdex\.
 (\.|^)didomi\.
 (\.|^)digitas\.
@@ -172,6 +175,7 @@
 (\.|^)googleusercontent\.
 (\.|^)gracenote\.
 (\.|^)greycdn\.
+(\.|^)gstatic\.
 (\.|^)gumgum\.
 (\.|^)hellobike\.
 (\.|^)hicloud\.
@@ -186,6 +190,7 @@
 (\.|^)iadvize\.
 (\.|^)ignitad\.
 (\.|^)imrworldwide\.
+(\.|^)indexww\.
 (\.|^)ingenioustechnologies\.
 (\.|^)inmobi\.
 (\.|^)intelliad\.
@@ -229,12 +234,13 @@
 (\.|^)moPub\.
 (\.|^)moxie\.
 (\.|^)moxieinteractive\.
+(\.|^)mrf\.
 (\.|^)msads\.
 (\.|^)mybuys\.
 (\.|^)nbcuni\.
 (\.|^)nc0\.
-(\.|^)net\.
 (\.|^)netshelter\.
+(\.|^)newsroom\.
 (\.|^)nexus\.
 (\.|^)nexuslb\.
 (\.|^)nielsen\.
@@ -247,11 +253,14 @@
 (\.|^)novit\.
 (\.|^)oghub\.
 (\.|^)omid\.
+(\.|^)omnitagjs\.
 (\.|^)omtrdc\.
 (\.|^)onavo\.
 (\.|^)opencensus\.
 (\.|^)opentelemetry\.
 (\.|^)openx\.
+(\.|^)opti-digital\.
+(\.|^)optidigital\.
 (\.|^)optimizely\.
 (\.|^)ottogroup\.
 (\.|^)outbrain\.
@@ -266,6 +275,7 @@
 (\.|^)pgl\.
 (\.|^)phluant\.
 (\.|^)phoenix\.
+(\.|^).pinenutsdev\.
 (\.|^)pir\.
 (\.|^)piwik\.
 (\.|^)pixel\.
@@ -296,14 +306,16 @@
 (\.|^)repriseagency\.
 (\.|^)retargeter\.
 (\.|^)revcontent\.
+(\.|^)richaudience\.
 (\.|^)rosenfeld\.
 (\.|^)rosenfeldmedia\.
 (\.|^)rubiconproject\.
 (\.|^)sapient\.
 (\.|^)sapientrazorfish\.
 (\.|^)saspreview\.
-(\.|^)Scarborough\.
+(\.|^)scarborough\.
 (\.|^)scorecardresearch\.
+(\.|^)seedtag\.
 (\.|^)segment\.
 (\.|^)sentry\.
 (\.|^)sharethrough\.
@@ -313,6 +325,7 @@
 (\.|^)smaato\.
 (\.|^)smartadserver\.
 (\.|^)smetrics\.
+(\.|^)smilewanted\.
 (\.|^)snowplow\.
 (\.|^)sovrn\.
 (\.|^)spotx\.
@@ -328,6 +341,7 @@
 (\.|^)stats\.
 (\.|^)steelhouse\.
 (\.|^)storetail\.
+(\.|^)suddan\.
 (\.|^)switchboard\.
 (\.|^)swnic\.
 (\.|^)taboola\.
@@ -359,6 +373,8 @@
 (\.|^)verkoop\.
 (\.|^)videology\.
 (\.|^)videologygroup\.
+(\.|^)videostep\.
+(\.|^)viously\.
 (\.|^)vkontakte\.
 (\.|^)vungle\.
 (\.|^)w55c\.
@@ -381,5 +397,6 @@
 (\.|^)yunjidns7\.
 (\.|^)yunjidns8\.
 (\.|^)zedo\.
+(\.|^)zemanta\.
 (\.|^)zenith\.
 (\.|^)zenithoptimedia\.
