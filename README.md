@@ -1,4 +1,4 @@
-# Detailed list of sites using cname-cloacking, tracking or tracking advertising.
+# DNS blocking lists, Pihole, Unbound for cname-cloacking, trackers or intrusive advertising.
 
 
 ## Why ?
