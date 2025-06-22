@@ -3,16 +3,16 @@
 
 ## Why ?
 
-Cname-cloacking is in breach of European law (GDPR) and the law in many countries as they hide the DNS references to the site you are visiting. It is therefore impossible to obtain user consent for these third-party sites and the immediate effect is that you are tracked on all sorts of sites.
+Cname-cloacking is in breach of European law (GDPR) and the law in many countries (California and Australia seem well inspired too) because they hide the DNS references of the site you are visiting. It is therefore impossible to obtain user consent for these third-party sites and the immediate effect is that you are tracked on all sorts of sites.
 
-This is a more pernicious method than third-party cookies because it is tacit and without recourse.
-It's a real goldmine for the companies that use it.
+This is a more pernicious method than third-party cookies because it is tacit and there is no recourse. It's a real goldmine for the companies that use it.
+It's staggering when you consider that some of these companies boast that they can be connected to 600 other trackers.
 
-These companies can keep your data for as long as they like, since it does not officially exist. It could be your whole life.
- 
+They can keep your data for as long as they like, since it does not officially exist. This can mean your whole life, as we have seen with databases revealed that have 2 or 3 times the number of people on earth.
+
 Would you like to have a spy on your shoulder from morning to night, analysing your every move throughout the day, right down to the brand of toilet paper you use?
 
-There is now a very important issue of energy saving and the autonomy of our connected devices. It makes good ecological sense.
+The issue of energy savings and the autonomy of our connected devices is now very important. It's a question of ecological common sense.
 
 
 ## About this data
