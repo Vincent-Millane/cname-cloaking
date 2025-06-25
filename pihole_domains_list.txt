@@ -153,6 +153,7 @@
 (\.|^)fb\.
 (\.|^)fbcdn\.
 (\.|^)fbsbx\.
+(\.|^)feedback\.
 (\.|^)flurry\.
 (\.|^)freewheel\.
 (\.|^)fwmrm\.
@@ -161,6 +162,7 @@
 (\.|^)ggpht\.
 (\.|^)ghochv3eng\.
 (\.|^)giphy\.
+(\.|^)glpals\.
 (\.|^)go\.
 (\.|^)googleads\.
 (\.|^)googleadservices\.
@@ -178,6 +180,7 @@
 (\.|^)gstatic\.
 (\.|^)gumgum\.
 (\.|^)hellobike\.
+(\.|^)herokudns\.
 (\.|^)hicloud\.
 (\.|^)hmsads\.
 (\.|^)hmsanalytics\.
@@ -256,6 +259,7 @@
 (\.|^)omnitagjs\.
 (\.|^)omtrdc\.
 (\.|^)onavo\.
+(\.|^)onesignal\.
 (\.|^)opencensus\.
 (\.|^)opentelemetry\.
 (\.|^)openx\.
@@ -294,6 +298,7 @@
 (\.|^)pubmatic\.
 (\.|^)pubnative\.
 (\.|^)pulsepoint\.
+(\.|^)purchasely\.
 (\.|^)qq\.
 (\.|^)quantcast\.
 (\.|^)quinstreet\.
@@ -319,6 +324,7 @@
 (\.|^)segment\.
 (\.|^)sentry\.
 (\.|^)sharethrough\.
+(\.|^)shimp\.
 (\.|^)simplaex\.
 (\.|^)singular\.
 (\.|^)sitescout\.
