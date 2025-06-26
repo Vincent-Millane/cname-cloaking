@@ -66,6 +66,7 @@
 (\.|^)applvn\.
 (\.|^)appnexus\.
 (\.|^)appsflyer\.
+(\.|^)appsflyersdk\.
 (\.|^)arbitron\.
 (\.|^)asnapieu\.
 (\.|^)ati-host\.
@@ -146,7 +147,9 @@
 (\.|^)ev-navi\.
 (\.|^)exelate\.
 (\.|^)exoclick\.
+(\.|^)exp-tas\.
 (\.|^)extole\.
+(\.|^)ezodn\.
 (\.|^)facil-iti\.
 (\.|^)fathomdns\.
 (\.|^)fathomhq\.
@@ -182,6 +185,7 @@
 (\.|^)hellobike\.
 (\.|^)herokudns\.
 (\.|^)hicloud\.
+(\.|^)hms\.
 (\.|^)hmsads\.
 (\.|^)hmsanalytics\.
 (\.|^)hmsapi\.
@@ -292,8 +296,6 @@
 (\.|^)prebid\.
 (\.|^)presage\.
 (\.|^)prime31\.
-(\.|^)publicis\.
-(\.|^)publicisgroupe\.
 (\.|^)publicismedia\.
 (\.|^)pubmatic\.
 (\.|^)pubnative\.
@@ -345,6 +347,7 @@
 (\.|^)startappservice\.
 (\.|^)statcounter\.
 (\.|^)stats\.
+(\.|^)statsig\.
 (\.|^)steelhouse\.
 (\.|^)storetail\.
 (\.|^)suddan\.
