@@ -86,6 +86,7 @@
 (\.|^)baiduwangpan\.
 (\.|^)baiduyun\.
 (\.|^)baiduyunpan\.
+(\.|^)batch.\.
 (\.|^)bazaarvoice\.
 (\.|^)b-cdn\.
 (\.|^)bdimg\.
@@ -130,6 +131,7 @@
 (\.|^)didomi\.
 (\.|^)digitas\.
 (\.|^)digitaslbi\.
+(\.|^)digiteka\.
 (\.|^)disqus\.
 (\.|^)dmtry\.
 (\.|^)dnsdelegation\.
@@ -137,12 +139,14 @@
 (\.|^)doubleclick\.
 (\.|^)douyin\.
 (\.|^)drawbridge\.
+(\.|^)dwcdn\.
 (\.|^)dynamics\.
 (\.|^)dynatrace\.
 (\.|^)ebis\.
 (\.|^)eloqua\.
 (\.|^)emxdigital\.
 (\.|^)ename\.
+(\.|^)engagereaders\.
 (\.|^)eulerian\.
 (\.|^)ev-navi\.
 (\.|^)exelate\.
@@ -250,7 +254,6 @@
 (\.|^)newsroom\.
 (\.|^)nexus\.
 (\.|^)nexuslb\.
-(\.|^)nielsen\.
 (\.|^)nielsendigital\.
 (\.|^)nielsenmedia\.
 (\.|^)nielsen-netratings\.
@@ -264,6 +267,7 @@
 (\.|^)omtrdc\.
 (\.|^)onavo\.
 (\.|^)onesignal\.
+(\.|^)onetrust\.
 (\.|^)opencensus\.
 (\.|^)opentelemetry\.
 (\.|^)openx\.
@@ -274,6 +278,7 @@
 (\.|^)outbrain\.
 (\.|^)overdue\.
 (\.|^)owneriq\.
+(\.|^)pa-cd.\.
 (\.|^)pangle\.
 (\.|^)pardot\.
 (\.|^)park\.
