@@ -1,6 +1,5 @@
 (\.|^)247realmedia.com\.$
 (\.|^)2mdn.net\.$
-(\.|^)2mdn.net\.$
 (\.|^)2o7.net\.$
 (\.|^)aax.amazon.com\.$
 (\.|^)abtasty.com\.$
@@ -9,9 +8,11 @@
 (\.|^)adblade.com\.$
 (\.|^)adcash.com\.$
 (\.|^)adcolony.com\.$
+(\.|^)adexaminer.nielsen.com\.$
 (\.|^)adexchanger.com\.$
 (\.|^)adform.com\.$
 (\.|^)adgrx.com\.$
+(\.|^)adinsight.nielsen.com\.$
 (\.|^)adition.com\.$
 (\.|^)adj.st\.$
 (\.|^)adjust.com\.$
@@ -61,7 +62,6 @@
 (\.|^)analytics.yahoo.com\.$
 (\.|^)analytics.yandex.com\.$
 (\.|^)aolcdn.com\.$
-(\.|^)aolcdn.com\.$
 (\.|^)api.nielsen.com\.$
 (\.|^)api.tapad.com\.$
 (\.|^)api.yahoo.com\.$
@@ -78,6 +78,8 @@
 (\.|^)ati-host.net\.$
 (\.|^)atlas.cx\.$
 (\.|^)atlas.yahoo.com\.$
+(\.|^)audience.nielsen.com\.$
+(\.|^)audience.tapad.com\.$
 (\.|^)audience.yahoo.com\.$
 (\.|^)audience.yandex.com\.$
 (\.|^)autonavi.com\.$
@@ -138,6 +140,7 @@
 (\.|^)beluga.com\.$
 (\.|^)beluga.io\.$
 (\.|^)beluga.net\.$
+(\.|^)beop.io\.$
 (\.|^)bidswitch.com\.$
 (\.|^)bluekai.com\.$
 (\.|^)branch.io\.$
@@ -176,6 +179,7 @@
 (\.|^)criteo.com\.$
 (\.|^)criteo.net\.$
 (\.|^)crossdevice.tapad.com\.$
+(\.|^)crossplatform.nielsen.com\.$
 (\.|^)cr.yahoo.com\.$
 (\.|^)cs.yahoo.com\.$
 (\.|^)data.nielsen.com\.$
@@ -190,10 +194,12 @@
 (\.|^)dbankcloud.com\.$
 (\.|^)dbankcloud.ru\.$
 (\.|^)dbm.yahoo.com\.$
+(\.|^)dcg.microsoft.com\.$
 (\.|^)demdex.net\.$
 (\.|^)detectportal.firefox.com\.$
 (\.|^)devicegraph.tapad.com\.$
 (\.|^)didomi.io\.$
+(\.|^)digital.nielsen.com\.$
 (\.|^)digitalvoice.nielsen.com\.$
 (\.|^)digitas.com\.$
 (\.|^)digitaslbi.com\.$
@@ -295,6 +301,7 @@
 (\.|^)googleusercontent.\.$
 (\.|^)googleusercontent.com\.$
 (\.|^)gracenote.com\.$
+(\.|^)gstatic.com\.$
 (\.|^)gumgum.com\.$
 (\.|^)hardware.metrics.mozilla.com\.$
 (\.|^)hellobike.com\.$
@@ -384,6 +391,7 @@
 (\.|^)mediaindex.nielsen.com\.$
 (\.|^)mediamath.com\.$
 (\.|^)media.nielsen.com\.$
+(\.|^)mediaresearch.nielsen.com\.$
 (\.|^)media.tapad.com\.$
 (\.|^)media.yahoo.com\.$
 (\.|^)media.yandex.com\.$
@@ -402,6 +410,8 @@
 (\.|^)mobfox.com\.$
 (\.|^)mobileads.google.com\.$
 (\.|^)mobileadtrading.com\.$
+(\.|^)mobile.events.data.microsoft.com\.$
+(\.|^)mobile.pipe.aria.microsoft.com\.$
 (\.|^)moPub.com\.$
 (\.|^)moxie.com\.$
 (\.|^)moxieinteractive.com\.$
@@ -418,25 +428,14 @@
 (\.|^)netshelter.net\.$
 (\.|^)nexus.com\.$
 (\.|^)nexuslb.com\.$
-(\.|^)adexaminer.nielsen.com\.$
-(\.|^)adinsight.nielsen.com\.$
-(\.|^)analytics.nielsen.com\.$
-(\.|^)audience.nielsen.com\.$
 (\.|^)nielsen.com\.$
-(\.|^)crossplatform.nielsen.com\.$
 (\.|^)nielsendigital.com\.$
-(\.|^)digital.nielsen.com\.$
 (\.|^)nielsenmedia.com\.$
-(\.|^)mediaresearch.nielsen.com\.$
 (\.|^)nielsen.net\.$
 (\.|^)nielsen-netratings.com\.$
 (\.|^)nielsenonline.com\.$
-(\.|^)online.nielsen.com\.$
 (\.|^)nielsenratings.com\.$
-(\.|^)ratings.nielsen.com\.$
-(\.|^)scarborough.nielsen.com\.$
 (\.|^)nielsenwire.com\.$
-(\.|^)wire.nielsen.com\.$
 (\.|^)ocr.nielsen.com\.$
 (\.|^)omtrdc.net\.$
 (\.|^)onavo.com\.$
@@ -446,6 +445,7 @@
 (\.|^)one.yahoo.com\.$
 (\.|^)one.yandex.com\.$
 (\.|^)o.nielsen.com\.$
+(\.|^)online.nielsen.com\.$
 (\.|^)opencensus.io\.$
 (\.|^)opentelemetry.io\.$
 (\.|^)openx.com\.$
@@ -488,6 +488,7 @@
 (\.|^)quantcast.net\.$
 (\.|^)quinstreet.com\.$
 (\.|^)rambler.ru\.$
+(\.|^)ratings.nielsen.com\.$
 (\.|^)rayjump.com\.$
 (\.|^)reachlocal.com\.$
 (\.|^)realeyes.com\.$
@@ -510,6 +511,7 @@
 (\.|^)sapientrazorfish.com\.$
 (\.|^)saspreview.com\.$
 (\.|^)Scarborough.com\.$
+(\.|^)scarborough.nielsen.com\.$
 (\.|^)scorecardresearch.com\.$
 (\.|^)searchmarketing.tapad.com\.$
 (\.|^)searchmarketing.yahoo.com\.$
@@ -536,6 +538,7 @@
 (\.|^)sostats.mozilla.com\.$
 (\.|^)sovrn.com\.$
 (\.|^)sp.nielsen.com\.$
+(\.|^)spot.im\.$
 (\.|^)spotxchange.com\.$
 (\.|^)spotx.tv\.$
 (\.|^)sp.tapad.com\.$
@@ -569,7 +572,6 @@
 (\.|^)s.yahoo.com\.$
 (\.|^)s.yandex.com\.$
 (\.|^)taboola.com\.$
-(\.|^)audience.tapad.com\.$
 (\.|^)tapad.ar\.$
 (\.|^)tapad.br\.$
 (\.|^)tapad.ch\.$
@@ -640,6 +642,7 @@
 (\.|^)w55c.net\.$
 (\.|^)webvisor.yandex.com\.$
 (\.|^)widespace.com\.$
+(\.|^)wire.nielsen.com\.$
 (\.|^)w.nielsen.com\.$
 (\.|^)w.tapad.com\.$
 (\.|^)wunderkind.com\.$
@@ -651,7 +654,6 @@
 (\.|^)x.tapad.com\.$
 (\.|^)x.yahoo.com\.$
 (\.|^)x.yandex.com\.$
-(\.|^)yahoo.com\.$
 (\.|^)yahoo.net\.$
 (\.|^)yandex.by\.$
 (\.|^)yandex.co.il\.$
