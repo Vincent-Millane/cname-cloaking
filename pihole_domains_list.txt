@@ -93,6 +93,7 @@
 (\.|^)bdstatic\.
 (\.|^)beluga\.
 (\.|^)benefitsatwork\.
+(\.|^)beop\.
 (\.|^)bidswitch\.
 (\.|^)bluekai\.
 (\.|^)bp01\.
@@ -114,15 +115,12 @@
 (\.|^)clarity\.
 (\.|^)clickaine\.
 (\.|^)cnt\.
-(\.|^)co\.
 (\.|^)commandersact\.
 (\.|^)comscore\.
 (\.|^)cookielaw\.
 (\.|^)crashlytics\.
 (\.|^)criteo\.
 (\.|^)custom\.
-(\.|^)cv\.
-(\.|^)data\.
 (\.|^)dataunlocker\.
 (\.|^)dataxu\.
 (\.|^)dbankcloud\.
