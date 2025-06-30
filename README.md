@@ -80,6 +80,13 @@ This is very useful if you find that Android regularly disables Adguard. It's an
 
 Adguard works on Android and IOS <https://adguard.com/fr/welcome.html>
 
+If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the _Link to Windows_ application on Android.  
+On Android 15, go to Settings > Applications 
+and search for the _Link to Windows_ application.  
+This stops all connections immediately. 
+If you need this app for any interaction with Windows, you can activate it for as long as you need, and deactivate it when you're done.  
+This application contains trackers that do not justify the tsunami of connections. 
+
 
 ## Adguard for Android TV, Linux, Mac, Windows
 
