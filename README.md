@@ -76,7 +76,7 @@ This application contains trackers that do not justify the tsunami of connection
 
 
 ### mobileconfig.sascdn.com ###
-If you have hundreds of connections per day (more than double-click!) to **mobileconfig.sascdn.com**, it's also an aggressive tracker that's linked to the Smart AdServer tracker, which in turn is linked to Akamai (akamai.smartadserver.com). 
+If you have hundreds of connections per day (more than doubleclick!) to **mobileconfig.sascdn.com**, it's also an aggressive tracker that's linked to the Smart AdServer tracker, which in turn is linked to Akamai (akamai.smartadserver.com). 
 These domains are included in my list of domains. 
 
 A search in the trackers tab of the excellent Exodus application (https://exodus-privacy.eu.org/) will show you all the applications containing this bug at the date of their last scan. It is possible to request an online scan of an application. 
