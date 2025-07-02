@@ -1,5 +1,18 @@
 # DNS blocking lists, Pihole, Unbound for cname-cloacking, trackers or intrusive advertising.
 
+**Table of Contents**  
+
+  - [Why ?](#why-)
+  - [Unbound for Linux, Mac and Windows](#unbound-for-linux-mac-and-windows)
+  - [Pihole for Linux, Mac and Windows](#pihole-for-linux-mac-and-windows)
+    - [Tips](#tips)
+  - [About aggressive trackers](#about-aggressive-trackers)
+    - [mobile.pipe.aria.microsoft.com](#mobilepipeariamicrosoftcom)
+    - [mobileconfig.sascdn.com](#mobileconfigsascdncom)
+  - [Extensions for Android and IOS devices](#extensions-for-android-and-ios-devices)
+  - [Adguard for Android TV, Linux, Mac, Windows](#adguard-for-android-tv-linux-mac-windows)
+  - [License](#license)
+
 
 ## Why ?
 
@@ -115,9 +128,6 @@ This application contains trackers that do not justify the tsunami of connection
 Adguard blocks ads, trackers and phishing 
 <https://adguard.com>
 
-\
-\
-\
 \
 \
 \
