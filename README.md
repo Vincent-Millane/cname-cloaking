@@ -130,22 +130,5 @@ I appreciate it.
 ## License
 
 
- This listing in licensed creative commons. You can use it, modify it under the conditions of quoting me and the Creative Commons license.
- 
- <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="https://github.com/Vincent-Millane/cname-cloaking">
-    <span property="dct:title">Vincent Millane</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Sites using cname cloaking to block with unbound</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="FR" about="https://github.com/Vincent-Millane/cname-cloaking">
-  France</span>.
+ <a href="https://github.com/Vincent-Millane/cname-cloaking_and_tracking">cname-cloaking_and_tracking</a> © 2022 by <a href="https://creativecommons.org">Vincent Millane</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
