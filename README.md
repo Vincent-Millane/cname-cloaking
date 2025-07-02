@@ -18,14 +18,6 @@ The issue of energy savings and the autonomy of our connected devices is now ver
 Premature ageing due to over-solicitation of advertising is a major factor. The image of a vehicle in overdrive dragging advertising hoardings seems appropriate to me.
 
 
-## About this data
-
-The data in these lists is public and accessible to anyone capable of using a DNS query tool such as nslookup, dig, drill or whois, etc. and their graphical equivalents.
-
-Some web pages will go from 10 mb to 1 mb! (<https://www.laquadrature.net/2020/10/05/le-deguisement-des-trackers-par-cname/>). 
- 
-The bandwidth saved results in energy savings at all levels of the Internet from servers to hubs, right down to our devices.
-
 
 ## Unbound for Linux, Mac and Windows
 
@@ -66,6 +58,35 @@ Pihole even protects you outside your home if you use a VPN that connects you to
 As far as possible, use a good browser with extensions that protect your privacy (high marks to ‘cookie autodelete’ for taking care of cookies). This will be enough to block all these malicious trackers, although there are a few caveats.
 
 - It is possible that the regexes can block sub-domains of sites that you like with Pihole, the solution is to set the blocked line to ‘Allow’ to authorise this sub-domain.
+
+- About my methodology, I use the same one as firewall administrators use on a computer network. 
+I block anything suspicious, then gradually allow what needs to be allowed to create tailor-made exceptions to the rule.
+You can create exceptions with the “Allow” button in Pihole's query logs item.
+Bear in mind that a viral load can be sent via a zero-click ad.
+
+## About aggressive trackers ##
+
+### mobile.pipe.aria.microsoft.com ###
+If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the Link to Windows application on Android.
+On Android 15, go to Settings > Applications 
+and search for the Link to Windows application. 
+This stops all connections immediately. 
+If you need this app for any interaction with Windows, you can activate it for as long as you need, and deactivate it when you're done. 
+This application contains trackers that do not justify the tsunami of connections. 
+
+
+### mobileconfig.sascdn.com ###
+If you have hundreds of connections per day (more than double-click!) to **mobileconfig.sascdn.com**, it's also an aggressive tracker that's linked to the Smart AdServer tracker, which in turn is linked to Akamai (akamai.smartadserver.com). 
+These domains are included in my list of domains. 
+
+A search in the trackers tab of the excellent Exodus application (https://exodus-privacy.eu.org/) will show you all the applications containing this bug at the date of their last scan. It is possible to request an online scan of an application. 
+
+To put an end to this energy-hungry drain on your smartphone's resources, all you have to do is stop each of the offending applications in turn. 
+On Android, just go to Settings > Applications 
+to stop the flow of connections immediately. 
+You are free to deactivate or not the application in question, depending on your usage.
+In my case, it was an application from an institutional weather service in my country.
+
 
 
 ## Extensions for Android and IOS devices
