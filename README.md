@@ -67,10 +67,10 @@ Bear in mind that a viral load can be sent via a zero-click ad.
 ## About aggressive trackers ##
 
 ### mobile.pipe.aria.microsoft.com ###
-If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the **Link to Windows** application on Android.
+If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the **Link to Windows** application on Android.  
 On Android 15, go to _Settings > Applications_ 
-and search for the **Link to Windows** application. 
-This stops all connections immediately. 
+and search for the **Link to Windows** application.   
+This stops all connections immediately.   
 If you need this app for any interaction with Windows, you can activate it for as long as you need, and deactivate it when you're done. 
 This application contains trackers that do not justify the tsunami of connections. 
 
