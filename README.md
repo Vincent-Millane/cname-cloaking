@@ -55,7 +55,7 @@ Pihole even protects you outside your home if you use a VPN that connects you to
 ### Tips
 
 - In my observations, I have found that it is risky to use Android applications that have hard-coded calls to trackers, bugs and advertising agencies. I assume the same applies to iPhones, but I don't have any to verify this.  
-As far as possible, use a good browser with extensions that protect your privacy (high marks to ‘cookie autodelete’ for taking care of cookies). This will be enough to block all these malicious trackers, although there are a few caveats.
+As far as possible, use a good browser with extensions that protect your privacy (high marks to ‘cookie autodelete’ (https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) for taking care of cookies). This will be enough to block all these malicious trackers, although there are a few caveats.
 
 - It is possible that the regexes can block sub-domains of sites that you like with Pihole, the solution is to set the blocked line to ‘Allow’ to authorise this sub-domain.
 
