@@ -34,13 +34,13 @@ Premature ageing due to over-solicitation of advertising is a major factor. The 
 
 ## Unbound for Linux, Mac and Windows
 
-You can install the excellent DNS software that also caches DNS unbound: https://www.nlnetlabs.nl/projects/unbound/about/
-You can then include the stub-zone list [stub-zone](https://github.com/Vincent-Millane/cname-cloaking/blob/main/stub-zone).
+You can install the excellent DNS software that also caches [DNS unbound:](https://www.nlnetlabs.nl/projects/unbound/about/ "Unbound is a validating, recursive, caching DNS resolver")
+You can then include the stub-zone list [stub-zone](https://github.com/Vincent-Millane/cname-cloaking/blob/main/stub-zone "Stub-zone list for Unbound").
 
 
 ## Pihole for Linux, Mac and Windows
 
-For a family or with the multitude of connected objects, installing Pi-hole is **very effective**: https://pi-hole.net/
+For a family or with the multitude of connected objects, installing [Pi-hole is **very effective**:](https://pi-hole.net "A black hole for Internet advertisements")
 
 These solutions offer huge savings in data and bandwidth, not to mention considerable energy savings.
 
@@ -48,8 +48,8 @@ For example, Pihole blocks 35-60% of advertising and trackers. This translates i
 
 I have created blocking lists for Pi-hole. You can download them to your computer and open them with your favourite editor.
 
-* A list based on strict regexes of domain names [pihole_domains_list.txt](https://github.com/Vincent-Millane/cname-cloaking/blob/main/pihole_domains_list.txt)
-* A list based on regexes that take sub-domains into account [pihole sub-domain list.txt](https://github.com/Vincent-Millane/cname-cloaking/blob/main/pihole%20sub-domain%20list.txt)
+* A list based on strict regexes of domain names [pihole_domains_list.txt](https://github.com/Vincent-Millane/cname-cloaking/blob/main/pihole_domains_list.txt "List of regexes for Pihole domains")
+* A list based on regexes that take sub-domains into account [pihole sub-domain list.txt](https://github.com/Vincent-Millane/cname-cloaking/blob/main/pihole%20sub-domain%20list.txt "List of regexes for Pihole subdomains")
 
 Do not add these lists as text lists because the regexes will probably be treated as text.
 
@@ -68,7 +68,7 @@ Pihole even protects you outside your home if you use a VPN that connects you to
 ### Tips
 
 - In my observations, I have found that it is risky to use Android applications that have hard-coded calls to trackers, bugs and advertising agencies. I assume the same applies to iPhones, but I don't have any to verify this.  
-As far as possible, use a good browser with extensions that protect your privacy (high marks to ‘cookie autodelete’ (https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) for taking care of cookies). This will be enough to block all these malicious trackers, although there are a few caveats.
+As far as possible, use a good browser with extensions that protect your privacy (high marks to [cookie-autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete "Cookie-Autodelete extension for Chrome, Mozilla, Edge") for taking care of cookies). This will be enough to block all these malicious trackers, although there are a few caveats.
 
 - It is possible that the regexes can block sub-domains of sites that you like with Pihole, the solution is to set the blocked line to ‘Allow’ to authorise this sub-domain or to go faster, you can type the following in a console:  
 `sudo pihole --allow-regex '(\.|^)subdomain\.domain\.com$'`
@@ -93,7 +93,7 @@ This application contains trackers that do not justify the tsunami of connection
 If you have hundreds of connections per day (more than doubleclick!) to **mobileconfig.sascdn.com**, it's also an aggressive tracker that's linked to the Smart AdServer tracker, which in turn is linked to Akamai (akamai.smartadserver.com). 
 These domains are included in my list of domains. 
 
-A search in the trackers tab of the excellent Exodus application (https://exodus-privacy.eu.org/) will show you all the applications containing this bug at the date of their last scan. It is possible to request an online scan of an application. 
+A search in the trackers tab of the excellent [Exodus application](https://exodus-privacy.eu.org/ "εxodus - the Privacy Auditing Platform for Android Applications") will show you all the applications containing this bug at the date of their last scan. It is possible to request an online scan of an application. 
 
 To put an end to this energy-hungry drain on your smartphone's resources, all you have to do is stop each of the offending applications in turn.   
 On Android, just go to __Settings > Applications_ 
@@ -103,17 +103,17 @@ In my case, it was an application from an institutional weather service in my co
 
 
 
-## Extensions for Android and IOS devices
+## Extensions for Android and IOS devices 
 
-Starting with the excellent ublock origin <https://ublockorigin.com>.
+Starting with the excellent [ublock origin](https://ublockorigin.com "Free, open-source ad content blocker").
 
-I found a cool Privacy Badger extension <http://privacybadger.org> that doesn't block ads but all cnames and other vicious trackers.
+I found a cool [Privacy Badger extension](http://privacybadger.org "free browser extension made by the leading digital rights nonprofit EFF") that doesn't block ads but all cnames and other vicious trackers.
 
 To block advertising Adguard is stable.
 In the advanced settings, there is a watchdog option to restart Adguard. 
 This is very useful if you find that Android regularly disables Adguard. It's an admission that this software is powerful.
 
-Adguard works on Android and IOS <https://adguard.com/fr/welcome.html>
+[Adguard works on Android and IOS](https://adguard.com/fr/welcome.html "AdGuard Ad Blocker")
 
 If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the _Link to Windows_ application on Android.  
 On Android 15, go to Settings > Applications 
@@ -125,8 +125,7 @@ This application contains trackers that do not justify the tsunami of connection
 
 ## Adguard for Android TV, Linux, Mac, Windows
 
-Adguard blocks ads, trackers and phishing 
-<https://adguard.com>
+Adguard blocks [ads, trackers and phishing](https://adguard.com "AdGuard browser extensions are among the fastest and most lightweight adblock extension").
 
 \
 \
