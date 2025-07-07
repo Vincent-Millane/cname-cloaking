@@ -10,6 +10,7 @@
     - [mobile.pipe.aria.microsoft.com](#mobilepipeariamicrosoftcom)
     - [mobileconfig.sascdn.com](#mobileconfigsascdncom)
   - [Extensions for Android and IOS devices](#extensions-for-android-and-ios-devices)
+  - [Fingerprinting the web](#fingerprinting-the-web)
   - [Adguard for Android TV, Linux, Mac, Windows](#adguard-for-android-tv-linux-mac-windows)
   - [License](#license)
 
@@ -115,19 +116,22 @@ To block advertising Adguard is stable.
 In the advanced settings, there is a watchdog option to restart Adguard. 
 This is very useful if you find that Android regularly disables Adguard. It's an admission that this software is powerful.
 
-[Adguard works on Android and IOS](https://adguard.com/fr/welcome.html "AdGuard Ad Blocker")
+The Adguard browser extension has a number of advantages [Adguard works on Android and IOS](https://adguard.com/fr/welcome.html "AdGuard Ad Blocker").
 
-If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the _Link to Windows_ application on Android.  
-On Android 15, go to Settings > Applications 
-and search for the _Link to Windows_ application.  
-This stops all connections immediately.  
-If you need this app for any interaction with Windows, you can activate it for as long as you need, and deactivate it when you're done.  
-This application contains trackers that do not justify the tsunami of connections. 
+### Fingerprinting the web
+
+With Librewolf, it is becoming commonplace to find that more and more websites are taking a fingerprint of your browser (in anticipation of the blocking of third-party cookies that is becoming more and more common?)
+This is obvious when using Librewolf, which has an activated option
+
+Firefox does not activate it by default, which can be checked on the `about:config` options page where the **privacy.resistFingerprinting** item is set to false, as are others.
+
+To protect against fingerprinting and avoid being tracked from site to site and tracker to tracker, there is the [CanvasBlocker extension](https://github.com/kkapsner/CanvasBlocker "This add-on allows users to prevent websites from using some Javascript APIs to fingerprint them"). This extension is available for the Mozilla family and all Chromes.  
+Simply install it with the default settings. By pinning it to the toolbar, you can see the icon change from green to red, indicating the number of fingerprints blocked.
 
 
 ## Adguard for Android TV, Linux, Mac, Windows
 
-Adguard blocks [ads, trackers and phishing](https://adguard.com "AdGuard browser extensions are among the fastest and most lightweight adblock extension").
+Adguard exists as software that protects Android computers and televisions from [ads, trackers and phishing](https://adguard.com "AdGuard browser extensions are among the fastest and most lightweight adblock extension").
 
 \
 \
