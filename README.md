@@ -82,7 +82,8 @@ Bear in mind that a viral load can be sent via a zero-click ad.
 
 ### mobile.pipe.aria.microsoft.com ###
 If you're experiencing several thousand connection attempts a day to **mobile.pipe.aria.microsoft.com**, which are draining the resources of your installation as well as those of your smartphone, you can stop and then disable the **Link to Windows** application on Android.  
-On Android 15, go to _Settings > Applications_ 
+On Android 15, go to  
+_Settings > Applications_   
 and search for the **Link to Windows** application.   
 This stops all connections immediately.   
 If you need this app for any interaction with Windows, you can activate it for as long as you need, and deactivate it when you're done. 
@@ -96,7 +97,8 @@ These domains are included in my list of domains.
 A search in the trackers tab of the excellent [Exodus application](https://exodus-privacy.eu.org/ "εxodus - the Privacy Auditing Platform for Android Applications") will show you all the applications containing this bug at the date of their last scan. It is possible to request an online scan of an application. 
 
 To put an end to this energy-hungry drain on your smartphone's resources, all you have to do is stop each of the offending applications in turn.   
-On Android, just go to __Settings > Applications_ 
+On Android, just go to  
+__Settings > Applications_   
 to stop the flow of connections immediately. 
 You are free to deactivate or not the application in question, depending on your usage.
 In my case, it was an application from an institutional weather service in my country.
