@@ -10,7 +10,7 @@
     - [mobile.pipe.aria.microsoft.com](#mobilepipeariamicrosoftcom)
     - [mobileconfig.sascdn.com](#mobileconfigsascdncom)
   - [Extensions for Android and IOS devices](#extensions-for-android-and-ios-devices)
-  - [Fingerprinting the web](#fingerprinting-the-web)
+    - [Fingerprinting the web](#fingerprinting-the-web)
   - [Adguard for Android TV, Linux, Mac, Windows](#adguard-for-android-tv-linux-mac-windows)
   - [License](#license)
 
