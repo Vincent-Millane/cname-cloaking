@@ -10,6 +10,7 @@
     - [mobile.pipe.aria.microsoft.com](#mobilepipeariamicrosoftcom)
     - [mobileconfig.sascdn.com](#mobileconfigsascdncom)
   - [Extensions for Android and IOS devices](#extensions-for-android-and-ios-devices)
+    - [Blocking trackers and intrusive advertising](#blocking-trackers-and-intrusive-advertising)
     - [Fingerprinting the web](#fingerprinting-the-web)
   - [Adguard for Android TV, Linux, Mac, Windows](#adguard-for-android-tv-linux-mac-windows)
   - [License](#license)
@@ -107,6 +108,8 @@ In my case, it was an application from an institutional weather service in my co
 
 
 ## Extensions for Android and IOS devices 
+
+### Blocking trackers and intrusive advertising
 
 Starting with the excellent [ublock origin](https://ublockorigin.com "Free, open-source ad content blocker").
 
