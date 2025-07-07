@@ -57,6 +57,7 @@
 (\.|^)amplifyframework.com\.$
 (\.|^)amplitude.com\.$
 (\.|^)analytics.google.com:\.$
+(\.|^)analytics.mobile.azure.microsoft.com\.$
 (\.|^)analytics.nielsen.com\.$
 (\.|^)analytics.tapad.com\.$
 (\.|^)analytics.yahoo.com\.$
@@ -190,6 +191,7 @@
 (\.|^)datax.yandex.com\.$
 (\.|^)data.yahoo.com\.$
 (\.|^)data.yandex.com\.$
+(\.|^)dbankcloud.asia\.$
 (\.|^)dbankcloud.cn\.$
 (\.|^)dbankcloud.com\.$
 (\.|^)dbankcloud.ru\.$
@@ -374,6 +376,7 @@
 (\.|^)ligatus.com\.$
 (\.|^)liveintent.com\.$
 (\.|^)liverail.com\.$
+(\.|^)location.baidu.com\.$
 (\.|^)lockerdome.com\.$
 (\.|^)loopme.com\.$
 (\.|^)maps.nielsen.com\.$
@@ -387,6 +390,7 @@
 (\.|^)mathtag.com\.$
 (\.|^)matomo.org\.$
 (\.|^)mbridge.com\.$
+(\.|^)mc.yandex.ru\.$
 (\.|^)mediaforge.com\.$
 (\.|^)mediaindex.nielsen.com\.$
 (\.|^)mediamath.com\.$
@@ -535,6 +539,7 @@
 (\.|^)smartadserver.com\.$
 (\.|^)s.nielsen.com\.$
 (\.|^)snowplow.io\.$
+(\.|^)soma.smaato.net\.$
 (\.|^)sostats.mozilla.com\.$
 (\.|^)sovrn.com\.$
 (\.|^)sp.nielsen.com\.$
