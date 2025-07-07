@@ -237,7 +237,6 @@
 (\.|^)intercomassets\.
 (\.|^)intercomcdn\.
 (\.|^)invitemedia\.
-(\.|^)ipify\.
 (\.|^)iproxy\.
 (\.|^)ironsource\.
 (\.|^)jubao\.
